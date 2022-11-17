@@ -1,6 +1,6 @@
 ---
 name: Jiahe Wang
-image: images/wang.jpg
+image: images/jiahe.jpg
 description: Research Assistant
 role: undergrad
 links:
