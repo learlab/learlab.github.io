@@ -1,8 +1,8 @@
 - title: CLEAR
   subtitle: The CommonLit EAse of Readability Corpus
   group: datasets
-  image:
-  link:
+  image: images/clear.jpeg
+  link: https://github.com/scrosseye/CLEAR-Corpus
   description: CLEAR provides unique readability scores for ~5,000 excerpts leveled for 3rd-12th grade readers along with information about the excerpts’ year of publishing, genre, and other meta-data. 
   tags:
     - corpus
@@ -10,7 +10,7 @@
 - title: PERSUADE
   subtitle: Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements corpus
   group: datasets
-  image:
+  image: images/PERSUADE.png
   link:
   description: PERSUADE is an open-source corpus comprising over 25,000 essays annotated for argumentative and discourse elements and relationships between these elements. The corpus includes holistic quality scores for each essay and for each argumentative and discourse element. Lastly, PERSUADE includes detailed demographic information for the writers.
   tags:
@@ -19,7 +19,7 @@
 - title: ELLIPSE
   subtitle: English Language Learner Insight, Proficiency and Skills Evaluation Corpus
   group: datasets
-  image:
+  image: images/ELLIPSE.png
   link:
   description: ELLIPSE comprises ~7,000 essays written by English Language Learners (ELL). The essays were written on 29 different independent prompts that required no background knowledge on the part of the writer. Individual difference information is made available for each essay, including economic status, gender, grade level (8-12), and race/ethnicity. Each essay was scored by two normed human raters for English language proficiency including an overall score of English proficiency and analytic scores for cohesion, syntax, vocabulary, phraseology, grammar, and conventions. 
   tags:
@@ -38,7 +38,7 @@
 - title: CommonLit Readability Prize
   subtitle: Creating a Readability Algorithm
   group: competitions
-  image: 
+  image: images/commonlit.png
   link: https://www.kaggle.com/c/commonlitreadabilityprize
   description: 
   tags:
@@ -48,7 +48,7 @@
 - title: Feedback Prize
   subtitle: Evaluating Student Writing
   group: competitions
-  image: 
+  image: images/evalue-essay.jpeg
   link: https://www.kaggle.com/competitions/feedback-prize-2021
   description: 
   tags:
@@ -58,7 +58,7 @@
 - title: Feedback Prize
   subtitle: Predicting Effective Arguments
   group: competitions
-  image: 
+  image: images/feedback2.png
   link: https://www.kaggle.com/competitions/feedback-prize-effectiveness/discussion
   description: 
   tags:
@@ -68,7 +68,7 @@
 - title: Feedback Prize
   subtitle: English Language Learning
   group: competitions
-  image: 
+  image: images/feedback3.png
   link: https://www.kaggle.com/competitions/feedback-prize-english-language-learning/
 
   description: 

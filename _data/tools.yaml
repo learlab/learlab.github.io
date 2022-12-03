@@ -30,7 +30,7 @@
 
 - title: TAACO
   group: salat
-  image: images/taales.png
+  image: images/taaco.png
   link: https://www.linguisticanalysistools.org/
   description: Text Cohesion
   tags:
@@ -39,7 +39,7 @@
 
 - title: TAASSC
   group: salat
-  image: images/taales.png
+  image: images/taassc.png
   link: https://www.linguisticanalysistools.org/
   description: Syntactic Complexity
   tags:
@@ -48,7 +48,7 @@
 
 - title: TAALED
   group: salat
-  image: images/taales.png
+  image: images/taaled.png
   link: https://www.linguisticanalysistools.org/
   description: Lexical Diversity
   tags:
@@ -57,7 +57,7 @@
 
 - title: SEANCE
   group: salat
-  image: images/taales.png
+  image: images/seance.png
   link: https://www.linguisticanalysistools.org/
   description: Sentiment Analysis
   tags:
@@ -66,7 +66,7 @@
 
 - title: ARTE
   group: salat
-  image: images/taales.png
+  image: images/arte.jpg
   link: https://www.linguisticanalysistools.org/
   description: Text Readability
   tags:
@@ -75,7 +75,7 @@
 
 - title: GAMET
   group: salat
-  image: images/taales.png
+  image: images/gamet.jpeg
   link: https://www.linguisticanalysistools.org/
   description: Grammatical Complexity
   tags:

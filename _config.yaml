@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: LEAR Lab
 description: Language and Educational Analytics Research Lab Official Website
-logo: images/logo.svg
+logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
