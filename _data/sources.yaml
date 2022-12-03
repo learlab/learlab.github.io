@@ -16,3 +16,34 @@
       link: https://zenodo.org/record/7262351
     - type: source
       link: https://github.com/aialoe/de-identification
+
+
+- id: doi:10.3758/s13428-022-01797-5
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-022-01797-5
+
+- id: doi:10.1016/j.asw.2022.100667
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293522X00044-cov200h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/pii/S1075293522000630
+
+- id: doi:10.3758/s13428-022-01802-x
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-022-01802-x
+
+- id: doi:10.1075/jsls.22006.cro
+  image: https://www.jbe-platform.com/images/covers/25423843.png
+  extra-links:
+    - type: journal
+      link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+
+- id: doi:10.1007/s11145-021-10221-x
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11145-021-10221-x
