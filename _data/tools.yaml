@@ -30,7 +30,7 @@
 
 - title: TAACO
   group: salat
-  image: images/taaco.png
+  image: images/taaco2.png
   link: https://www.linguisticanalysistools.org/
   description: Text Cohesion
   tags:
@@ -66,7 +66,7 @@
 
 - title: ARTE
   group: salat
-  image: images/arte.jpg
+  image: images/arte.jpeg
   link: https://www.linguisticanalysistools.org/
   description: Text Readability
   tags:

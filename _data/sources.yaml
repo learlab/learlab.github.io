@@ -1,5 +1,5 @@
 - id: doi:10.1075/jsls.22006.cro
-  image: https://benjamins.com/covers/3d_flat_225x300/jsls.5.2.pb.png
+  image: https://www.jbe-platform.com/images/covers/25423843.png
   repo: langdonholmes/lexical_analysis
   extra-links:
     - type: journal
@@ -36,14 +36,27 @@
     - type: journal
       link: https://link.springer.com/article/10.3758/s13428-022-01802-x
 
-- id: doi:10.1075/jsls.22006.cro
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  extra-links:
-    - type: journal
-      link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
 
 - id: doi:10.1007/s11145-021-10221-x
   image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+
+- id: doi:10.1177/02655322211060076
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/abs/10.1177/02655322211060076
+
+- id: doi:10.1007/s11145-021-10229-3
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11145-021-10229-3
+
+- id: doi:10.1126/sciadv.abj2836
+  image: https://www.science.org/cms/asset/27a4c474-de32-4277-a1c9-5afb8f1cbc1f/sciadv.2021.7.issue-51.largecover.jpg
+  extra-links:
+    - type: journal
+      link: https://www.science.org/doi/full/10.1126/sciadv.abj2836
