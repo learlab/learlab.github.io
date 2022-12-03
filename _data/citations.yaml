@@ -10,14 +10,14 @@
   publisher: Journal of Second Language Studies
   date: '2022-09-20'
   link: https://doi.org/gq3674
-  image: https://benjamins.com/covers/3d_flat_225x300/jsls.5.2.pb.png
+  image: https://www.jbe-platform.com/images/covers/25423843.png
   repo: langdonholmes/lexical_analysis
   extra-links:
   - type: journal
     link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
   - type: source
     link: https://github.com/langdonholmes/lexical_analysis
-  _cache: e59ddfcc06cdf53d09639431817e2f27ad2c3d6d1024f7e81e9ae2e475c2fb8e
+  _cache: ca98b01b6a070431c9baef8e3d2f6cadb85b1bd0dc50ebb8546892c3345ac298
 - id: doi:10.1007/978-981-19-5240-1_12
   title: De-Identification of Student Writing in Technologically Mediated Educational
     Settings
@@ -92,20 +92,6 @@
   - type: journal
     link: https://link.springer.com/article/10.3758/s13428-022-01802-x
   _cache: aae71c2b8ad32536cd41951ced50022b40cdbe1e1ba0cf75e3927d965fb152d2
-- id: doi:10.1075/jsls.22006.cro
-  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
-    \ language processing techniques"
-  authors:
-  - Scott Crossley
-  - Langdon Holmes
-  publisher: Journal of Second Language Studies
-  date: '2022-09-20'
-  link: https://doi.org/gq3674
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  extra-links:
-  - type: journal
-    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  _cache: c23883bbd9c1e76a7c73f8d11b8bbe67bfe90bd110cf0008315def08d0b07060
 - id: doi:10.1007/s11145-021-10221-x
   title: 'Source inclusion in synthesis writing: an NLP approach to understanding
     argumentation, sourcing, and essay quality'
@@ -122,3 +108,52 @@
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10221-x
   _cache: 185e648b0d3e2043e56ed4b6c72aeac4181f70c43b7c6f68a6d01c3040e80354
+- id: doi:10.1177/02655322211060076
+  title: Roles of working memory, syllogistic inferencing ability, and linguistic
+    knowledge on second language listening comprehension for passages of different
+    lengths
+  authors:
+  - Minkyung Kim
+  - Yunjung Nam
+  - Scott A. Crossley
+  publisher: Language Testing
+  date: '2022-01-29'
+  link: https://doi.org/grc7vc
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
+  extra-links:
+  - type: journal
+    link: https://journals.sagepub.com/doi/abs/10.1177/02655322211060076
+  _cache: 55c5f86af92d9fb34b73ea524c68e6ad0ccd649abdc9a8472b85ced96fefa592
+- id: doi:10.1007/s11145-021-10229-3
+  title: Cohesive devices as an indicator of L2 students' writing fluency
+  authors:
+  - Yu Tian
+  - Minkyung Kim
+  - Scott Crossley
+  - Qian Wan
+  publisher: Reading and Writing
+  date: '2021-11-27'
+  link: https://doi.org/grc7vd
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10229-3
+  _cache: d10f99c77305e49e177ede4d005296d54907180fc36b6d8618f565fec7ffa538
+- id: doi:10.1126/sciadv.abj2836
+  title: "Precision communication: Physicians\u2019 linguistic adaptation to patients\u2019\
+    \ health literacy"
+  authors:
+  - Dean Schillinger
+  - Nicholas D. Duran
+  - Danielle S. McNamara
+  - Scott A. Crossley
+  - Renu Balyan
+  - Andrew J. Karter
+  publisher: Science Advances
+  date: '2021-12-17'
+  link: https://doi.org/gnv6kj
+  image: https://www.science.org/cms/asset/27a4c474-de32-4277-a1c9-5afb8f1cbc1f/sciadv.2021.7.issue-51.largecover.jpg
+  extra-links:
+  - type: journal
+    link: https://www.science.org/doi/full/10.1126/sciadv.abj2836
+  _cache: b04fa088411b6e0b393a325007de4a3cfb381c52f64154d0f46a6355e9173cb9
