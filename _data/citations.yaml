@@ -40,3 +40,85 @@
   - type: source
     link: https://github.com/aialoe/de-identification
   _cache: 34137f988451348b9c4eaf21c765c88db76202e4e0954e017544f6acc162dfc8
+- id: doi:10.3758/s13428-022-01797-5
+  title: 'Age of Exposure 2.0: Estimating word complexity using iterative models of
+    word embeddings'
+  authors:
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Micah Watanabe
+  - Scott Andrew Crossley
+  - Danielle S. McNamara
+  publisher: Behavior Research Methods
+  date: '2022-02-15'
+  link: https://doi.org/grc7s2
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-022-01797-5
+  _cache: 74c92da4bb205deb59ca902a11ee7e486c9a819d35b18c763a580c54c80a797c
+- id: doi:10.1016/j.asw.2022.100667
+  title: The persuasive essays for rating, selecting, and understanding argumentative
+    and discourse elements (PERSUADE) corpus 1.0
+  authors:
+  - Scott A. Crossley
+  - Perpetual Baffour
+  - Yu Tian
+  - Aigner Picou
+  - Meg Benner
+  - Ulrich Boser
+  publisher: Assessing Writing
+  date: '2022-10-01'
+  link: https://doi.org/grc7s3
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293522X00044-cov200h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293522000630
+  _cache: 86fe2a404f58c79e83b56316984d2fbcb44ee40d6d3310502c496030133f7223
+- id: doi:10.3758/s13428-022-01802-x
+  title: A large-scaled corpus for assessing text readability
+  authors:
+  - Scott Crossley
+  - Aron Heintz
+  - Joon Suh Choi
+  - Jordan Batchelor
+  - Mehrnoush Karimi
+  - Agnes Malatinszky
+  publisher: Behavior Research Methods
+  date: '2022-03-16'
+  link: https://doi.org/grc7s4
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-022-01802-x
+  _cache: aae71c2b8ad32536cd41951ced50022b40cdbe1e1ba0cf75e3927d965fb152d2
+- id: doi:10.1075/jsls.22006.cro
+  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
+    \ language processing techniques"
+  authors:
+  - Scott Crossley
+  - Langdon Holmes
+  publisher: Journal of Second Language Studies
+  date: '2022-09-20'
+  link: https://doi.org/gq3674
+  image: https://www.jbe-platform.com/images/covers/25423843.png
+  extra-links:
+  - type: journal
+    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+  _cache: c23883bbd9c1e76a7c73f8d11b8bbe67bfe90bd110cf0008315def08d0b07060
+- id: doi:10.1007/s11145-021-10221-x
+  title: 'Source inclusion in synthesis writing: an NLP approach to understanding
+    argumentation, sourcing, and essay quality'
+  authors:
+  - Scott Crossley
+  - Qian Wan
+  - Laura Allen
+  - Danielle McNamara
+  publisher: Reading and Writing
+  date: '2021-11-11'
+  link: https://doi.org/grc7s5
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+  _cache: 185e648b0d3e2043e56ed4b6c72aeac4181f70c43b7c6f68a6d01c3040e80354
