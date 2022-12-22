@@ -1,6 +1,6 @@
 ---
 name: Scott Crossley
-image: images/scott.jpg
+image: images/scott2.jpg
 description: Principal Investigator
 role: pi
 aliases:

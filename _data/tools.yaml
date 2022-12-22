@@ -22,7 +22,7 @@
 - title: TAALES
   group: salat
   image: images/taales.png
-  link: https://www.linguisticanalysistools.org/
+  link: https://www.linguisticanalysistools.org/taales.html
   description: Lexical sophistication
   tags:
     - software
@@ -31,7 +31,7 @@
 - title: TAACO
   group: salat
   image: images/taaco2.png
-  link: https://www.linguisticanalysistools.org/
+  link: https://www.linguisticanalysistools.org/taaco.html
   description: Text Cohesion
   tags:
     - software
@@ -40,7 +40,7 @@
 - title: TAASSC
   group: salat
   image: images/taassc.png
-  link: https://www.linguisticanalysistools.org/
+  link: https://www.linguisticanalysistools.org/taassc.html
   description: Syntactic Complexity
   tags:
     - software
@@ -49,7 +49,7 @@
 - title: TAALED
   group: salat
   image: images/taaled.png
-  link: https://www.linguisticanalysistools.org/
+  link: https://www.linguisticanalysistools.org/taaled.html
   description: Lexical Diversity
   tags:
     - software
@@ -58,7 +58,7 @@
 - title: SEANCE
   group: salat
   image: images/seance.png
-  link: https://www.linguisticanalysistools.org/
+  link: https://www.linguisticanalysistools.org/seance.html
   description: Sentiment Analysis
   tags:
     - software
@@ -66,8 +66,8 @@
 
 - title: ARTE
   group: salat
-  image: images/arte.jpeg
-  link: https://www.linguisticanalysistools.org/
+  image: https://www.linguisticanalysistools.org/uploads/1/2/0/0/120067992/published/arte-logo.jpg?1613567920
+  link: https://www.linguisticanalysistools.org/arte.html
   description: Text Readability
   tags:
     - software
@@ -76,7 +76,7 @@
 - title: GAMET
   group: salat
   image: images/gamet.jpeg
-  link: https://www.linguisticanalysistools.org/
+  link: https://www.linguisticanalysistools.org/gamet.html
   description: Grammatical Complexity
   tags:
     - software
