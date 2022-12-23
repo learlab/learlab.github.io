@@ -53,7 +53,16 @@ We would like a post doc. If you have experience in the following areas, check b
 - Natural Language Processing
 - Education Research
 
+### Undergraduate 
+
+We are currently hiring undergraduate students who are interested in natural language processing (NLP) techniques, the application of computational tools, and machine learning algorithms. 
+
+
+Feel free to reach out with any questions!
+
 <!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
+{% include link.html type="email" icon="" text="Join our team" tooltip="" link="scott.crossley@vanderbilt.edu" style="button" %}
+
 {:.center}
 
 {% include section.html %}
@@ -74,5 +83,26 @@ Our work is made possible by funding from several organizations.
   image2="images/learning-agency.png"
   link2="https://www.the-learning-agency.com/"
   tooltip2="The Learning Agency"
+
+  image3="images/learning-agency.png"
+  link3="https://ies.ed.gov/"
+  tooltip3="Institute for Education Sciences"
+
+  image4="images/learning-agency.png"
+  link4="https://www.gatesfoundation.org/"
+  tooltip4="Bill & Melinda Gates Foundation"
+
+  image5="images/learning-agency.png"
+  link5="https://www.waltonfamilyfoundation.org/"
+  tooltip5="Walton Family Foundation"
+
+  image6="images/learning-agency.png"
+  link6="https://chanzuckerberg.com/"
+  tooltip6="Chan Zuckerberg Initiative"
+
+  image7="images/learning-agency.png"
+  link7="https://www.nih.gov/"
+  tooltip7="National Institutes of Health"
   
+
 %}

@@ -60,3 +60,369 @@
   extra-links:
     - type: journal
       link: https://www.science.org/doi/full/10.1126/sciadv.abj2836
+
+- id: doi:10.1177/00222194221081473
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ldxa/2023/ldxa_56_1/ldxa_56_1/20221209/ldxa_56_1.largecover.png
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/abs/10.1177/00222194221081473
+
+- id: doi:10.37514/JWA-J.2022.6.1.04
+  image: https://wac.colostate.edu/docs/jwa/cover-current.jpg
+  extra-links:
+    - type: journal
+      link: https://wac.colostate.edu/docs/jwa/vol6/crossley-kim.pdf
+
+- id: doi:10.17239/jowr-2022.14.01.01
+  image: https://oaji.net/images/journals/small/2016/file1453363070.jpg
+  extra-links:
+    - type: journal
+      link: https://www.jowr.org/index.php/jowr/article/view/831
+
+- id: doi:10.1080/13670050.2020.1838434
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/rbeb20.v025.i06
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/13670050.2020.1838434?journalCode=rbeb20
+
+- id: doi:10.1037/tmb0000063
+  image: https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImJvbW93ZDM2LzMxNjA5ODY0MjAyMzY0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19
+  extra-links:
+    - type: journal
+      link: https://tmb.apaopen.org/pub/kfxfdnk5/release/1
+
+- id: doi:10.1016/j.jbi.2020.103658
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1532046420X00128-cov200h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/pii/S1532046420302860
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8186847/
+
+- id: doi:10.1093/jamia/ocaa281
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/28/6/1/m_jaminfo_28_6cover.jpeg?Expires=1674788390&Signature=mVWCrJ8UAgCEVaDfJX0M5XqT6Qfy6cpjueyZvXDxKHr~~HQ75zwAWlfpKZV9zs4ajSZbMFku7Ca2OOin5vL5t-7O2YaWhrQO2h6HmyDM6Y3F32~Ff1RP1PpFoeDEqT7EIiijM2UfWmOVyDWi0RY-wQvuOPopLB0qXiJNYILZIXgeH-CKiVt2qA9sGbUi4aCnSWqLkM6Ms9tIa~X89AmKulJ~82XSqTkExKxPuU4yrpREc2SrJEWQpHSdIPDVumhVPv2yMiOS47Y6SdJelJdaLfqA-oWZJwg7o8bzS4OAauVfgvuM-kcqh-uKgOzuAWWO3Hc0mx~CGBpGP6W~TsjeqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: journal
+      link: https://academic.oup.com/jamia/article-abstract/28/6/1252/6000399?redirectedFrom=fulltext&login=false#no-access-message
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8200267/
+
+- id: doi:10.1080/10410236.2020.1731781
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hhth20/2023/hhth20.v038.i01/hhth20.v038.i01/20221212-01/hhth20.v038.i01.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483831/
+
+- id: doi:10.1016/j.jslw.2021.100824
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374321X00045-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/pii/S1060374321000394
+
+- id: doi:10.1080/15434303.2020.1844205
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hlaq20.v018.i02
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1844205
+
+- id: doi:10.1017/S0272263120000546
+  image: https://static.cambridge.org/covers/SLA_0_0_0/studies-in-second-language-acquisition.jpg
+  extra-links:
+    - type: journal
+      link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/measuring-longitudinal-writing-development-using-indices-of-syntactic-complexity-and-sophistication/23CFFB4579D110AB0ED96C74990989C3
+    - type: preprint
+      link: https://pure.rug.nl/ws/portalfiles/portal/187076402/measuring_longitudinal_writing_development_using_indices_of_syntactic_complexity_and_sophistication.pdf
+
+- id: doi:10.1111/ijal.12358
+  image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/ijal.12358
+
+- id: doi:10.1353/hpu.2021.0067
+  image: https://muse.jhu.edu/issue/44396/image/front_cover.jpg?format=180
+  extra-links:
+    - type: journal
+      link: https://muse.jhu.edu/article/789674
+
+- id: doi:10.1111/1475-6773.13560
+  image: https://onlinelibrary.wiley.com/cms/asset/9b1e3ed1-3b83-463e-8ea4-d7a94b7807ee/hesr.v56.1.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/full/10.1111/1475-6773.13560
+
+- id: doi:10.17239/jowr-2020.11.03.01
+  image: https://oaji.net/images/journals/small/2016/file1453363070.jpg
+  extra-links:
+    - type: journal
+      link: https://www.jowr.org/index.php/jowr/article/view/582
+
+- id: doi:10.1080/17538068.2020.1822726
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/ycih20.v013.i04
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/17538068.2020.1822726
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8300594/
+
+- id: doi:10.1075/lab.17028.cro
+  image: https://www.jbe-platform.com/images/covers/18799272.png
+  extra-links:
+    - type: journal
+      link: https://www.jbe-platform.com/content/journals/10.1075/lab.17028.cro
+    - type: preprint
+      link: https://d1wqtxts1xzle7.cloudfront.net/55948301/lab.17028.cro-libre.pdf?1520020315=&response-content-disposition=inline%3B+filename%3DThe_action_dynamics_of_native_and_non_na.pdf&Expires=1671770128&Signature=Mb-GPpRcOk8c8C21Q9kRr4~fdkTiwZnJ7tsf2W9SXZFHQWtEoggp7TBsbFWrQOVDvpUbx8rzQaLh4vEkhXRi2s2en1YcT~oMsbO73Ralp4c19FUjMo0V714kVZ8iXTpCv1PmAa-HJkT1wUcyKCdVBGal8PrAL0CGi155r0kMLAY9UgTlQMNL8ZSSPnZwzl78hDorCPCeAmpXzZAqmzeIMevrZOnuf7SOuZx5WJ-VTAQjtRX3HmpMWpb-pyYKhOOIiUG806jQ8vgBWqz8Vrqun5ZSc8G0D1JxAqPETNjkZ8tvbhPf704u4YTmkhIIby8plj01z2~Ks93uhljObFYM1w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+- id: doi:10.18608/jla.2020.71.3
+  image: https://www.learning-analytics.info/public/journals/42/cover_issue_478_en_US.jpg
+  extra-links:
+    - type: journal
+      link: https://www.learning-analytics.info/index.php/JLA/article/view/6585
+
+
+- id: doi:10.1080/15434303.2020.1775234
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hlaq20.v017.i04
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1775234
+
+- id: doi:10.1093/applin/amy056
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/applij/Issue/41/2/2/m_applij_41_2cover.jpeg?Expires=1674791208&Signature=ZgTT5V9FMGKMHnhFuKhLSPra8voBle4wfrm3vsm37K0mTk5S7c6vXmkBgHnqnKpJcJLC00xIoH3NNl9eTqXoevjiULps6dg7uMIq2YCGncW7vjsyxNALuVkDuRNgOd8z~3QWMz2ASOdFxTE8xwVMT9foF8bj3qqQJ0IukwwW7tWceLsg7Pc7RfrIZQCUpaBBa3IXLqD0yNIzAWstaZqdSpL6xo5TiXY212aLtRdm1-AZCeUxcozIRjRdcbgqSCs4gZfAB7tyOCkzX5dPnLKmJt5-OAoY-ZbXV8WeYsKtl8PXBN0OtHuewdVIf5oeb2KobwjJrPHKIVuT18NjXxVrDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: journal
+      link: https://academic.oup.com/applij/article-abstract/41/2/280/5259044?redirectedFrom=fulltext#no-access-message
+
+- id: doi:10.1016/j.jslw.2020.100730
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374320X00038-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/abs/pii/S1060374320300217
+
+- id: doi:10.1075/ml.19028.ska
+  image: https://www.jbe-platform.com/images/covers/18711375.png
+  extra-links:
+    - type: journal
+      link: https://www.jbe-platform.com/content/journals/10.1075/ml.19028.ska
+    - type: preprint
+      link: https://osf.io/cpdjs
+
+- id: doi:10.5210/dad.2020.205
+  image: https://journals.uic.edu/ojs/public/journals/51/pageHeaderLogoImage_en_US.png
+  extra-links:
+    - type: journal
+      link: https://journals.uic.edu/ojs/index.php/dad/article/view/11387
+
+
+- id: doi:10.1075/ijlcr.20008.smi
+  image: https://www.jbe-platform.com/images/covers/22151486.png
+  extra-links:
+    - type: journal
+      link: https://www.jbe-platform.com/content/journals/10.1075/ijlcr.20008.smi
+    - type: preprint
+      link: https://www.researchgate.net/profile/George-Smith-8/publication/347463700_Word_lists_and_the_role_of_academic_vocabulary_use_in_high_stakes_speaking_assessments/links/5fdcd15b92851c13fe9c261e/Word-lists-and-the-role-of-academic-vocabulary-use-in-high-stakes-speaking-assessments.pdf
+
+- id: doi:10.1371/journal.pone.0212488
+  image: https://journals.plos.org/resource/img/logo-plos.png
+  extra-links:
+    - type: journal
+      link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212488
+
+- id: doi:10.1093/applin/amx005
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/applij/Issue/40/1/1/m_applij_40_1cover.jpeg?Expires=1674792821&Signature=YfbB3DctwlVH7~Az~KD97JCqwSGbK8euqdqNLytkCA4lSHyanVlb4r7q7OPLwqwYStYVXHdqAtaqoeB-M24xMPxPB2hnEFic17OJL1JF8-e-j25XFn1-stM~NOq9LlThheP1KjqMmDGmyi8~AAIjYWUiGf~SbPXOn5w6UryyAVG1wks1En-m5QS-Jnt7wPlCcqwrImPWlTI6TRwaF8zZctSWZcDYJyUMbnsxIEkHNo7ynF1Bnj7ohrzHNvhHdLvPK6dK4s9Z8AJpubh~SRSBnaTyW9N0xW8pfs6Q53BILu~C-z8LLla-41Xulw76h2bjAh7-KYPLMJrq20Gphw7okw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+    - type: journal
+      link: https://academic.oup.com/applij/article-abstract/40/1/22/3067193
+
+- id: doi:10.1017/S0272263119000019
+  image: https://static.cambridge.org/covers/SLA_0_0_0/studies-in-second-language-acquisition.jpg
+  extra-links:
+    - type: journal
+      link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/using-lexical-features-to-investigate-second-language-lexical-decision-performance/1EE0B34CD6220D8AB3FBB2730A786D36
+
+- id: doi:10.17239/jowr-2019.11.02.01
+  image: https://oaji.net/images/journals/small/2016/file1453363070.jpg
+  extra-links:
+    - type: journal
+      link: https://www.jowr.org/index.php/jowr/article/view/591
+
+- id: doi:10.1080/15434303.2019.1628239
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hlaq20.v016.i02
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2019.1628239
+
+- id: doi:10.3758/s13428-018-1142-4
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-018-1142-4
+
+- id: doi:10.1017/S0261444817000362
+  image: https://static.cambridge.org/covers/LTA_0_0_0/language-teaching.jpg
+  extra-links:
+    - type: journal
+      link: https://www.cambridge.org/core/journals/language-teaching/article/abs/examining-lexical-development-in-second-language-learners-an-approximate-replication-of-salsbury-crossley-mcnamara-2011/C60453A9438CAED92D734D7FEE79FC81
+
+- id: doi:10.1177/1367006917728396
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ijba/2022/ijba_26_6/ijba_26_6/20221105/ijba_26_6.largecover.png
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/10.1177/1367006917728396
+    - type: preprint
+      link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/319488503_Making_sense_of_polysemy_relations_in_first_and_second_language_speakers_of_English/links/5a0391abaca272b06ca3d10e/Making-sense-of-polysemy-relations-in-first-and-second-language-speakers-of-English.pdf
+
+- id: doi:10.1111/1467-9817.12283
+  image: https://onlinelibrary.wiley.com/cms/asset/091a6415-4a04-4ed5-89f1-711dfab1da8a/jrir.v42.3-4.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.12283
+    - type: preprint
+      link: https://www.researchgate.net/profile/Mihai-Dascalu-2/publication/335801547_Moving_beyond_classic_readability_formulas_new_methods_and_new_models/links/5e4cfbe7299bf1cdb935864d/Moving-beyond-classic-readability-formulas-new-methods-and-new-models.pdf
+
+- id: doi:
+  image: https://static.cambridge.org/covers/SLA_0_0_0/studies-in-second-language-acquisition.jpg
+  extra-links:
+    - type: journal
+      link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/absolute-frequency-effects-in-second-language-lexical-acquisition/B29E38545DA6B892B07010FD6F026DB4
+
+- id: doi:10.1016/j.system.2018.12.001
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0346251X18X00086-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/abs/pii/S0346251X1830201X
+
+- id: doi:10.18823/asiatefl.2019.16.1.3.37
+  image: http://www.asiatefl.org/img/the_journal_of_asiatefl_cover_150.gif
+  extra-links:
+    - type: journal
+      link: http://journal.asiatefl.org/main/main.php?inx_journals=59&inx_contents=656&main=1&sub=3&submode=3&PageMode=JournalView&s_title=Predicting_Second_Language_Writing_Proficiency_in_Learner_Texts_Using_Computational_Tools
+
+- id: doi:10.1111/jcal.12315
+  image: https://onlinelibrary.wiley.com/cms/asset/b0e815c1-30fe-42c9-a4f0-a6f1cc6cf3f4/jcal.v35.1.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/jcal.12315
+    - type: preprint
+      link: https://dev.stamper.org/publications/JCAL19_Liu.pdf
+
+- id: doi:10.1007/s11606-019-05259-1
+  image: https://media.springernature.com/w138/springer-static/cover/journal/11606/34/8.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11606-019-05259-1
+
+- id: doi:10.1080/0163853X.2017.1368332
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hdsp20.v056.i01
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/0163853X.2017.1368332?journalCode=hdsp20
+    - type: preprint
+      link: https://www.stephenskalicky.com/satirical_headline_processing.pdf
+
+- id: doi:10.29140/lea.v2n3.151
+  image: https://www.castledown.com/img/journal_covers/LEA_Cover.png
+  extra-links:
+    - type: journal
+      link: https://www.castledown.com/journals/lea/article/?reference=151
+
+- id: doi:10.1017/S0261444818000253
+  image: https://static.cambridge.org/covers/LTA_0_0_0/language-teaching.jpg
+  extra-links:
+    - type: journal
+      link:https://www.cambridge.org/core/journals/language-teaching/article/abs/technological-disruption-in-foreign-language-teaching-the-rise-of-simultaneous-machine-translation/A31BA5AB690B370B01535EF2D1AFAE42
+
+- id: doi:10.1016/j.asw.2018.06.004
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293518X0004X-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830059X
+
+- id: doi:10.1111/modl.12494
+  image: https://onlinelibrary.wiley.com/cms/asset/2137e0ba-7e13-463e-9d80-2a140de5967b/modl.v102.3.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12494
+
+- id: doi:10.1515/iral-2017-0089
+  image: https://www.degruyter.com/document/cover/journal_key/IRAL/product_pages
+  extra-links:
+    - type: journal
+      link: https://www.degruyter.com/document/doi/10.1515/iral-2017-0089/html
+
+- id: doi:10.1016/j.asw.2018.03.002
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293518X00026-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830028X
+
+- id: doi:10.1111/modl.12447
+  image: https://onlinelibrary.wiley.com/cms/asset/9aba897f-5e0f-47a6-9101-ce0dd09c0b25/modl.v102.1.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/modl.12447
+
+- id: doi:10.1007/s11145-018-9833-x
+  image: https://media.springernature.com/w138/springer-static/cover/journal/11145/31/2.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11145-018-9833-x
+
+- id: doi:10.1111/modl.12468
+  image: https://onlinelibrary.wiley.com/cms/asset/973047e4-cbc3-422c-842f-14aa92a4aef7/modl.v102.2.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12468
+
+- id: doi:10.3758/s13428-017-0924-4
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-017-0924-4
+
+- id: doi:10.1007/s11145-016-9690-4
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11145-016-9690-4
+    - type: full-article pdf
+      link: https://www.researchgate.net/publication/308182419_That_noun_phrase_may_be_beneficial_and_this_may_not_be_discourse_cohesion_in_reading_and_writing/link/5dc45a0e92851c8180364814/download
+
+- id: doi:10.3758/s13428-016-0743-z
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-016-0743-z
+
+- id: doi:10.37514/JWA-J.2017.1.1.04
+  image: https://wac.colostate.edu/docs/jwa/vol1.jpg
+  extra-links:
+    - type: journal
+      link: https://wac.colostate.edu/docs/jwa/vol1/crossley.pdf
+
+- id: doi:10.1080/0163853X.2017.1296264
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hdsp20.v054.i05-06
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/0163853X.2017.1296264?journalCode=hdsp20
+    - type: full-article pdf
+      link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/315474236_Predicting_Text_Comprehension_Processing_and_Familiarity_in_Adult_Readers_New_Approaches_to_Readability_Formulas/links/5b350cc94585150d23e06f8e/Predicting-Text-Comprehension-Processing-and-Familiarity-in-Adult-Readers-New-Approaches-to-Readability-Formulas.pdf
+
+- id: doi:10.1177/0265532217712554
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/10.1177/0265532217712554
+
+- id: doi:10.1155/2017/1348242
+  image: https://journals.indexcopernicus.com/api/file/viewByFileId/1159857
+  extra-links:
+    - type: journal
+      link: https://www.hindawi.com/journals/jdr/2017/1348242/
+
+- id: doi:10.1080/10400419.2017.1376490
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hcrj20.v029.i04
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/10400419.2017.1376490
+    - type: full-article pdf
+      link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/320721931_Identifying_Creativity_During_Problem_Solving_Using_Linguistic_Features/links/5a034dabaca2721d418679a2/Identifying-Creativity-During-Problem-Solving-Using-Linguistic-Features.pdf
