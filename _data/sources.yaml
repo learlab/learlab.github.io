@@ -384,7 +384,7 @@
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.1007/s11145-016-9690-4
-    - type: full-article pdf
+    - type: source
       link: https://www.researchgate.net/publication/308182419_That_noun_phrase_may_be_beneficial_and_this_may_not_be_discourse_cohesion_in_reading_and_writing/link/5dc45a0e92851c8180364814/download
 
 - id: doi:10.3758/s13428-016-0743-z
@@ -404,7 +404,7 @@
   extra-links:
     - type: journal
       link: https://www.tandfonline.com/doi/abs/10.1080/0163853X.2017.1296264?journalCode=hdsp20
-    - type: full-article pdf
+    - type: source
       link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/315474236_Predicting_Text_Comprehension_Processing_and_Familiarity_in_Adult_Readers_New_Approaches_to_Readability_Formulas/links/5b350cc94585150d23e06f8e/Predicting-Text-Comprehension-Processing-and-Familiarity-in-Adult-Readers-New-Approaches-to-Readability-Formulas.pdf
 
 - id: doi:10.1177/0265532217712554
@@ -424,5 +424,5 @@
   extra-links:
     - type: journal
       link: https://www.tandfonline.com/doi/abs/10.1080/10400419.2017.1376490
-    - type: full-article pdf
+    - type: source
       link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/320721931_Identifying_Creativity_During_Problem_Solving_Using_Linguistic_Features/links/5a034dabaca2721d418679a2/Identifying-Creativity-During-Problem-Solving-Using-Linguistic-Features.pdf

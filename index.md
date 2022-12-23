@@ -2,6 +2,15 @@
 title: Home
 ---
 
+# LEAR Lab ———— Life long learning
+
+{%
+  include figure.html
+  image="images/lab-logo.jpg"
+  width="700px"
+%}
+
+
 # What We Do
 
 At the Language and Educational Analytics Research Lab, we use data science to generate insights about language, learning, and education that support AI-driven theory, applications, research, and interventions.

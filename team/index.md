@@ -45,6 +45,10 @@ Teamwork makes the dream work.
 
 ## Join
 
+### Undergraduate/ Gradudate Student Researcher 
+
+We are currently hiring undergraduate students who are interested in natural language processing (NLP) techniques, the application of computational tools, and machine learning algorithms. 
+
 ### Post Doctoral Researcher
 
 We would like a post doc. If you have experience in the following areas, check back here. We will open applications soon.
@@ -52,11 +56,6 @@ We would like a post doc. If you have experience in the following areas, check b
 - Data science
 - Natural Language Processing
 - Education Research
-
-### Undergraduate 
-
-We are currently hiring undergraduate students who are interested in natural language processing (NLP) techniques, the application of computational tools, and machine learning algorithms. 
-
 
 Feel free to reach out with any questions!
 
