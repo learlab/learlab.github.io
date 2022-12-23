@@ -157,3 +157,135 @@
   - type: journal
     link: https://www.science.org/doi/full/10.1126/sciadv.abj2836
   _cache: b04fa088411b6e0b393a325007de4a3cfb381c52f64154d0f46a6355e9173cb9
+- id: doi:10.1177/00222194221081473
+  title: Do Struggling Adult Readers Monitor Their Reading? Understanding the Role
+    of Online and Offline Comprehension Monitoring Processes During Reading
+  authors:
+  - Elizabeth L. Tighe
+  - Gal Kaldes
+  - Amani Talwar
+  - Scott A. Crossley
+  - Daphne Greenberg
+  - Stephen Skalicky
+  publisher: Journal of Learning Disabilities
+  date: '2022-03-23'
+  link: https://doi.org/grjmbc
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ldxa/2023/ldxa_56_1/ldxa_56_1/20221209/ldxa_56_1.largecover.png
+  extra-links:
+  - type: journal
+    link: https://journals.sagepub.com/doi/abs/10.1177/00222194221081473
+  _cache: e28b5316022a52a009fbf042f6207962eb27482c57d288bc5127dfb702c47916
+- id: doi:10.37514/JWA-J.2022.6.1.04
+  title: 'Linguistic Features of Writing Quality and Development: A Longitudinal Approach'
+  authors:
+  - Scott A. Crossley
+  - Minkyung Kim
+  publisher: The Journal of Writing Analytics
+  date: '2022-01-01'
+  link: https://doi.org/grjmbd
+  image: https://wac.colostate.edu/docs/jwa/cover-current.jpg
+  extra-links:
+  - type: journal
+    link: https://wac.colostate.edu/docs/jwa/vol6/crossley-kim.pdf
+  _cache: 955edf7f4884578fa9756a84f548e2b0ef7fee993306c6acbbc412abfec3de0b
+- id: doi:10.17239/jowr-2022.14.01.01
+  title: 'Argumentation features and essay quality: Exploring relationships and incidence
+    counts'
+  authors:
+  - Scott Crossley
+  - Yu Tian
+  publisher: Journal of Writing Research
+  date: '2022-06-01'
+  link: https://doi.org/grjmbf
+  image: https://oaji.net/images/journals/small/2016/file1453363070.jpg
+  extra-links:
+  - type: journal
+    link: https://www.jowr.org/index.php/jowr/article/view/831
+  _cache: 66cceb9f53b92c9e360183014b8ca02eac5ce140ae11b686f086b553700612d4
+- id: doi:10.1080/13670050.2020.1838434
+  title: Second language reading and writing in relation to first language, vocabulary
+    knowledge, and learning backgrounds
+  authors:
+  - Minkyung Kim
+  - Scott A. Crossley
+  - Byeong-Kweon Kim
+  publisher: International Journal of Bilingual Education and Bilingualism
+  date: '2020-11-10'
+  link: https://doi.org/grjmbg
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/rbeb20.v025.i06
+  extra-links:
+  - type: journal
+    link: https://www.tandfonline.com/doi/abs/10.1080/13670050.2020.1838434?journalCode=rbeb20
+  _cache: 6061a3617ffa04974ab32afcc25020edc6c9fe0f34d94e74514277e2001ce789
+- id: doi:10.1037/tmb0000063
+  title: 'Toward more effective and equitable learning: Identifying barriers and solutions
+    for the future of online education.'
+  authors:
+  - Kathryn S. McCarthy
+  - Scott A. Crossley
+  - Kayla Meyers
+  - Ulrich Boser
+  - Laura K. Allen
+  - Vinay K. Chaudhri
+  - Kevyn Collins-Thompson
+  - Sidney D'Mello
+  - Munmun De Choudhury
+  - Kumar Garg
+  - Ashok Goel
+  - Kinnis Gosha
+  - Neil Heffernan
+  - Mary A. Hooper
+  - Elizabeth Hyman
+  - Daniel C. Jarratt
+  - Deena Khalil
+  - Rene F. Kizilcec
+  - Diane Litman
+  - Agnes Malatinszky
+  - Krista Marks
+  - Danielle S. McNamara
+  - Raphael Menko
+  - Corey Palermo
+  - David Porcaro
+  - Rod D. Roscoe
+  - Steve Shapiro
+  - Khanh-Phuong (KP) Thai
+  - Anne M. Trumbore
+  - Cameron White
+  - Rhea Wong
+  - Diyi Yang
+  - Marcos Zampieri
+  publisher: Technology, Mind, and Behavior
+  date: '2022-03-31'
+  link: https://doi.org/grjmbh
+  image: https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6ImJvbW93ZDM2LzMxNjA5ODY0MjAyMzY0LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJoZWlnaHQiOjIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfX19
+  extra-links:
+  - type: journal
+    link: https://tmb.apaopen.org/pub/kfxfdnk5/release/1
+  _cache: 199a62fcddc518437cf1e5d92a707c697517644a132976c8435898809e7782b6
+- id: doi:10.1016/j.jbi.2020.103658
+  title: "Challenges and solutions to employing natural language processing and machine\
+    \ learning to measure patients\u2019 health literacy and physician writing complexity:\
+    \ The ECLIPPSE study"
+  authors:
+  - William Brown
+  - Renu Balyan
+  - Andrew J. Karter
+  - Scott Crossley
+  - Wagahta Semere
+  - Nicholas D. Duran
+  - Courtney Lyles
+  - Jennifer Liu
+  - Howard H. Moffet
+  - Ryane Daniels
+  - Danielle S. McNamara
+  - Dean Schillinger
+  publisher: Journal of Biomedical Informatics
+  date: '2021-01-01'
+  link: https://doi.org/grjmbj
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1532046420X00128-cov200h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1532046420302860
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8186847/
+  _cache: 27e3f3bc0b7835379d9e91c705069ef230c2d75a6a3286b5180425eadebfe56b
