@@ -289,3 +289,154 @@
   - type: preprint
     link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8186847/
   _cache: 27e3f3bc0b7835379d9e91c705069ef230c2d75a6a3286b5180425eadebfe56b
+- id: doi:10.1093/jamia/ocaa281
+  title: Descriptive examination of secure messaging in a longitudinal cohort of diabetes
+    patients in the ECLIPPSE study
+  authors:
+  - Anupama Gunshekar Cemballi
+  - Andrew J Karter
+  - Dean Schillinger
+  - Jennifer Y Liu
+  - Danielle S McNamara
+  - William Brown
+  - Scott Crossley
+  - Wagahta Semere
+  - Mary Reed
+  - Jill Allen
+  - Courtney Rees Lyles
+  publisher: Journal of the American Medical Informatics Association
+  date: '2020-11-24'
+  link: https://doi.org/gpr365
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/28/6/1/m_jaminfo_28_6cover.jpeg?Expires=1674788390&Signature=mVWCrJ8UAgCEVaDfJX0M5XqT6Qfy6cpjueyZvXDxKHr~~HQ75zwAWlfpKZV9zs4ajSZbMFku7Ca2OOin5vL5t-7O2YaWhrQO2h6HmyDM6Y3F32~Ff1RP1PpFoeDEqT7EIiijM2UfWmOVyDWi0RY-wQvuOPopLB0qXiJNYILZIXgeH-CKiVt2qA9sGbUi4aCnSWqLkM6Ms9tIa~X89AmKulJ~82XSqTkExKxPuU4yrpREc2SrJEWQpHSdIPDVumhVPv2yMiOS47Y6SdJelJdaLfqA-oWZJwg7o8bzS4OAauVfgvuM-kcqh-uKgOzuAWWO3Hc0mx~CGBpGP6W~TsjeqA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
+  - type: journal
+    link: https://academic.oup.com/jamia/article-abstract/28/6/1252/6000399?redirectedFrom=fulltext&login=false#no-access-message
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8200267/
+  _cache: ad2232f3fe69ac4d861e9973b9b891b20f979c88be4a68266645a475653bc33c
+- id: doi:10.1080/10410236.2020.1731781
+  title: 'Developing and Testing Automatic Models of Patient Communicative Health
+    Literacy Using Linguistic Features: Findings from the ECLIPPSE study'
+  authors:
+  - Scott A. Crossley
+  - Renu Balyan
+  - Jennifer Liu
+  - Andrew J. Karter
+  - Danielle McNamara
+  - Dean Schillinger
+  publisher: Health Communication
+  date: '2020-03-02'
+  link: https://doi.org/grjmbk
+  image: https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/hhth20/2023/hhth20.v038.i01/hhth20.v038.i01/20221212-01/hhth20.v038.i01.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483831/
+  _cache: 881505af685796b7087e98f0f05532bb13e5c7f305e9badb8fb6f899123a30e6
+- id: doi:10.1016/j.jslw.2021.100824
+  title: Exploring the relationships among cognitive and linguistic resources, writing
+    processes, and written products in second language writing
+  authors:
+  - Minkyung Kim
+  - Yu Tian
+  - Scott A. Crossley
+  publisher: Journal of Second Language Writing
+  date: '2021-09-01'
+  link: https://doi.org/gj6vbp
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374321X00045-cov150h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1060374321000394
+  _cache: 2edb24f15478f31195e8ecdb2273e72a481f8be58a0227c5d19f8080f25a9f42
+- id: doi:10.1080/15434303.2020.1844205
+  title: Assessing the Validity of Lexical Diversity Indices Using Direct Judgements
+  authors:
+  - Kristopher Kyle
+  - Scott A. Crossley
+  - Scott Jarvis
+  publisher: Language Assessment Quarterly
+  date: '2020-12-04'
+  link: https://doi.org/grjmbm
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hlaq20.v018.i02
+  extra-links:
+  - type: journal
+    link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1844205
+  _cache: 5f3ab0893381280f62aea5891ff6acf7b9a7e9a5d36132c1f413198875b808b1
+- id: doi:10.1017/S0272263120000546
+  title: MEASURING LONGITUDINAL WRITING DEVELOPMENT USING INDICES OF SYNTACTIC COMPLEXITY
+    AND SOPHISTICATION
+  authors:
+  - Kristopher Kyle
+  - Scott Crossley
+  - Marjolijn Verspoor
+  publisher: Studies in Second Language Acquisition
+  date: '2020-10-27'
+  link: https://doi.org/gmms6f
+  image: https://static.cambridge.org/covers/SLA_0_0_0/studies-in-second-language-acquisition.jpg
+  extra-links:
+  - type: journal
+    link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/measuring-longitudinal-writing-development-using-indices-of-syntactic-complexity-and-sophistication/23CFFB4579D110AB0ED96C74990989C3
+  - type: preprint
+    link: https://pure.rug.nl/ws/portalfiles/portal/187076402/measuring_longitudinal_writing_development_using_indices_of_syntactic_complexity_and_sophistication.pdf
+  _cache: d04f86dce9378b54dade05aae02605a523d06f3e82ffcf71428526f9f4a87fe3
+- id: doi:10.1111/ijal.12358
+  title: "Predictors of English as second language learners\u2019 oral proficiency\
+    \ development in a classroom context"
+  authors:
+  - Tamanna Mostafa
+  - Scott A. Crossley
+  - YouJin Kim
+  publisher: International Journal of Applied Linguistics
+  date: '2021-05-17'
+  link: https://doi.org/gn78jf
+  image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1111/ijal.12358
+  _cache: b01ea765692b825d53073f5f4e2f1d504454ccf36402eb437d2e1b3c02e814ac
+- id: doi:10.1353/hpu.2021.0067
+  title: 'Validity of a Computational Linguistics-Derived Automated Health Literacy
+    Measure Across Race/Ethnicity: Findings from The ECLIPPSE Project'
+  authors:
+  - Dean Schillinger
+  - Renu Balyan
+  - Scott Crossley
+  - Danielle McNamara
+  - Andrew Karter
+  publisher: Journal of Health Care for the Poor and Underserved
+  date: '2021-01-01'
+  link: https://doi.org/grjmbn
+  image: https://muse.jhu.edu/issue/44396/image/front_cover.jpg?format=180
+  extra-links:
+  - type: journal
+    link: https://muse.jhu.edu/article/789674
+  _cache: 7976c79c83d650ba25d5cd2d5e593bae508822efbae8ebc4d4c0838d30110b44
+- id: doi:10.1111/1475-6773.13560
+  title: 'Employing computational linguistics techniques to identify limited patient
+    health literacy: Findings from the ECLIPPSE study'
+  authors:
+  - Dean Schillinger
+  - Renu Balyan
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  - Jennifer Y. Liu
+  - Andrew J. Karter
+  publisher: Health Services Research
+  date: '2020-09-23'
+  link: https://doi.org/grjmbp
+  image: https://onlinelibrary.wiley.com/cms/asset/9b1e3ed1-3b83-463e-8ea4-d7a94b7807ee/hesr.v56.1.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/full/10.1111/1475-6773.13560
+  _cache: a8dbec68f2aad3dfa7b5a8884967beac19361e3373779b4f3c58bcb2edeefef9
+- id: doi:10.17239/jowr-2020.11.03.01
+  title: 'Linguistic features in writing quality and development: An overview'
+  authors:
+  - Scott Crossley
+  publisher: Journal of Writing Research
+  date: '2020-02-01'
+  link: https://doi.org/gmms53
+  image: https://oaji.net/images/journals/small/2016/file1453363070.jpg
+  extra-links:
+  - type: journal
+    link: https://www.jowr.org/index.php/jowr/article/view/582
+  _cache: 5638e22be09d22b42643d32a83c3a55d5f1be126496c06d6e3d132996084bc9c
