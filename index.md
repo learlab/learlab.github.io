@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# LEAR Lab ———— Life long learning
+# Life long learning
 
 {%
   include figure.html
