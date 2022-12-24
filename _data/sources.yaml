@@ -286,23 +286,3 @@
   extra-links:
     - type: journal
       link: https://www.sciencedirect.com/science/article/abs/pii/S0346251X1830201X
-
-- id: doi:10.18823/asiatefl.2019.16.1.3.37
-  image: http://www.asiatefl.org/img/the_journal_of_asiatefl_cover_150.gif
-  extra-links:
-    - type: journal
-      link: http://journal.asiatefl.org/main/main.php?inx_journals=59&inx_contents=656&main=1&sub=3&submode=3&PageMode=JournalView&s_title=Predicting_Second_Language_Writing_Proficiency_in_Learner_Texts_Using_Computational_Tools
-
-- id: doi:10.1111/jcal.12315
-  image: https://onlinelibrary.wiley.com/cms/asset/b0e815c1-30fe-42c9-a4f0-a6f1cc6cf3f4/jcal.v35.1.cover.jpg
-  extra-links:
-    - type: journal
-      link: https://onlinelibrary.wiley.com/doi/abs/10.1111/jcal.12315
-    - type: preprint
-      link: https://dev.stamper.org/publications/JCAL19_Liu.pdf
-
-- id: doi:10.1007/s11606-019-05259-1
-  image: https://media.springernature.com/w138/springer-static/cover/journal/11606/34/8.jpg
-  extra-links:
-    - type: journal
-      link: https://link.springer.com/article/10.1007/s11606-019-05259-1
