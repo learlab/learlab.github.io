@@ -810,3 +810,269 @@
   - type: preprint
     link: https://www.stephenskalicky.com/satirical_headline_processing.pdf
   _cache: 6e7eda3c90f4aa764bf70db88a0fff02cc73a84c0aaa3ba540bb7e8f730b543c
+- id: doi:10.29140/lea.v2n3.151
+  title: The effect of cohesive features in integrated and independent L2 writing
+    quality and text classification
+  authors:
+  - Rurik Tywoniw
+  - Scott Crossley
+  publisher: Language Education and Assessment
+  date: '2019-12-31'
+  link: https://doi.org/grjmfj
+  image: https://www.castledown.com/img/journal_covers/LEA_Cover.png
+  extra-links:
+  - type: journal
+    link: https://www.castledown.com/journals/lea/article/?reference=151
+  _cache: 9ddc250ee0809bee43d1bda167f28296fdfea886e53a7229906a609c66a15a74
+- id: doi:10.1017/S0261444818000253
+  title: 'Technological disruption in foreign language teaching: The rise of simultaneous
+    machine translation'
+  authors:
+  - Scott A. Crossley
+  publisher: Language Teaching
+  date: '2018-09-13'
+  link: https://doi.org/grjmfm
+  image: https://static.cambridge.org/covers/LTA_0_0_0/language-teaching.jpg
+  extra-links:
+  - type: journal
+    link: https://www.cambridge.org/core/journals/language-teaching/article/abs/technological-disruption-in-foreign-language-teaching-the-rise-of-simultaneous-machine-translation/A31BA5AB690B370B01535EF2D1AFAE42
+  _cache: 10f3f2acc641309f5cc158b2d68506d13a8dc0c0b815c800d24cf133cbd36093
+- id: doi:10.1016/j.asw.2018.06.004
+  title: Assessing writing with the tool for the automatic analysis of lexical sophistication
+    (TAALES)
+  authors:
+  - Scott A. Crossley
+  - Kristopher Kyle
+  publisher: Assessing Writing
+  date: '2018-10-01'
+  link: https://doi.org/gg48w9
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293518X0004X-cov150h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830059X
+  _cache: e065e59143c9ec615069a2614a95607e8ba6cc019c3c982d92d21c630ae147f3
+- id: doi:10.1111/modl.12494
+  title: "A Latent Curve Model Approach To Studying L2 N\u2010Gram Development"
+  authors:
+  - JAMIE GARNER
+  - SCOTT CROSSLEY
+  publisher: The Modern Language Journal
+  date: '2018-07-12'
+  link: https://doi.org/gdvj2w
+  image: https://onlinelibrary.wiley.com/cms/asset/2137e0ba-7e13-463e-9d80-2a140de5967b/modl.v102.3.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12494
+  _cache: b1e8185e32a8bcc6d3edbb20fb3475c75f2aa5c115b13c10f3bd6f29df9c624f
+- id: doi:10.1515/iral-2017-0089
+  title: "Beginning and intermediate L2 writer\u2019s use of N-grams: an association\
+    \ measures study"
+  authors:
+  - Jamie Garner
+  - Scott Crossley
+  - Kristopher Kyle
+  publisher: International Review of Applied Linguistics in Language Teaching
+  date: '2018-06-22'
+  link: https://doi.org/gk5vf8
+  image: https://www.degruyter.com/document/cover/journal_key/IRAL/product_pages
+  extra-links:
+  - type: journal
+    link: https://www.degruyter.com/document/doi/10.1515/iral-2017-0089/html
+  _cache: 6fb9a191fb5357d140d6e37a729a57862fb4aae0bc6de28a9c658f698a6c826a
+- id: doi:10.1016/j.asw.2018.03.002
+  title: 'Modeling second language writing quality: A structural equation investigation
+    of lexical, syntactic, and cohesive features in source-based and independent writing'
+  authors:
+  - Minkyung Kim
+  - Scott A. Crossley
+  publisher: Assessing Writing
+  date: '2018-07-01'
+  link: https://doi.org/gdnfc3
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293518X00026-cov150h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830028X
+  _cache: 9cef2cffa97f11bda2199839ab8c4acbaca0bdb59a5a5cc793344f10c34e5d75
+- id: doi:10.1111/modl.12447
+  title: 'Lexical Sophistication as a Multidimensional Phenomenon: Relations to Second
+    Language Lexical Proficiency, Development, and Writing Quality'
+  authors:
+  - MINKYUNG KIM
+  - SCOTT A. CROSSLEY
+  - KRISTOPHER KYLE
+  publisher: The Modern Language Journal
+  date: '2017-12-20'
+  link: https://doi.org/gcz2b6
+  image: https://onlinelibrary.wiley.com/cms/asset/9aba897f-5e0f-47a6-9101-ce0dd09c0b25/modl.v102.1.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/abs/10.1111/modl.12447
+  _cache: 3719407309c10eed4923a1954a52e01758878f996a6f41bff80ac1b7469e632f
+- id: doi:10.1007/s11145-018-9833-x
+  title: Effects of lexical features, textual properties, and individual differences
+    on word processing times during second language reading comprehension
+  authors:
+  - Minkyung Kim
+  - Scott A. Crossley
+  - Stephen Skalicky
+  publisher: Reading and Writing
+  date: '2018-02-23'
+  link: https://doi.org/gdcvct
+  image: https://media.springernature.com/w138/springer-static/cover/journal/11145/31/2.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-018-9833-x
+  _cache: bbf337e46b2bb32ed98470ce9d34cfd3d540d27d4a9c441d55211a16eeeb5ab5
+- id: doi:10.1111/modl.12468
+  title: Measuring Syntactic Complexity in L2 Writing Using Fine-Grained Clausal and
+    Phrasal Indices
+  authors:
+  - KRISTOPHER KYLE
+  - SCOTT A. CROSSLEY
+  publisher: The Modern Language Journal
+  date: '2018-02-16'
+  link: https://doi.org/gcx5kt
+  image: https://onlinelibrary.wiley.com/cms/asset/973047e4-cbc3-422c-842f-14aa92a4aef7/modl.v102.2.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12468
+  _cache: f3bd734e02526be3d72d4bd1d7eaf37a8e17dac779b47cf9a533151105fbe78d
+- id: doi:10.3758/s13428-017-0924-4
+  title: 'The tool for the automatic analysis of lexical sophistication (TAALES):
+    version 2.0'
+  authors:
+  - Kristopher Kyle
+  - Scott Crossley
+  - Cynthia Berger
+  publisher: Behavior Research Methods
+  date: '2017-07-11'
+  link: https://doi.org/gdqrvq
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-017-0924-4
+  _cache: 4204203b3b45063d698e9bc3fab324df51bebbed791d43b61b1cd18f212a40ca
+- id: doi:10.1007/s11145-016-9690-4
+  title: 'That noun phrase may be beneficial and this may not be: discourse cohesion
+    in reading and writing'
+  authors:
+  - Scott A. Crossley
+  - Dani Francuz Rose
+  - Cassondra Danekes
+  - Charles Wesley Rose
+  - Danielle S. McNamara
+  publisher: Reading and Writing
+  date: '2016-09-15'
+  link: https://doi.org/f9t3z8
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-016-9690-4
+  - type: source
+    link: https://www.researchgate.net/publication/308182419_That_noun_phrase_may_be_beneficial_and_this_may_not_be_discourse_cohesion_in_reading_and_writing/link/5dc45a0e92851c8180364814/download
+  _cache: 6db74713108dc20d29dd95d78568ce6258fa72739415499df7bcd85bb2101c81
+- id: doi:10.3758/s13428-016-0743-z
+  title: 'Sentiment Analysis and Social Cognition Engine (SEANCE): An automatic tool
+    for sentiment, social cognition, and social-order analysis'
+  authors:
+  - Scott A. Crossley
+  - Kristopher Kyle
+  - Danielle S. McNamara
+  publisher: Behavior Research Methods
+  date: '2016-05-18'
+  link: https://doi.org/ghpj7r
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-016-0743-z
+  _cache: 727dc77f6ee07f08cce49227da566331fdd32a15d2218cc12941a234d3ea5758
+- id: doi:10.37514/JWA-J.2017.1.1.04
+  title: 'Applying Natural Language Processing Tools to a Student Academic Writing
+    Corpus: How Large are Disciplinary Differences Across Science and Engineering
+    Fields?'
+  authors:
+  - Scott A. Crossley
+  - David R. Russell
+  - Kristopher Kyle
+  - "Ute R\uFFFDmer"
+  publisher: The Journal of Writing Analytics
+  date: '2017-01-01'
+  link: https://doi.org/gmx7gw
+  image: https://wac.colostate.edu/docs/jwa/vol1.jpg
+  extra-links:
+  - type: journal
+    link: https://wac.colostate.edu/docs/jwa/vol1/crossley.pdf
+  _cache: e901ef47ca418081459503ea4ee5f8f3439088331b63e6ff16b7306b5ed7b8ca
+- id: doi:10.1080/0163853X.2017.1296264
+  title: 'Predicting Text Comprehension, Processing, and Familiarity in Adult Readers:
+    New Approaches to Readability Formulas'
+  authors:
+  - Scott A. Crossley
+  - Stephen Skalicky
+  - Mihai Dascalu
+  - Danielle S. McNamara
+  - Kristopher Kyle
+  publisher: Discourse Processes
+  date: '2017-03-20'
+  link: https://doi.org/ggwb55
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hdsp20.v054.i05-06
+  extra-links:
+  - type: journal
+    link: https://www.tandfonline.com/doi/abs/10.1080/0163853X.2017.1296264?journalCode=hdsp20
+  - type: source
+    link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/315474236_Predicting_Text_Comprehension_Processing_and_Familiarity_in_Adult_Readers_New_Approaches_to_Readability_Formulas/links/5b350cc94585150d23e06f8e/Predicting-Text-Comprehension-Processing-and-Familiarity-in-Adult-Readers-New-Approaches-to-Readability-Formulas.pdf
+  _cache: a8b38e5392f33fa79464e01d8aa4432cedb73051fa925abca2e44daf5c5f9c5f
+- id: doi:10.1177/0265532217712554
+  title: 'Assessing syntactic sophistication in L2 writing: A usage-based approach'
+  authors:
+  - Kristopher Kyle
+  - Scott Crossley
+  publisher: Language Testing
+  date: '2017-09-19'
+  link: https://doi.org/gnfpkp
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
+  extra-links:
+  - type: journal
+    link: https://journals.sagepub.com/doi/10.1177/0265532217712554
+  _cache: dbd6db77ae2bde81ec30b47d244cfbe9f9c19b64ba01eb39bae92f616d65a045
+- id: doi:10.1155/2017/1348242
+  title: 'The Next Frontier in Communication and the ECLIPPSE Study: Bridging the
+    Linguistic Divide in Secure Messaging'
+  authors:
+  - Dean Schillinger
+  - Danielle McNamara
+  - Scott Crossley
+  - Courtney Lyles
+  - Howard H. Moffet
+  - Urmimala Sarkar
+  - Nicholas Duran
+  - Jill Allen
+  - Jennifer Liu
+  - Danielle Oryn
+  - Neda Ratanawongsa
+  - Andrew J. Karter
+  publisher: Journal of Diabetes Research
+  date: '2017-01-01'
+  link: https://doi.org/f9sqk2
+  image: https://journals.indexcopernicus.com/api/file/viewByFileId/1159857
+  extra-links:
+  - type: journal
+    link: https://www.hindawi.com/journals/jdr/2017/1348242/
+  _cache: 94da5966316e8471561cddc9c05a886b9d26419823862d12b94182e86a4217e3
+- id: doi:10.1080/10400419.2017.1376490
+  title: Identifying Creativity During Problem Solving Using Linguistic Features
+  authors:
+  - Stephen Skalicky
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  - Kasia Muldner
+  publisher: Creativity Research Journal
+  date: '2017-10-02'
+  link: https://doi.org/gmm4hs
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hcrj20.v029.i04
+  extra-links:
+  - type: journal
+    link: https://www.tandfonline.com/doi/abs/10.1080/10400419.2017.1376490
+  - type: source
+    link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/320721931_Identifying_Creativity_During_Problem_Solving_Using_Linguistic_Features/links/5a034dabaca2721d418679a2/Identifying-Creativity-During-Problem-Solving-Using-Linguistic-Features.pdf
+  _cache: 947262a2ec1fa2d53494c2b38ef4fc04128edb8bf75d6d647caaded0e8291f58

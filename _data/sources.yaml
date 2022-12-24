@@ -319,7 +319,7 @@
   image: https://static.cambridge.org/covers/LTA_0_0_0/language-teaching.jpg
   extra-links:
     - type: journal
-      link:https://www.cambridge.org/core/journals/language-teaching/article/abs/technological-disruption-in-foreign-language-teaching-the-rise-of-simultaneous-machine-translation/A31BA5AB690B370B01535EF2D1AFAE42
+      link: https://www.cambridge.org/core/journals/language-teaching/article/abs/technological-disruption-in-foreign-language-teaching-the-rise-of-simultaneous-machine-translation/A31BA5AB690B370B01535EF2D1AFAE42
 
 - id: doi:10.1016/j.asw.2018.06.004
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293518X0004X-cov150h.gif
@@ -376,3 +376,43 @@
       link: https://link.springer.com/article/10.1007/s11145-016-9690-4
     - type: source
       link: https://www.researchgate.net/publication/308182419_That_noun_phrase_may_be_beneficial_and_this_may_not_be_discourse_cohesion_in_reading_and_writing/link/5dc45a0e92851c8180364814/download
+
+- id: doi:10.3758/s13428-016-0743-z
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-016-0743-z
+
+- id: doi:10.37514/JWA-J.2017.1.1.04
+  image: https://wac.colostate.edu/docs/jwa/vol1.jpg
+  extra-links:
+    - type: journal
+      link: https://wac.colostate.edu/docs/jwa/vol1/crossley.pdf
+
+- id: doi:10.1080/0163853X.2017.1296264
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hdsp20.v054.i05-06
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/0163853X.2017.1296264?journalCode=hdsp20
+    - type: source
+      link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/315474236_Predicting_Text_Comprehension_Processing_and_Familiarity_in_Adult_Readers_New_Approaches_to_Readability_Formulas/links/5b350cc94585150d23e06f8e/Predicting-Text-Comprehension-Processing-and-Familiarity-in-Adult-Readers-New-Approaches-to-Readability-Formulas.pdf
+
+- id: doi:10.1177/0265532217712554
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/10.1177/0265532217712554
+
+- id: doi:10.1155/2017/1348242
+  image: https://journals.indexcopernicus.com/api/file/viewByFileId/1159857
+  extra-links:
+    - type: journal
+      link: https://www.hindawi.com/journals/jdr/2017/1348242/
+
+- id: doi:10.1080/10400419.2017.1376490
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/hcrj20.v029.i04
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/abs/10.1080/10400419.2017.1376490
+    - type: source
+      link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/320721931_Identifying_Creativity_During_Problem_Solving_Using_Linguistic_Features/links/5a034dabaca2721d418679a2/Identifying-Creativity-During-Problem-Solving-Using-Linguistic-Features.pdf
