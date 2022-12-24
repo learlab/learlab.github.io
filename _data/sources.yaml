@@ -22,6 +22,8 @@
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.3758/s13428-022-01797-5
+    - type: preprint
+      link: https://www.researchgate.net/publication/358631762_Age_of_Exposure_20_Estimating_word_complexity_using_iterative_models_of_word_embeddings
 
 - id: doi:10.1016/j.asw.2022.100667
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293522X00044-cov200h.gif
@@ -52,6 +54,8 @@
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.1007/s11145-021-10229-3
+    - type: preprint
+      link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
 
 - id: doi:10.1126/sciadv.abj2836
   image: https://www.science.org/cms/asset/27a4c474-de32-4277-a1c9-5afb8f1cbc1f/sciadv.2021.7.issue-51.largecover.jpg
@@ -64,6 +68,8 @@
   extra-links:
     - type: journal
       link: https://journals.sagepub.com/doi/abs/10.1177/00222194221081473
+    - type: preprint
+      link: https://www.researchgate.net/publication/359457318_Do_Struggling_Adult_Readers_Monitor_Their_Reading_Understanding_the_Role_of_Online_and_Offline_Comprehension_Monitoring_Processes_During_Reading
 
 - id: doi:10.37514/JWA-J.2022.6.1.04
   image: https://wac.colostate.edu/docs/jwa/cover-current.jpg
