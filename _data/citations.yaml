@@ -56,7 +56,9 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.3758/s13428-022-01797-5
-  _cache: 74c92da4bb205deb59ca902a11ee7e486c9a819d35b18c763a580c54c80a797c
+  - type: preprint
+    link: https://www.researchgate.net/publication/358631762_Age_of_Exposure_20_Estimating_word_complexity_using_iterative_models_of_word_embeddings
+  _cache: 9fe2af01df4890863be6f4ea5c744381c0fba4158224907c2308953d25b3a548
 - id: doi:10.1016/j.asw.2022.100667
   title: The persuasive essays for rating, selecting, and understanding argumentative
     and discourse elements (PERSUADE) corpus 1.0
@@ -138,7 +140,9 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10229-3
-  _cache: d10f99c77305e49e177ede4d005296d54907180fc36b6d8618f565fec7ffa538
+  - type: preprint
+    link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
+  _cache: a7b1c98d9d1f562445f6153fa3d458a2bcc1af76c59ae0f0fa820a0ec3db4dc7
 - id: doi:10.1126/sciadv.abj2836
   title: "Precision communication: Physicians\u2019 linguistic adaptation to patients\u2019\
     \ health literacy"
@@ -174,7 +178,9 @@
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/abs/10.1177/00222194221081473
-  _cache: e28b5316022a52a009fbf042f6207962eb27482c57d288bc5127dfb702c47916
+  - type: preprint
+    link: https://www.researchgate.net/publication/359457318_Do_Struggling_Adult_Readers_Monitor_Their_Reading_Understanding_the_Role_of_Online_and_Offline_Comprehension_Monitoring_Processes_During_Reading
+  _cache: 641679200b0e77c9fdc0f9ef7c3c015d0b52416043017197902d2a9598619b00
 - id: doi:10.37514/JWA-J.2022.6.1.04
   title: 'Linguistic Features of Writing Quality and Development: A Longitudinal Approach'
   authors:
