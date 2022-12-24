@@ -1076,3 +1076,18 @@
   - type: source
     link: https://www.researchgate.net/profile/Stephen-Skalicky/publication/320721931_Identifying_Creativity_During_Problem_Solving_Using_Linguistic_Features/links/5a034dabaca2721d418679a2/Identifying-Creativity-During-Problem-Solving-Using-Linguistic-Features.pdf
   _cache: 947262a2ec1fa2d53494c2b38ef4fc04128edb8bf75d6d647caaded0e8291f58
+- id: doi:10.1017/S0272263118000268
+  title: ABSOLUTE FREQUENCY EFFECTS IN SECOND LANGUAGE LEXICAL ACQUISITION
+  authors:
+  - Scott A. Crossley
+  - Stephen Skalicky
+  - Kristopher Kyle
+  - Katia Monteiro
+  publisher: Studies in Second Language Acquisition
+  date: '2019-01-31'
+  link: https://doi.org/gqfmt9
+  image: https://static.cambridge.org/covers/SLA_0_0_0/studies-in-second-language-acquisition.jpg
+  extra-links:
+  - type: journal
+    link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/absolute-frequency-effects-in-second-language-lexical-acquisition/B29E38545DA6B892B07010FD6F026DB4
+  _cache: ad159518d345a03f5b67f153c4eb52959194093463ee21edabc0c21dd3b0dc5d
