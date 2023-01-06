@@ -79,50 +79,34 @@ Feel free to reach out with any questions!
 Our work is made possible by funding from several organizations.
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
+include gallery.html
+style="square"
 
-  image1="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png"
-  link1="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
-  tooltip1="National Science Foundation"
+image1="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png"
+link1="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
+tooltip1="National Science Foundation"
 
-  image2="images/learning-agency.png"
-  link2="https://www.the-learning-agency.com/"
-  tooltip2="The Learning Agency"
-%}
+image2="images/learning-agency.png"
+link2="https://www.the-learning-agency.com/"
+tooltip2="The Learning Agency"
 
-<!-- {%
-  include gallery.html
-  style="square"
+image3="images/ies-logo.png"
+link3="https://ies.ed.gov/"
+tooltip3="Institute for Education Sciences"
 
-  image1="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png"
-  link1="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
-  tooltip1="National Science Foundation"
+image4="images/bmg-logo.png"
+link4="https://www.gatesfoundation.org/"
+tooltip4="Bill & Melinda Gates Foundation"
 
-  image2="images/learning-agency.png"
-  link2="https://www.the-learning-agency.com/"
-  tooltip2="The Learning Agency"
+image5="images/wff-logo.svg"
+link5="https://www.waltonfamilyfoundation.org/"
+tooltip5="Walton Family Foundation"
 
-  image3="images/ies-logo.png"
-  link3="https://ies.ed.gov/"
-  tooltip3="Institute for Education Sciences"
+image6="images/czi-logo.svg"
+link6="https://chanzuckerberg.com/"
+tooltip6="Chan Zuckerberg Initiative"
 
-  image4="images/bmg-logo.png"
-  link4="https://www.gatesfoundation.org/"
-  tooltip4="Bill & Melinda Gates Foundation"
+image7="images/nih-logo.png"
+link7="https://www.nih.gov/"
+tooltip7="National Institutes of Health"
 
-  image5="images/wff-logo.svg"
-  link5="https://www.waltonfamilyfoundation.org/"
-  tooltip5="Walton Family Foundation"
-
-  image6="images/czi-logo.svg"
-  link6="https://chanzuckerberg.com/"
-  tooltip6="Chan Zuckerberg Initiative"
-
-  image7="images/nih-logo.png"
-  link7="https://www.nih.gov/"
-  tooltip7="National Institutes of Health"
-  
-
-%}-->
