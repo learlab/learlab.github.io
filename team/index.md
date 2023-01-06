@@ -95,22 +95,27 @@ Our work is made possible by funding from several organizations.
   image3="images/ies-logo.png"
   link3="https://ies.ed.gov/"
   tooltip3="Institute for Education Sciences"
+  width="100%"
 
   image4="images/bmg-logo.png"
   link4="https://www.gatesfoundation.org/"
   tooltip4="Bill & Melinda Gates Foundation"
+  width="100%"
 
   image5="images/wff-logo.svg"
   link5="https://www.waltonfamilyfoundation.org/"
   tooltip5="Walton Family Foundation"
+  width="100%"
 
   image6="images/czi-logo.svg"
   link6="https://chanzuckerberg.com/"
   tooltip6="Chan Zuckerberg Initiative"
+  width="100%"
 
   image7="images/nih-logo.png"
   link7="https://www.nih.gov/"
   tooltip7="National Institutes of Health"
+  width="100%"
   
 
 %}
