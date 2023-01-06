@@ -92,7 +92,7 @@ Our work is made possible by funding from several organizations.
   link2="https://www.the-learning-agency.com/"
   tooltip2="The Learning Agency"
 
-  image3="images/ies-logo.png"
+  image3="images/ies-logo2.png"
   link3="https://ies.ed.gov/"
   tooltip3="Institute for Education Sciences"
   width="100%"
@@ -107,7 +107,7 @@ Our work is made possible by funding from several organizations.
   tooltip5="Walton Family Foundation"
   width="100%"
 
-  image6="images/czi-logo.svg"
+  image6="images/czi-logo.png"
   link6="https://chanzuckerberg.com/"
   tooltip6="Chan Zuckerberg Initiative"
   width="100%"
@@ -116,6 +116,5 @@ Our work is made possible by funding from several organizations.
   link7="https://www.nih.gov/"
   tooltip7="National Institutes of Health"
   width="100%"
-  
 
 %}
