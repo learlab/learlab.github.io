@@ -102,7 +102,7 @@ Our work is made possible by funding from several organizations.
   tooltip4="Bill & Melinda Gates Foundation"
   width="100%"
 
-  image5="images/white-wff-logo.svg"
+  image5="images/white-wff-logo.png"
   link5="https://www.waltonfamilyfoundation.org/"
   tooltip5="Walton Family Foundation"
   width="100%"
