@@ -1,5 +1,5 @@
 ---
-name: Yahan Yang
+name: Yuning Wu
 image: images/yuning.jpg
 description: Master's Student
 role: ma
