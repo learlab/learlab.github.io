@@ -2,10 +2,10 @@
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
 - id: doi:10.1075/jsls.22006.cro
-  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
+  title: "Assessing receptiv e vocabulary using state\u2011of\u2011the\u2011art natural\
     \ language processing techniques"
   authors:
-  - Scott Crossley
+  - Scott Crossley 
   - Langdon Holmes
   publisher: Journal of Second Language Studies
   date: '2022-09-20'
@@ -17,6 +17,8 @@
     link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
   - type: source
     link: https://github.com/langdonholmes/lexical_analysis
+  - type: preprint
+    link: https://zenodo.org/record/7637721#.Y-rlcebMJh4
   _cache: ca98b01b6a070431c9baef8e3d2f6cadb85b1bd0dc50ebb8546892c3345ac298
 - id: doi:10.1007/978-981-19-5240-1_12
   title: De-Identification of Student Writing in Technologically Mediated Educational
@@ -109,6 +111,8 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+  - type: preprint
+    link: https://zenodo.org/record/7637941#.Y-sQDebMJh4
   _cache: 185e648b0d3e2043e56ed4b6c72aeac4181f70c43b7c6f68a6d01c3040e80354
 - id: doi:10.1177/02655322211060076
   title: Roles of working memory, syllogistic inferencing ability, and linguistic
@@ -125,6 +129,8 @@
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/abs/10.1177/02655322211060076
+  - type: preprint
+    link: https://zenodo.org/record/7637935#.Y-sO9ubMJh4
   _cache: 55c5f86af92d9fb34b73ea524c68e6ad0ccd649abdc9a8472b85ced96fefa592
 - id: doi:10.1007/s11145-021-10229-3
   title: Cohesive devices as an indicator of L2 students' writing fluency
@@ -222,6 +228,8 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/13670050.2020.1838434?journalCode=rbeb20
+  - type: preprint
+    link: https://zenodo.org/record/7637937#.Y-sPgObMJh4
   _cache: 6061a3617ffa04974ab32afcc25020edc6c9fe0f34d94e74514277e2001ce789
 - id: doi:10.1037/tmb0000063
   title: 'Toward more effective and equitable learning: Identifying barriers and solutions
@@ -366,7 +374,9 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1844205
-  _cache: 5f3ab0893381280f62aea5891ff6acf7b9a7e9a5d36132c1f413198875b808b1
+  - type: preprint
+    link: https://zenodo.org/record/7637731#.Y-rnGObMJh4
+    _cache: 5f3ab0893381280f62aea5891ff6acf7b9a7e9a5d36132c1f413198875b808b1
 - id: doi:10.1017/S0272263120000546
   title: MEASURING LONGITUDINAL WRITING DEVELOPMENT USING INDICES OF SYNTACTIC COMPLEXITY
     AND SOPHISTICATION
@@ -398,6 +408,8 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/abs/10.1111/ijal.12358
+  - type: preprint
+    link: https://zenodo.org/record/7637932#.Y-sOhObMJh4
   _cache: b01ea765692b825d53073f5f4e2f1d504454ccf36402eb437d2e1b3c02e814ac
 - id: doi:10.1353/hpu.2021.0067
   title: 'Validity of a Computational Linguistics-Derived Automated Health Literacy
@@ -516,6 +528,8 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1775234
+  - type: preprint
+    link: https://zenodo.org/record/7637749#.Y-rrQebMJh4
   _cache: 64b267e5a401780f76bbfc39524598718745de5c68f0827060156b1628b4f6b2
 - id: doi:10.1093/applin/amy056
   title: 'In Search of New Benchmarks: Using L2 Lexical Frequency and Contextual Diversity
@@ -531,6 +545,8 @@
   extra-links:
   - type: journal
     link: https://academic.oup.com/applij/article-abstract/41/2/280/5259044?redirectedFrom=fulltext#no-access-message
+  - type: preprint
+    link: https://zenodo.org/record/7637756#.Y-rsYObMJh4
   _cache: 2e1c258730d78e3f1e911de72585c4fb98611a957a87407e27bd2850f3985c31
 - id: doi:10.1016/j.jslw.2020.100730
   title: 'Verb argument construction complexity indices and L2 writing quality: Effects
@@ -545,6 +561,8 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S1060374320300217
+  - type: preprint
+    link: https://zenodo.org/record/7637960#.Y-sSQubMJh4
   _cache: 2cb3c4d9443c4acbee48739f67e1933164a4fbf1f0b8895ce4d8f4f5cf7b722d
 - id: doi:10.1075/ml.19028.ska
   title: Predictors of second language English lexical recognition
@@ -627,6 +645,8 @@
   extra-links:
   - type: journal
     link: https://academic.oup.com/applij/article-abstract/40/1/22/3067193
+  - type: preprint
+    link: https://zenodo.org/record/7637954#.Y-sR3ObMJh4
   _cache: 23e0d7f6558cd6e53955d192182d73e25c53f8b22b1f7c555507fdaa3b75cd75
 - id: doi:10.1017/S0272263119000019
   title: USING LEXICAL FEATURES TO INVESTIGATE SECOND LANGUAGE LEXICAL DECISION PERFORMANCE
@@ -641,6 +661,8 @@
   extra-links:
   - type: journal
     link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/using-lexical-features-to-investigate-second-language-lexical-decision-performance/1EE0B34CD6220D8AB3FBB2730A786D36
+  - type: preprint
+    link: https://zenodo.org/record/7637952#.Y-sRUubMJh4
   _cache: ff0e63eb72aa72fd9192fd8cf24afd87090643c433701f45488e41629ca06f1b
 - id: doi:10.17239/jowr-2019.11.02.01
   title: Using human judgments to examine the validity of automated grammar, syntax,
@@ -668,6 +690,8 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2019.1628239
+  - type: preprint
+    link: https://zenodo.org/record/7637943#.Y-sQsebMJh4
   _cache: 72bc3c05bb2540b527f1b7c74f55684e7c84a7082f36ddee55a14b331f68496d
 - id: doi:10.3758/s13428-018-1142-4
   title: 'The Tool for the Automatic Analysis of Cohesion 2.0: Integrating semantic
@@ -697,6 +721,8 @@
   extra-links:
   - type: journal
     link: https://www.cambridge.org/core/journals/language-teaching/article/abs/examining-lexical-development-in-second-language-learners-an-approximate-replication-of-salsbury-crossley-mcnamara-2011/C60453A9438CAED92D734D7FEE79FC81
+  - type: preprint
+    link: https://zenodo.org/record/7637741#.Y-rqr-bMJh4
   _cache: cbca46e683539cac93ca90118404c61963472caeb21fc440b6071b982ae3a98f
 - id: doi:10.1177/1367006917728396
   title: Making sense of polysemy relations in first and second language speakers
@@ -743,6 +769,8 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S0346251X1830201X
+  - type: preprint
+    link: https://zenodo.org/record/7637930#.Y-sOBObMJh4
   _cache: 4d82c2ac60b9297566d1f66082ab655e244ff192ebe940ad3644cab3c7e63637
 - id: doi:10.18823/asiatefl.2019.16.1.3.37
   title: Predicting Second Language Writing Proficiency in Learner Texts Using Computational
@@ -856,6 +884,8 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830059X
+  - type: preprint
+    link: https://zenodo.org/record/7637966#.Y-sTDObMJh4
   _cache: e065e59143c9ec615069a2614a95607e8ba6cc019c3c982d92d21c630ae147f3
 - id: doi:10.1111/modl.12494
   title: "A Latent Curve Model Approach To Studying L2 N\u2010Gram Development"
@@ -886,6 +916,8 @@
   extra-links:
   - type: journal
     link: https://www.degruyter.com/document/doi/10.1515/iral-2017-0089/html
+  - type: preprint
+    link: https://zenodo.org/record/7637735#.Y-rpMObMJh4
   _cache: 6fb9a191fb5357d140d6e37a729a57862fb4aae0bc6de28a9c658f698a6c826a
 - id: doi:10.1016/j.asw.2018.03.002
   title: 'Modeling second language writing quality: A structural equation investigation
@@ -900,6 +932,8 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830028X
+  - type: preprint
+    link: https://zenodo.org/record/7637924#.Y-sNTubMJh4
   _cache: 9cef2cffa97f11bda2199839ab8c4acbaca0bdb59a5a5cc793344f10c34e5d75
 - id: doi:10.1111/modl.12447
   title: 'Lexical Sophistication as a Multidimensional Phenomenon: Relations to Second
@@ -915,6 +949,8 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/abs/10.1111/modl.12447
+  - type: preprint
+    link: https://zenodo.org/record/7637917#.Y-sL3ebMJh4
   _cache: 3719407309c10eed4923a1954a52e01758878f996a6f41bff80ac1b7469e632f
 - id: doi:10.1007/s11145-018-9833-x
   title: Effects of lexical features, textual properties, and individual differences
@@ -930,6 +966,8 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-018-9833-x
+  - type: preprint
+    link: https://zenodo.org/record/7637739#.Y-rp4ubMJh4
   _cache: bbf337e46b2bb32ed98470ce9d34cfd3d540d27d4a9c441d55211a16eeeb5ab5
 - id: doi:10.1111/modl.12468
   title: Measuring Syntactic Complexity in L2 Writing Using Fine-Grained Clausal and
@@ -944,6 +982,8 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12468
+  - type: preprint
+    link: https://zenodo.org/record/7637920#.Y-sMbubMJh4
   _cache: f3bd734e02526be3d72d4bd1d7eaf37a8e17dac779b47cf9a533151105fbe78d
 - id: doi:10.3758/s13428-017-0924-4
   title: 'The tool for the automatic analysis of lexical sophistication (TAALES):
@@ -1042,7 +1082,9 @@
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/10.1177/0265532217712554
-  _cache: dbd6db77ae2bde81ec30b47d244cfbe9f9c19b64ba01eb39bae92f616d65a045
+  - type: preprint
+    link: https://zenodo.org/record/7637729#.Y-rmOubMJh4
+    _cache: dbd6db77ae2bde81ec30b47d244cfbe9f9c19b64ba01eb39bae92f616d65a045
 - id: doi:10.1155/2017/1348242
   title: 'The Next Frontier in Communication and the ECLIPPSE Study: Bridging the
     Linguistic Divide in Secure Messaging'
@@ -1098,4 +1140,6 @@
   extra-links:
   - type: journal
     link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/absolute-frequency-effects-in-second-language-lexical-acquisition/B29E38545DA6B892B07010FD6F026DB4
+  - type: preprint
+    link: https://zenodo.org/record/7637718#.Y-rkNubMJh4
   _cache: ad159518d345a03f5b67f153c4eb52959194093463ee21edabc0c21dd3b0dc5d
