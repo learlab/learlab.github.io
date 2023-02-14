@@ -15,32 +15,33 @@ We have a diverse and supportive team with a wide range of skillsets and backgro
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: pi, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: phd, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: ma"
+  filters="role: ma, group: "
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: undergrad"
+  filters="role: undergrad, group: "
 %}
 {:.center}
 
-## Former Student
+## Alumni
 
 
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+
 
 
 {% include section.html background="images/banner.jpg" dark=true%}
