@@ -2,7 +2,6 @@
 title: Home
 ---
 
-# Life long learning
 
 {%
   include figure.html
