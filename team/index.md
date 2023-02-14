@@ -40,7 +40,7 @@ We have a diverse and supportive team with a wide range of skillsets and backgro
 ## Alumni
 
 
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" %}
 
 
 
