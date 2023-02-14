@@ -37,6 +37,12 @@ We have a diverse and supportive team with a wide range of skillsets and backgro
 %}
 {:.center}
 
+## Former Student
+
+
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+
+
 {% include section.html background="images/banner.jpg" dark=true%}
 
 Teamwork makes the dream work.
