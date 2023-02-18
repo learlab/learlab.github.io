@@ -11,7 +11,8 @@
   subtitle: Persuasive Essays for Rating, Selecting, and Understanding Argumentative and Discourse Elements corpus
   group: datasets
   image: images/PERSUADE.png
-  link:
+  link: https://www.kaggle.com/competitions/feedback-prize-2021
+  link: https://www.kaggle.com/competitions/feedback-prize-effectiveness/discussion
   description: PERSUADE is an open-source corpus comprising over 25,000 essays annotated for argumentative and discourse elements and relationships between these elements. The corpus includes holistic quality scores for each essay and for each argumentative and discourse element. Lastly, PERSUADE includes detailed demographic information for the writers.
   tags:
     - corpus
@@ -20,7 +21,7 @@
   subtitle: English Language Learner Insight, Proficiency and Skills Evaluation Corpus
   group: datasets
   image: images/ELLIPSE.png
-  link:
+  link: https://www.kaggle.com/competitions/feedback-prize-english-language-learning
   description: ELLIPSE comprises ~7,000 essays written by English Language Learners (ELL). The essays were written on 29 different independent prompts that required no background knowledge on the part of the writer. Individual difference information is made available for each essay, including economic status, gender, grade level (8-12), and race/ethnicity. Each essay was scored by two normed human raters for English language proficiency including an overall score of English proficiency and analytic scores for cohesion, syntax, vocabulary, phraseology, grammar, and conventions. 
   tags:
     - corpus
