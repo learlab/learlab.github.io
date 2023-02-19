@@ -428,3 +428,330 @@
   extra-links:
     - type: journal
       link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/absolute-frequency-effects-in-second-language-lexical-acquisition/B29E38545DA6B892B07010FD6F026DB4
+
+- id: doi:10.5281/zenodo.3554593
+  image: https://jedm.educationaldatamining.org/public/journals/1/cover_issue_19_en_US.png
+  extra-links:
+    - type: journal
+      link: https://jedm.educationaldatamining.org/index.php/JEDM/article/view/JEDM-2016-2-1
+    - type: preprint
+      link: https://zenodo.org/record/3554594#.Y_BUs-bMKTw
+
+- id: doi:10.1016/j.jslw.2016.01.003
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374316X00021-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/abs/pii/S1060374316300030
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED565451.pdf
+
+- id: doi:10.3758/s13428-015-0651-7
+  image: https://www.springer.com/journal/13428
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-015-0651-7
+
+- id: doi:10.1111/modl.12344
+  image: https://onlinelibrary.wiley.com/cms/asset/a7f28f9c-1355-4fcd-be6a-55a5fab79af2/modl.v100.3.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12344
+
+- id: doi:10.17239/jowr-2016.07.03.02
+  image: https://oaji.net/images/journals/small/2016/file1453363070.jpg
+  extra-links:
+    - type: journal
+      link: https://www.jowr.org/index.php/jowr/article/view/657
+    - type: preprint
+      link: https://www.researchgate.net/publication/293479064_Say_More_and_Be_More_Coherent_How_Text_Elaboration_and_Cohesion_Can_Increase_Writing_Quality
+
+- id: doi:10.1177/0741088316650178
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2023/wcxa_40_1/wcxa_40_1/20221209/wcxa_40_1.largecover.png
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/10.1177/0741088316650178
+    - type: preprint
+      link: https://www.joycerain.com/uploads/2/3/2/0/23207256/idea_generation_in_student_wrting.pdf
+
+- id: doi:10.1007/s11145-015-9615-7
+  image: 	https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11145-015-9615-7
+    - type: preprint
+      link: https://www.researchgate.net/publication/292948698_Accuracy_feedback_improves_word_learning_from_context_evidence_from_a_meaning-generation_task
+
+- id: doi:10.1016/j.jslw.2016.10.003
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374316X00045-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/abs/pii/S1060374316301035?via%3Dihub
+
+- id: doi:10.1177/0265532215587391
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2023/ltja_40_1/ltja_40_1/20230111-01/ltja_40_1.largecover.png
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/10.1177/0265532215587391
+
+- id: doi:10.1007/978-981-19-5240-1_5
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-981-19-5240-1.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_5
+    - type: preprint
+      link: https://www.researchgate.net/publication/363917016_Automated_Paragraph_Detection_Using_Cohesion_Network_Analysis
+
+- id: doi:10.1007/978-981-19-5240-1_6
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-981-19-5240-1.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_6
+
+- id: doi:10.1007/978-981-19-5240-1_12
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-981-19-5240-1.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_12
+    - type: preprint
+      link: https://zenodo.org/record/7262351
+
+- id: doi:10.1007/978-3-031-11644-5_79
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-031-11644-5.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-031-11644-5_79
+
+- id: doi:10.1145/3513140
+  image: https://dl.acm.org/cms/asset/93de28ec-01e2-4a6f-83a2-10087c344ac0/3542931.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://dl.acm.org/doi/10.1145/3513140
+    - type: preprint
+      link: https://drive.google.com/file/d/11TpiU7JSEWre1mYxKQCcW0bnZwe-mzsP/view
+    - type: source
+      link: https://www.linguisticanalysistools.org/arte.html
+
+- id: doi:10.1007/978-3-031-09680-8_16
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-031-09680-8.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-031-09680-8_16
+    - type: preprint
+      link: https://github.com/wanqian0202/ITS-2022-Automated-Classification-of-Argumentative-Components-in-Students-Essays/blob/main/ITS_argumentative_components_supplementary_materials.pdf
+
+- id: doi:10.1007/978-3-030-80421-3_35
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-80421-3.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-030-80421-3_35
+
+- id: doi:10.1007/978-3-030-78292-4_7
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-78292-4.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-030-78292-4_7
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED619752.pdf
+
+- id: doi:10.1007/978-3-030-52240-7_6
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-52240-7.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-030-52240-7_6
+
+- id: doi:10.1007/978-3-030-52237-7_35
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-52240-7.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-030-52237-7_35
+    - type: preprint
+      link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334159/
+
+- id: doi:10.1007/978-3-030-52240-7_60
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-52240-7.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-030-52240-7_60
+
+- id: doi:10.4230/OASIcs.LDK.2019.25
+  image: https://www.sba-research.org/wp-content/uploads/2022/04/Dagstuhl.jpg
+  extra-links:
+    - type: journal
+      link: https://drops.dagstuhl.de/opus/volltexte/2019/10389/
+    - type: preprint
+      link: https://drops.dagstuhl.de/opus/volltexte/2019/10389/pdf/OASIcs-LDK-2019-25.pdf
+
+- id: doi:10.1007/978-3-030-23204-7_8
+  image: https://media.springernature.com/w184/springer-static/cover/series/558.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-030-23204-7_8
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED603835.pdf
+
+- id: doi:10.1145/3170358.3170369
+  image: https://dl.acm.org/cms/asset/2ccdfa2a-ba83-4390-91af-54a96788947c/3170358.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://dl.acm.org/doi/10.1145/3170358.3170369
+    - type: preprint
+      link: https://learninganalytics.upenn.edu/ryanbaker/LAK_Paper49.pdf
+
+- id: doi:10.1007/978-3-319-92022-1_12
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-92022-1.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-92022-1_12
+    - type: preprint
+      link: https://www.researchgate.net/publication/325252661_ReadME_-_Generating_Personalized_Feedback_for_Essay_Writing_Using_the_ReaderBench_Framework
+
+- id: doi: 10.1007/978-3-319-93846-2_12
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-93846-2.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-93846-2_12
+    - type: preprint
+      link: https://www.researchgate.net/publication/325861918_Modeling_Math_Success_Using_Cohesion_Network_Analysis
+
+- id: doi:10.1007/978-3-319-98572-5_59
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-98572-5.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-98572-5_59
+    - type: preprint
+      link: https://www.researchgate.net/publication/327004696_Cohesion-Centered_Analysis_of_Sociograms_for_Online_Communities_and_Courses_Using_ReaderBench_13th_European_Conference_on_Technology_Enhanced_Learning_EC-TEL_2018_Leeds_UK_September_3-5_2018_Proceedin
+
+- id: doi:10.1007/978-3-319-93843-1_36
+  image: 978-3-319-93843-1.jpg (184_279) (springernature.com)
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-93843-1_36
+    - type: preprint
+      link: https://www.researchgate.net/publication/325849455_Predicting_Question_Quality_Using_Recurrent_Neural_Networks
+    - type: source
+      link: http://www.cdlponline.org/
+
+- id: doi:10.1007/978-3-319-99344-7_28
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-99344-7.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-99344-7_28
+    - type: preprint
+      link: https://www.researchgate.net/publication/327267505_ReadME_-_Enhancing_Automated_Writing_Evaluation
+
+- id: doi:10.1007/978-3-319-93846-2_63
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-93846-2.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-93846-2_63
+    - type: preprint
+      link: https://edisciplinas.usp.br/pluginfile.php/5859600/mod_folder/content/0/Exploring%20Online%20Course%20Sociograms%20Using%20Cohesion%20Network%20Analysis.pdf?forcedownload=1
+
+- id: doi:10.18653/v1/W18-0902
+  extra-links:
+    - type: journal
+      link: https://aclanthology.org/W18-0902/
+    - type: preprint
+      link: https://www.researchgate.net/publication/325448970_Linguistic_Features_of_Sarcasm_and_Metaphor_Production_Quality
+
+- id: doi:10.1145/3170358.3170369
+  image: https://dl.acm.org/cms/asset/2ccdfa2a-ba83-4390-91af-54a96788947c/3170358.cover.jpg
+  extra-links:
+    - type: journal
+      link: https://dl.acm.org/doi/10.1145/3170358.3170369
+    - type: preprint
+      link: https://learninganalytics.upenn.edu/ryanbaker/LAK_Paper49.pdf
+
+- id: doi:10.1145/3027385.3027399
+  image: https://dl.acm.org/specs/products/acm/releasedAssets/images/cover-default--acm-proceeding.svg
+  extra-links:
+    - type: journal
+      link: https://dl.acm.org/doi/10.1145/3027385.3027399
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED585774.pdf
+
+- id: doi:10.1007/978-3-319-59888-8_28
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-59888-8.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-59888-8_28
+
+- id: doi:10.1007/978-3-319-66610-5_48
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-66610-5.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-66610-5_48
+    - type: preprint
+      link: https://hal.science/hal-01584870
+
+- id: doi:10.1007/978-3-319-61425-0_55
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-61425-0.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-61425-0_55
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED577121.pdf
+
+- id: doi:10.21125/edulearn.2016.2241
+  image: https://iated.org/common/img/edulearn16_proceedings.jpg
+  extra-links:
+    - type: journal
+      link: https://library.iated.org/view/ALLEN2016MOD
+    - type: preprint
+      link: https://www.researchgate.net/publication/305704575_Modeling_individual_differences_among_writers_using_ReaderBench
+
+- id: doi:10.1145/2883851.2883939
+  image: https://dl.acm.org/specs/products/acm/releasedAssets/images/cover-default--acm-proceeding.svg
+  extra-links:
+    - type: journal
+      link: https://dl.acm.org/doi/10.1145/2883851.2883939
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED585776.pdf
+
+- id: doi:10.1145/2883851.2883931
+  image: https://dl.acm.org/specs/products/acm/releasedAssets/images/cover-default--acm-proceeding.svg
+  extra-links:
+    - type: journal
+      link: https://dl.acm.org/doi/10.1145/2883851.2883931
+    - type: preprint
+      link: https://learninganalytics.upenn.edu/ryanbaker/LAK16_paper_186.pdf
+
+- id: doi:10.1609/aaai.v30i1.10372
+  image: https://ojs.aaai.org/public/journals/2/cover_issue_303_en_US.jpg
+  extra-links:
+    - type: journal
+      link: https://ojs.aaai.org/index.php/AAAI/article/view/10372
+    - type: preprint
+      link: https://researchlanglit.gsu.edu/files/2016/08/age-of-exposure.pdf
+
+- id: doi:10.1007/978-3-319-45153-4_29
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-45153-4.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-45153-4_29
+    - type: preprint
+      link: https://www.researchgate.net/publication/307854622_Predicting_Academic_Performance_Based_on_Students'_Blog_and_Microblog_Posts
+
+- id: doi:10.1109/ICALT.2016.104
+  image: https://csdl-images.ieeecomputer.org/website/default-covers/proceedings/proceedings.jpg
+  extra-links:
+    - type: journal
+      link: https://ieeexplore.ieee.org/document/7756953
+    - type: preprint
+      link: https://www.researchgate.net/publication/311313468_Predicting_Student_Performance_and_Differences_in_Learning_Styles_Based_on_Textual_Complexity_Indices_Applied_on_Blog_and_Microblog_Posts_A_Preliminary_Study
+
+- id: doi:10.1007/978-3-319-44748-3_35
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-44748-3.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-44748-3_35
+    - type: preprint
+      link: https://core.ac.uk/download/pdf/55539384.pdf
+
+- id: doi:10.1109/SYNASC.2016.044
+  image: https://csdl-images.ieeecomputer.org/website/default-covers/proceedings/proceedings.jpg
+  extra-links:
+    - type: journal
+      link: https://ieeexplore.ieee.org/document/7829616
+    - type: preprint
+      link: https://core.ac.uk/reader/74509611
