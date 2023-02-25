@@ -445,6 +445,7 @@
     - type: preprint
       link: https://files.eric.ed.gov/fulltext/ED565451.pdf
 
+
 - id: doi:10.3758/s13428-015-0651-7
   image: https://www.springer.com/journal/13428
   extra-links:
@@ -473,20 +474,6 @@
     - type: preprint
       link: https://www.joycerain.com/uploads/2/3/2/0/23207256/idea_generation_in_student_wrting.pdf
 
-- id: doi:10.1007/s11145-015-9615-7
-  image: 	https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
-  extra-links:
-    - type: journal
-      link: https://link.springer.com/article/10.1007/s11145-015-9615-7
-    - type: preprint
-      link: https://www.researchgate.net/publication/292948698_Accuracy_feedback_improves_word_learning_from_context_evidence_from_a_meaning-generation_task
-
-- id: doi:10.1016/j.jslw.2016.10.003
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374316X00045-cov150h.gif
-  extra-links:
-    - type: journal
-      link: https://www.sciencedirect.com/science/article/abs/pii/S1060374316301035?via%3Dihub
-
 - id: doi:10.1177/0265532215587391
   image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2023/ltja_40_1/ltja_40_1/20230111-01/ltja_40_1.largecover.png
   extra-links:
@@ -507,6 +494,12 @@
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_6
 
+- id: doi:10.1016/j.jslw.2016.10.003
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374316X00045-cov150h.gif
+  extra-links:
+    - type: journal
+      link: https://www.sciencedirect.com/science/article/abs/pii/S1060374316301035?via%3Dihub
+
 - id: doi:10.1007/978-981-19-5240-1_12
   image: https://media.springernature.com/w184/springer-static/cover/book/978-981-19-5240-1.jpg?as=webp
   extra-links:
@@ -520,6 +513,7 @@
   extra-links:
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-3-031-11644-5_79
+
 
 - id: doi:10.1145/3513140
   image: https://dl.acm.org/cms/asset/93de28ec-01e2-4a6f-83a2-10087c344ac0/3542931.cover.jpg
@@ -605,14 +599,6 @@
     - type: preprint
       link: https://www.researchgate.net/publication/325252661_ReadME_-_Generating_Personalized_Feedback_for_Essay_Writing_Using_the_ReaderBench_Framework
 
-- id: doi: 10.1007/978-3-319-93846-2_12
-  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-93846-2.jpg?as=webp
-  extra-links:
-    - type: journal
-      link: https://link.springer.com/chapter/10.1007/978-3-319-93846-2_12
-    - type: preprint
-      link: https://www.researchgate.net/publication/325861918_Modeling_Math_Success_Using_Cohesion_Network_Analysis
-
 - id: doi:10.1007/978-3-319-98572-5_59
   image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-98572-5.jpg?as=webp
   extra-links:
@@ -620,6 +606,7 @@
       link: https://link.springer.com/chapter/10.1007/978-3-319-98572-5_59
     - type: preprint
       link: https://www.researchgate.net/publication/327004696_Cohesion-Centered_Analysis_of_Sociograms_for_Online_Communities_and_Courses_Using_ReaderBench_13th_European_Conference_on_Technology_Enhanced_Learning_EC-TEL_2018_Leeds_UK_September_3-5_2018_Proceedin
+
 
 - id: doi:10.1007/978-3-319-93843-1_36
   image: 978-3-319-93843-1.jpg (184_279) (springernature.com)
@@ -684,6 +671,7 @@
     - type: preprint
       link: https://hal.science/hal-01584870
 
+
 - id: doi:10.1007/978-3-319-61425-0_55
   image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-61425-0.jpg?as=webp
   extra-links:
@@ -724,6 +712,7 @@
     - type: preprint
       link: https://researchlanglit.gsu.edu/files/2016/08/age-of-exposure.pdf
 
+
 - id: doi:10.1007/978-3-319-45153-4_29
   image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-45153-4.jpg?as=webp
   extra-links:
@@ -755,3 +744,221 @@
       link: https://ieeexplore.ieee.org/document/7829616
     - type: preprint
       link: https://core.ac.uk/reader/74509611
+
+- id: url:http://www.journals.aiac.org.au/index.php/alls/article/view/2342
+  image: https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-6/304783592_498808318918704_5881169137040006181_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=qs3aJUPrmgIAX8sSuTK&_nc_ht=scontent-atl3-1.xx&oh=00_AfAjD3pVVOyEtBLpCdk_DhnIrS5KMD-Q3ivFgdfil-UFtA&oe=63F52F9
+  extra-links:
+    - type: journal
+      link: http://www.journals.aiac.org.au/index.php/alls/article/view/2342
+    - type: preprint
+      link: https://www.researchgate.net/publication/301542460_Linguistic_Features_of_Humor_in_Academic_Writing
+
+- id: url:https://escholarship.org/uc/item/5fd5r301
+  image: https://cognitivesciencesociety.org/wp-content/uploads/2018/12/CogSciLogoForWeb-green.png
+  extra-links:
+    - type: journal
+      link: https://escholarship.org/uc/item/5fd5r301
+    - type: preprint
+      link: https://escholarship.org/uc/item/5fd5r301
+
+- id: isbn:9781577357872
+
+- title: Text-based recall and extra-textual generations resulting from simplified and authentic texts
+  authors:
+    - Scott Crossley
+    - Danielle S. McNamara
+  publisher:  Reading in a Foreign Language, 28 
+  date: 2016-04
+  link: https://scholarspace.manoa.hawaii.edu/items/2f2133d7-f8ff-45aa-a084-13522fe6007c
+  extra-links:
+    - type: preprint
+      link: https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/33ba0bac-1554-4a30-ba6f-49a61a8a7b34/content
+
+- title: The CommonLit Ease of Readability 
+  authors:
+    - Scott Crossley
+    - Heintz Aron
+    - Joon Choi
+    - Jordan Batchelor
+    - Mehrnoush Karimi
+  publisher: Proceedings of the 14th International Conference on Educational Data Mining (EDM)
+  date: 2021-06
+  link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_35.pdf
+  extra-links:
+    - type: preprint
+      link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_35.pdf
+    - type: source
+      link: https://github.com/scrosseye/CLEAR-Corpus
+
+- title: Automated Claim Identification Using NLP Features in Student Argumentative Essays
+  authors:
+    - Wan Qian
+    - Crossley Scott
+    - Banawan Michelle
+    - Balyan Renu
+    - Tian Yu
+    - McNamara Danielle
+    - Allen Laura
+  publisher:  Proceedings of the 14th International Conference on Educational Data Mining 
+  date: 2021-06-29
+  link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_163.pdf
+  extra-links:
+    - type: preprint
+      link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_163.pdf
+    - type: source
+      link: https://github.com/scrosseye/Claim_Identification_Corpus
+
+- title: Claim Detection and Relationship with Writing Quality
+  authors:
+    - Qian Wan
+    - Scott Crossley
+    - Laura K. Allen 
+    - Danielle S. McNamara
+  publisher: Proceedings of the 13th International Conference on Educational Data Mining (EDM)
+  date: 2020-06
+  link: https://files.eric.ed.gov/fulltext/ED612211.pdf
+  extra-links:
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED612211.pdf
+      
+- title: Longitudinal Analysis and Visualization of Participation in Online Courses Powered by Cohesion Network Analysis
+  authors:
+    - Sirbu Maria-Dorinela 
+    - Dascalu Mihai 
+    - Crossley Scott 
+    - McNamara Danielle
+    - Trausan-Matu
+    - Stefan
+  publisher: 'A Wide Lens: Combining Embodied, Enactive, Extended, and Embedded Learning in Collaborative Settings, 13th International Conference on Computer Supported Collaborative Learning (CSCL) 2019, Volume 2 (pp. 640-643)'
+  date: 2019-06
+  link: https://repository.isls.org/handle/1/4476
+  extra-links:
+    - type: journal
+      link: https://repository.isls.org/handle/1/4476
+    - type: preprint
+      link: https://repository.isls.org/bitstream/1/4476/1/640-643.pdf
+
+- title: How Many Words Needed? Using Natural Language Processing Tools in Educational Data Mining
+  authors:
+    - Scott Crossley
+  publisher: Proceedings of the 10th International Conference on Educational Data Mining (EDM)
+  date: 2019-01
+  link: https://www.researchgate.net/publication/330524566_How_Many_Words_Needed_Using_Natural_Language_Processing_Tools_in_Educational_Data_Mining
+
+- title: Linking language to math success in a blended course
+  authors:
+    - Scott Crossley
+    - Tiffany Barnes
+    - Collin Lynch
+    - Danielle McNamara
+  publisher: Proceedings of the 10th International Conference on Educational Data Mining
+  date: 2017-01
+  link: https://files.eric.ed.gov/fulltext/ED596603.pdf
+  extra-links:
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED596603.pdf
+
+- title: Predicting Success in Massive Open Online Courses 
+  authors:
+    - Crossley Scott 
+    - Dascalu Mihai 
+    - McNamara Danielle S 
+    - Baker Ryan 
+    - Trausan-Matu Stefan
+  publisher: Proceeding of the 12th International Conference on Computer Supported Collaborative Learning (CSCL)
+  date: 2017-07
+  link: https://repository.isls.org/handle/1/220
+  extra-links:
+    - type: journal
+      link: https://repository.isls.org/handle/1/220
+    - type: preprint
+      link: https://learninganalytics.upenn.edu/ryanbaker/ScottCSCL2017v3.pdf
+
+- title: How important is size? An Investigation of Corpus Size and Meaning in both Latent Semantic Analysis and Latent Dirichlet Allocation
+  authors:
+    - Scott Crossley
+    - Dascalu Mihai
+    - Danielle McNamara
+  publisher: Proceedings of the 30th International Florida Artificial Intelligence Research Society (FLAIRS) Conference
+  date: 2017-01
+  link: https://www.researchgate.net/publication/319598954_How_Important_Is_Size_An_Investigation_of_Corpus_Size_and_Meaning_in_both_Latent_Semantic_Analysis_and_Latent_Dirichlet_Allocation
+  extra-links:
+    - type: preprint
+      link: https://www.researchgate.net/publication/319598954_How_Important_Is_Size_An_Investigation_of_Corpus_Size_and_Meaning_in_both_Latent_Semantic_Analysis_and_Latent_Dirichlet_Allocation
+
+- title: Modeling comprehension processes via automated analyses of dialogism
+  authors:
+    - Mihai Dascalu 
+    - Laura K Allen 
+    - Danielle McNamara 
+    - Stefan Trausan-Matu 
+    - Scott A Crossley
+  publisher: Proceeding of the 39th Annual Meeting of the Cognitive Science Society
+  date: 2017-01
+  link: https://files.eric.ed.gov/fulltext/ED577141.pdf
+  extra-links:
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED577141.pdf
+
+- title: 'Document cohesion flow: Striving towards coherence'
+  authors:
+    - Scott Crossley
+    - Mihai DascaluStefan
+    - Trausan-Matu
+    - Laura Allen
+    - Danielle S. McNamara
+  publisher: Proceedings of the 38th Annual Conference of the Cognitive Science Society
+  date: 2016-01
+  link: https://core.ac.uk/display/55539347?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+  extra-links:
+    - type: journal
+      link: https://core.ac.uk/display/55539347?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+    - type: preprint
+      link: https://www.researchgate.net/publication/319598842_Document_Cohesion_Flow_Striving_towards_Coherence
+
+- title: Automatic Assessment of Constructed Response Data in a Chemistry Tutor
+  authors:
+    - Scott Crossley
+    - Kristopher Kyle
+    - Jodi Davenport
+    - Danielle S. McNamara
+  publisher: Proceedings of the 9th International Educational Data Mining (EDM)
+  date: 2016-01
+  link: https://files.eric.ed.gov/fulltext/ED592642.pdf
+  extra-links:
+    - type: preprint
+      link: https://files.eric.ed.gov/fulltext/ED592642.pdf
+
+- id: doi:10.1007/978-3-319-93846-2_12
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-93846-2.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-319-93846-2_12
+    - type: preprint
+      link: https://www.researchgate.net/publication/325861918_Modeling_Math_Success_Using_Cohesion_Network_Analysis
+
+- id: doi:10.1007/s11145-015-9615-7
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11145-015-9615-7
+    - type: preprint
+      link: https://www.researchgate.net/publication/292948698_Accuracy_feedback_improves_word_learning_from_context_evidence_from_a_meaning-generation_task
+    
+- id: isbn:9780991196777
+  image: https://cognitivesciencesociety.org/wp-content/uploads/2019/01/Screen-Shot-2018-09-14-at-12.58.38-PM.png
+  extra-links:
+    - type: journal
+      link: https://cogsci.mindmodeling.org/2019/papers/0196/index.html
+    - type: preprint
+      link: https://cogsci.mindmodeling.org/2019/papers/0196/0196.pdf
+
+- id: ark:/13960/s2hpbqps95m
+  extra-links:
+    - type: preprint
+      link: https://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_38.pdf
+
+- id: isbn:9781577357872
+  extra-links:
+    - type: preprint
+      link: https://www.researchgate.net/publication/316997788_Computational_Analysis_of_Lexical_and_Cohesion_Differences_in_Deceptive_Language_The_Role_of_Accordance
