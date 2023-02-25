@@ -5,7 +5,7 @@
   title: "Assessing receptiv e vocabulary using state\u2011of\u2011the\u2011art natural\
     \ language processing techniques"
   authors:
-  - Scott Crossley 
+  - Scott Crossley
   - Langdon Holmes
   publisher: Journal of Second Language Studies
   date: '2022-09-20'
@@ -17,8 +17,6 @@
     link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
   - type: source
     link: https://github.com/langdonholmes/lexical_analysis
-  - type: preprint
-    link: https://zenodo.org/record/7637721#.Y-rlcebMJh4
   _cache: ca98b01b6a070431c9baef8e3d2f6cadb85b1bd0dc50ebb8546892c3345ac298
 - id: doi:10.1007/978-981-19-5240-1_12
   title: De-Identification of Student Writing in Technologically Mediated Educational
@@ -111,8 +109,6 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10221-x
-  - type: preprint
-    link: https://zenodo.org/record/7637941#.Y-sQDebMJh4
   _cache: 185e648b0d3e2043e56ed4b6c72aeac4181f70c43b7c6f68a6d01c3040e80354
 - id: doi:10.1177/02655322211060076
   title: Roles of working memory, syllogistic inferencing ability, and linguistic
@@ -129,8 +125,6 @@
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/abs/10.1177/02655322211060076
-  - type: preprint
-    link: https://zenodo.org/record/7637935#.Y-sO9ubMJh4
   _cache: 55c5f86af92d9fb34b73ea524c68e6ad0ccd649abdc9a8472b85ced96fefa592
 - id: doi:10.1007/s11145-021-10229-3
   title: Cohesive devices as an indicator of L2 students' writing fluency
@@ -228,8 +222,6 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/13670050.2020.1838434?journalCode=rbeb20
-  - type: preprint
-    link: https://zenodo.org/record/7637937#.Y-sPgObMJh4
   _cache: 6061a3617ffa04974ab32afcc25020edc6c9fe0f34d94e74514277e2001ce789
 - id: doi:10.1037/tmb0000063
   title: 'Toward more effective and equitable learning: Identifying barriers and solutions
@@ -374,9 +366,7 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1844205
-  - type: preprint
-    link: https://zenodo.org/record/7637731#.Y-rnGObMJh4
-    _cache: 5f3ab0893381280f62aea5891ff6acf7b9a7e9a5d36132c1f413198875b808b1
+  _cache: 5f3ab0893381280f62aea5891ff6acf7b9a7e9a5d36132c1f413198875b808b1
 - id: doi:10.1017/S0272263120000546
   title: MEASURING LONGITUDINAL WRITING DEVELOPMENT USING INDICES OF SYNTACTIC COMPLEXITY
     AND SOPHISTICATION
@@ -408,8 +398,6 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/abs/10.1111/ijal.12358
-  - type: preprint
-    link: https://zenodo.org/record/7637932#.Y-sOhObMJh4
   _cache: b01ea765692b825d53073f5f4e2f1d504454ccf36402eb437d2e1b3c02e814ac
 - id: doi:10.1353/hpu.2021.0067
   title: 'Validity of a Computational Linguistics-Derived Automated Health Literacy
@@ -528,8 +516,6 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2020.1775234
-  - type: preprint
-    link: https://zenodo.org/record/7637749#.Y-rrQebMJh4
   _cache: 64b267e5a401780f76bbfc39524598718745de5c68f0827060156b1628b4f6b2
 - id: doi:10.1093/applin/amy056
   title: 'In Search of New Benchmarks: Using L2 Lexical Frequency and Contextual Diversity
@@ -545,8 +531,6 @@
   extra-links:
   - type: journal
     link: https://academic.oup.com/applij/article-abstract/41/2/280/5259044?redirectedFrom=fulltext#no-access-message
-  - type: preprint
-    link: https://zenodo.org/record/7637756#.Y-rsYObMJh4
   _cache: 2e1c258730d78e3f1e911de72585c4fb98611a957a87407e27bd2850f3985c31
 - id: doi:10.1016/j.jslw.2020.100730
   title: 'Verb argument construction complexity indices and L2 writing quality: Effects
@@ -561,8 +545,6 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S1060374320300217
-  - type: preprint
-    link: https://zenodo.org/record/7637960#.Y-sSQubMJh4
   _cache: 2cb3c4d9443c4acbee48739f67e1933164a4fbf1f0b8895ce4d8f4f5cf7b722d
 - id: doi:10.1075/ml.19028.ska
   title: Predictors of second language English lexical recognition
@@ -645,8 +627,6 @@
   extra-links:
   - type: journal
     link: https://academic.oup.com/applij/article-abstract/40/1/22/3067193
-  - type: preprint
-    link: https://zenodo.org/record/7637954#.Y-sR3ObMJh4
   _cache: 23e0d7f6558cd6e53955d192182d73e25c53f8b22b1f7c555507fdaa3b75cd75
 - id: doi:10.1017/S0272263119000019
   title: USING LEXICAL FEATURES TO INVESTIGATE SECOND LANGUAGE LEXICAL DECISION PERFORMANCE
@@ -661,8 +641,6 @@
   extra-links:
   - type: journal
     link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/using-lexical-features-to-investigate-second-language-lexical-decision-performance/1EE0B34CD6220D8AB3FBB2730A786D36
-  - type: preprint
-    link: https://zenodo.org/record/7637952#.Y-sRUubMJh4
   _cache: ff0e63eb72aa72fd9192fd8cf24afd87090643c433701f45488e41629ca06f1b
 - id: doi:10.17239/jowr-2019.11.02.01
   title: Using human judgments to examine the validity of automated grammar, syntax,
@@ -690,8 +668,6 @@
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/abs/10.1080/15434303.2019.1628239
-  - type: preprint
-    link: https://zenodo.org/record/7637943#.Y-sQsebMJh4
   _cache: 72bc3c05bb2540b527f1b7c74f55684e7c84a7082f36ddee55a14b331f68496d
 - id: doi:10.3758/s13428-018-1142-4
   title: 'The Tool for the Automatic Analysis of Cohesion 2.0: Integrating semantic
@@ -721,8 +697,6 @@
   extra-links:
   - type: journal
     link: https://www.cambridge.org/core/journals/language-teaching/article/abs/examining-lexical-development-in-second-language-learners-an-approximate-replication-of-salsbury-crossley-mcnamara-2011/C60453A9438CAED92D734D7FEE79FC81
-  - type: preprint
-    link: https://zenodo.org/record/7637741#.Y-rqr-bMJh4
   _cache: cbca46e683539cac93ca90118404c61963472caeb21fc440b6071b982ae3a98f
 - id: doi:10.1177/1367006917728396
   title: Making sense of polysemy relations in first and second language speakers
@@ -769,8 +743,6 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S0346251X1830201X
-  - type: preprint
-    link: https://zenodo.org/record/7637930#.Y-sOBObMJh4
   _cache: 4d82c2ac60b9297566d1f66082ab655e244ff192ebe940ad3644cab3c7e63637
 - id: doi:10.18823/asiatefl.2019.16.1.3.37
   title: Predicting Second Language Writing Proficiency in Learner Texts Using Computational
@@ -884,8 +856,6 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830059X
-  - type: preprint
-    link: https://zenodo.org/record/7637966#.Y-sTDObMJh4
   _cache: e065e59143c9ec615069a2614a95607e8ba6cc019c3c982d92d21c630ae147f3
 - id: doi:10.1111/modl.12494
   title: "A Latent Curve Model Approach To Studying L2 N\u2010Gram Development"
@@ -899,8 +869,6 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12494
-  - type: preprint
-    link: https://zenodo.org/record/7637707#.Y-rhQObMJh4
   _cache: b1e8185e32a8bcc6d3edbb20fb3475c75f2aa5c115b13c10f3bd6f29df9c624f
 - id: doi:10.1515/iral-2017-0089
   title: "Beginning and intermediate L2 writer\u2019s use of N-grams: an association\
@@ -916,8 +884,6 @@
   extra-links:
   - type: journal
     link: https://www.degruyter.com/document/doi/10.1515/iral-2017-0089/html
-  - type: preprint
-    link: https://zenodo.org/record/7637735#.Y-rpMObMJh4
   _cache: 6fb9a191fb5357d140d6e37a729a57862fb4aae0bc6de28a9c658f698a6c826a
 - id: doi:10.1016/j.asw.2018.03.002
   title: 'Modeling second language writing quality: A structural equation investigation
@@ -932,8 +898,6 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/abs/pii/S107529351830028X
-  - type: preprint
-    link: https://zenodo.org/record/7637924#.Y-sNTubMJh4
   _cache: 9cef2cffa97f11bda2199839ab8c4acbaca0bdb59a5a5cc793344f10c34e5d75
 - id: doi:10.1111/modl.12447
   title: 'Lexical Sophistication as a Multidimensional Phenomenon: Relations to Second
@@ -949,8 +913,6 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/abs/10.1111/modl.12447
-  - type: preprint
-    link: https://zenodo.org/record/7637917#.Y-sL3ebMJh4
   _cache: 3719407309c10eed4923a1954a52e01758878f996a6f41bff80ac1b7469e632f
 - id: doi:10.1007/s11145-018-9833-x
   title: Effects of lexical features, textual properties, and individual differences
@@ -966,8 +928,6 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-018-9833-x
-  - type: preprint
-    link: https://zenodo.org/record/7637739#.Y-rp4ubMJh4
   _cache: bbf337e46b2bb32ed98470ce9d34cfd3d540d27d4a9c441d55211a16eeeb5ab5
 - id: doi:10.1111/modl.12468
   title: Measuring Syntactic Complexity in L2 Writing Using Fine-Grained Clausal and
@@ -982,8 +942,6 @@
   extra-links:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12468
-  - type: preprint
-    link: https://zenodo.org/record/7637920#.Y-sMbubMJh4
   _cache: f3bd734e02526be3d72d4bd1d7eaf37a8e17dac779b47cf9a533151105fbe78d
 - id: doi:10.3758/s13428-017-0924-4
   title: 'The tool for the automatic analysis of lexical sophistication (TAALES):
@@ -1082,9 +1040,7 @@
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/10.1177/0265532217712554
-  - type: preprint
-    link: https://zenodo.org/record/7637729#.Y-rmOubMJh4
-    _cache: dbd6db77ae2bde81ec30b47d244cfbe9f9c19b64ba01eb39bae92f616d65a045
+  _cache: dbd6db77ae2bde81ec30b47d244cfbe9f9c19b64ba01eb39bae92f616d65a045
 - id: doi:10.1155/2017/1348242
   title: 'The Next Frontier in Communication and the ECLIPPSE Study: Bridging the
     Linguistic Divide in Secure Messaging'
@@ -1140,6 +1096,1044 @@
   extra-links:
   - type: journal
     link: https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/abs/absolute-frequency-effects-in-second-language-lexical-acquisition/B29E38545DA6B892B07010FD6F026DB4
-  - type: preprint
-    link: https://zenodo.org/record/7637718#.Y-rkNubMJh4
   _cache: ad159518d345a03f5b67f153c4eb52959194093463ee21edabc0c21dd3b0dc5d
+- id: doi:10.5281/zenodo.3554593
+  title: 'Incorporating Learning Characteristics into Automatic Essay Scoring Models:
+    What Individual Differences and Linguistic Features Tell Us about Writing Quality'
+  authors:
+  - Scott Crossley
+  - Laura K. Allen
+  - Erica L. Snow
+  - Danielle S. McNamara
+  publisher: Zenodo
+  date: '2016-12-25'
+  link: https://doi.org/grtwh7
+  image: https://jedm.educationaldatamining.org/public/journals/1/cover_issue_19_en_US.png
+  extra-links:
+  - type: journal
+    link: https://jedm.educationaldatamining.org/index.php/JEDM/article/view/JEDM-2016-2-1
+  - type: preprint
+    link: https://zenodo.org/record/3554594#.Y_BUs-bMKTw
+  _cache: 0b9a6747d1df0968624581216ff5da888eb847baca62d32508ac657779ee19cb
+- id: doi:10.1016/j.jslw.2016.01.003
+  title: The development and use of cohesive devices in L2 writing and their relations
+    to judgments of essay quality
+  authors:
+  - Scott A. Crossley
+  - Kristopher Kyle
+  - Danielle S. McNamara
+  publisher: Journal of Second Language Writing
+  date: '2016-06-01'
+  link: https://doi.org/f8rtzh
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374316X00021-cov150h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/abs/pii/S1060374316300030
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED565451.pdf
+  _cache: 6b3b5a67de6d1f8af919f726e2f71000916d993420f008786f65c9cb71a21904
+- id: doi:10.3758/s13428-015-0651-7
+  title: 'The tool for the automatic analysis of text cohesion (TAACO): Automatic
+    assessment of local, global, and text cohesion'
+  authors:
+  - Scott A. Crossley
+  - Kristopher Kyle
+  - Danielle S. McNamara
+  publisher: Behavior Research Methods
+  date: '2015-09-28'
+  link: https://doi.org/gf3bs3
+  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-015-0651-7
+  _cache: 0247b161026b13c3e4d39f6f5c2717ff33971e07ee53bb05255f3374d84dce77
+- id: doi:10.1111/modl.12344
+  title: 'A Usage-Based Investigation of L2 Lexical Acquisition: The Role of Input
+    and Output'
+  authors:
+  - SCOTT CROSSLEY
+  - KRISTOPHER KYLE
+  - THOMAS SALSBURY
+  publisher: The Modern Language Journal
+  date: '2016-07-19'
+  link: https://doi.org/f9ctb7
+  image: https://onlinelibrary.wiley.com/cms/asset/a7f28f9c-1355-4fcd-be6a-55a5fab79af2/modl.v100.3.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/10.1111/modl.12344
+  _cache: 5051be11a99bd59eea1a2f74b7caea8764bc9eb5f0b58c64538752ea960df65d
+- id: doi:10.17239/jowr-2016.07.03.02
+  title: 'Say more and be more coherent: How text elaboration and cohesion can increase
+    writing quality'
+  authors:
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  publisher: Journal of Writing Research
+  date: '2016-02-01'
+  link: https://doi.org/gprbhg
+  image: https://oaji.net/images/journals/small/2016/file1453363070.jpg
+  extra-links:
+  - type: journal
+    link: https://www.jowr.org/index.php/jowr/article/view/657
+  - type: preprint
+    link: https://www.researchgate.net/publication/293479064_Say_More_and_Be_More_Coherent_How_Text_Elaboration_and_Cohesion_Can_Increase_Writing_Quality
+  _cache: 24efbd50c76b502cf0cdebf83961d074812b89d823d8faf4dacee6744e479101
+- id: doi:10.1177/0741088316650178
+  title: Idea Generation in Student Writing
+  authors:
+  - Scott A. Crossley
+  - Kasia Muldner
+  - Danielle S. McNamara
+  publisher: Written Communication
+  date: '2016-06-07'
+  link: https://doi.org/f6284t
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/wcxa/2023/wcxa_40_1/wcxa_40_1/20221209/wcxa_40_1.largecover.png
+  extra-links:
+  - type: journal
+    link: https://journals.sagepub.com/doi/10.1177/0741088316650178
+  - type: preprint
+    link: https://www.joycerain.com/uploads/2/3/2/0/23207256/idea_generation_in_student_wrting.pdf
+  _cache: 4311680629139385af6c1e8f2860f5930b76dd4d1f04975f8cd776a1dee74b90
+- id: doi:10.1177/0265532215587391
+  title: 'Construct validity in TOEFL iBT speaking tasks: Insights from natural language
+    processing'
+  authors:
+  - Kristopher Kyle
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  publisher: Language Testing
+  date: '2015-06-19'
+  link: https://doi.org/gg5jds
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2023/ltja_40_1/ltja_40_1/20230111-01/ltja_40_1.largecover.png
+  extra-links:
+  - type: journal
+    link: https://journals.sagepub.com/doi/10.1177/0265532215587391
+  _cache: 0eeb96bb27fa64c4b9a62917778aae389fe1454607679566c157da5f0683489f
+- id: doi:10.1007/978-981-19-5240-1_5
+  title: Automated Paragraph Detection Using Cohesion Network Analysis
+  authors:
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Scott Andrew Crossley
+  - Danielle S. McNamara
+  publisher: Polyphonic Construction of Smart Learning Ecosystems
+  date: '2022-09-28'
+  link: https://doi.org/grtwjf
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-981-19-5240-1.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_5
+  - type: preprint
+    link: https://www.researchgate.net/publication/363917016_Automated_Paragraph_Detection_Using_Cohesion_Network_Analysis
+  _cache: 11ba2d31c2bb0e9d02199424f44bac3d690408d2473a039f5bbb41403cb0a430
+- id: doi:10.1007/978-981-19-5240-1_6
+  title: Assessing Readability Formulas in the Wild
+  authors:
+  - Scott Crossley
+  - Stephen Skalicky
+  - Cynthia Berger
+  - Ali Heidari
+  publisher: Polyphonic Construction of Smart Learning Ecosystems
+  date: '2022-09-28'
+  link: https://doi.org/grtwjg
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-981-19-5240-1.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_6
+  _cache: ec36da7124d71a2831046b4ba6c32860abfc9d10a8933973414a4b4cfa8db281
+- id: doi:10.1016/j.jslw.2016.10.003
+  title: The relationship between lexical sophistication and independent and source-based
+    writing
+  authors:
+  - Kristopher Kyle
+  - Scott Crossley
+  publisher: Journal of Second Language Writing
+  date: '2016-12-01'
+  link: https://doi.org/f9g2tz
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374316X00045-cov150h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/abs/pii/S1060374316301035?via%3Dihub
+  _cache: c729db0e067a1eab446393b11d18bce001b02c67d57d329b72cfd508c754f57e
+- id: doi:10.1007/978-981-19-5240-1_12
+  title: De-Identification of Student Writing in Technologically Mediated Educational
+    Settings
+  authors:
+  - Langdon Holmes
+  - Scott Crossley
+  - Nick Hayes
+  - Dylan Kuehl
+  - Anne Trumbore
+  - Gabriel Gutu-Robu
+  publisher: Polyphonic Construction of Smart Learning Ecosystems
+  date: '2022-09-28'
+  link: https://doi.org/gq3675
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-981-19-5240-1.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_12
+  - type: preprint
+    link: https://zenodo.org/record/7262351
+  _cache: 95eec3012ce8d288b883a3413cf02df4b68f3b3906044337f8ae60b2c8a1fe68
+- id: doi:10.1007/978-3-031-11644-5_79
+  title: Multitask Summary Scoring with Longformers
+  authors:
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Laura K. Allen
+  - Scott Andrew Crossley
+  - Danielle S. McNamara
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/grtwjk
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-031-11644-5.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-031-11644-5_79
+  _cache: ba0a2e3d7e53de8ca575064882b1b0728bfa3ec89b453de4ea5e0fa41879ecd6
+- id: doi:10.1145/3513140
+  title: 'Automated Assessment in Computer Science Education: A State-of-the-Art Review'
+  authors:
+  - "Jos\xE9 Carlos Paiva"
+  - "Jos\xE9 Paulo Leal"
+  - "\xC1lvaro Figueira"
+  publisher: ACM Transactions on Computing Education
+  date: '2022-06-09'
+  link: https://doi.org/gq4v8x
+  image: https://dl.acm.org/cms/asset/93de28ec-01e2-4a6f-83a2-10087c344ac0/3542931.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/3513140
+  - type: preprint
+    link: https://drive.google.com/file/d/11TpiU7JSEWre1mYxKQCcW0bnZwe-mzsP/view
+  - type: source
+    link: https://www.linguisticanalysistools.org/arte.html
+  _cache: 68d2e71f1a1a19751b0fc99d5ca7dab397004e7f42a1cc2554d0e6b766fad29a
+- id: doi:10.1007/978-3-031-09680-8_16
+  title: "Automated Classification of Argumentative Components in Students\u2019 Essays"
+  authors:
+  - Qian Wan
+  - Scott Crossley
+  - Yu Tian
+  publisher: Intelligent Tutoring Systems
+  date: '2022-01-01'
+  link: https://doi.org/grtwjm
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-031-09680-8.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-031-09680-8_16
+  - type: preprint
+    link: https://github.com/wanqian0202/ITS-2022-Automated-Classification-of-Argumentative-Components-in-Students-Essays/blob/main/ITS_argumentative_components_supplementary_materials.pdf
+  _cache: 6a983a9d498ee1b3f536b0e8d0775d64c0a396fe58c339b3c09a025c8c3dbc73
+- id: doi:10.1007/978-3-030-80421-3_35
+  title: Automated Summary Scoring with ReaderBench
+  authors:
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Laura K. Allen
+  - Scott Andrew Crossley
+  - Danielle S. McNamara
+  publisher: Intelligent Tutoring Systems
+  date: '2021-01-01'
+  link: https://doi.org/gpt83n
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-80421-3.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-030-80421-3_35
+  _cache: 94a3c8c0d1c6b27f414bafb7cbfb365d9118437290b59240a88883ab7d79e015
+- id: doi:10.1007/978-3-030-78292-4_7
+  title: Multilingual Age of Exposure
+  authors:
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Micah Watanabe
+  - Danielle S. McNamara
+  - Scott Andrew Crossley
+  publisher: Lecture Notes in Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/grtwjn
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-78292-4.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-030-78292-4_7
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED619752.pdf
+  _cache: 853663ee1aa0aad19e203aad9f39711144c69444ffdaa2b73cdd7a002a6d10e9
+- id: doi:10.1007/978-3-030-52240-7_6
+  title: Sequence-to-Sequence Models for Automated Text Simplification
+  authors:
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Scott Andrew Crossley
+  - Danielle S. McNamara
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/grtwjp
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-52240-7.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-030-52240-7_6
+  _cache: e089ed94767a9d3d893da72fc0098236f0b80bb6c406ad234d2cb5c91d5b0601
+- id: doi:10.1007/978-3-030-52237-7_35
+  title: Affective Sequences and Student Actions Within Reasoning Mind
+  authors:
+  - Jaclyn Ocumpaugh
+  - Ryan S. Baker
+  - Shamya Karumbaiah
+  - Scott A. Crossley
+  - Matthew Labrum
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/grtwjq
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-52240-7.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-030-52237-7_35
+  - type: preprint
+    link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7334159/
+  _cache: 555d906588f8e89c577084417edc967090f40583aa914711ab80a17cd8f1c37a
+- id: doi:10.1007/978-3-030-52240-7_60
+  title: Relationships Between Math Performance and Human Judgments of Motivational
+    Constructs in an Online Math Tutoring System
+  authors:
+  - Rurik Tywoniw
+  - Scott A. Crossley
+  - Jaclyn Ocumpaugh
+  - Shamya Karumbaiah
+  - Ryan Baker
+  publisher: Lecture Notes in Computer Science
+  date: '2020-01-01'
+  link: https://doi.org/grtwjr
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-030-52240-7.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-030-52240-7_60
+  _cache: 6a252a0e51d2f1323c2dee2dfac71227d5ff624d88b677b6dc3c7f5d0d93581e
+- id: doi:10.4230/OASIcs.LDK.2019.25
+  title: 'Predicting Math Success in an Online Tutoring System Using Language Data
+    and Click-Stream Variables: A Longitudinal Analysis'
+  authors:
+  - Scott Crossley
+  - Shamya Karumbaiah
+  - Jaclyn Ocumpaugh
+  - Matthew J. Labrum
+  - Ryan S. Baker
+  publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken,
+    Germany
+  date: '2019-01-01'
+  link: https://doi.org/grtwjs
+  image: https://www.sba-research.org/wp-content/uploads/2022/04/Dagstuhl.jpg
+  extra-links:
+  - type: journal
+    link: https://drops.dagstuhl.de/opus/volltexte/2019/10389/
+  - type: preprint
+    link: https://drops.dagstuhl.de/opus/volltexte/2019/10389/pdf/OASIcs-LDK-2019-25.pdf
+  _cache: 46bccd06887be5ab1fb1157ce7e7d9ae1b600e8853e466dc6a51b8d2b7ab9ac2
+- id: doi:10.1007/978-3-030-23204-7_8
+  title: Automated Summarization Evaluation (ASE) Using Natural Language Processing
+    Tools
+  authors:
+  - Scott A. Crossley
+  - Minkyung Kim
+  - Laura Allen
+  - Danielle McNamara
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/grtwjt
+  image: https://media.springernature.com/w184/springer-static/cover/series/558.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-030-23204-7_8
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED603835.pdf
+  _cache: 4895e251eae0b518c83236910553b93dae51677c16b91e4e727d2575af2da7da
+- id: doi:10.1145/3170358.3170369
+  title: Studying MOOC completion at scale using the MOOC replication framework
+  authors:
+  - Juan Miguel L. Andres
+  - Ryan S. Baker
+  - "Dragan Ga\u0161evi\u0107"
+  - George Siemens
+  - Scott A. Crossley
+  - "Sre\u0107ko Joksimovi\u0107"
+  publisher: Proceedings of the 8th International Conference on Learning Analytics
+    and Knowledge
+  date: '2018-03-07'
+  link: https://doi.org/grtwjx
+  image: https://dl.acm.org/cms/asset/2ccdfa2a-ba83-4390-91af-54a96788947c/3170358.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/3170358.3170369
+  - type: preprint
+    link: https://learninganalytics.upenn.edu/ryanbaker/LAK_Paper49.pdf
+  _cache: 6da30e6fa41cad3fb0db35f1a2ee41b1df3dcb6c60fedc41a339a4b9b401eefa
+- id: doi:10.1007/978-3-319-92022-1_12
+  title: "ReadME \u2013 Generating Personalized Feedback for Essay Writing Using the\
+    \ ReaderBench Framework"
+  authors:
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Maria-Dorinela Sirbu
+  - Scott A. Crossley
+  - Stefan Trausan-Matu
+  publisher: The Interplay of Data, Technology, Place and People for Smart Learning
+  date: '2018-05-19'
+  link: https://doi.org/grtwjz
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-92022-1.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-92022-1_12
+  - type: preprint
+    link: https://www.researchgate.net/publication/325252661_ReadME_-_Generating_Personalized_Feedback_for_Essay_Writing_Using_the_ReaderBench_Framework
+  _cache: 36c320e09c18e42a1b2aee9b97f0135e54df4d75a33f4c9583b1c7088a288944
+- id: doi:10.1007/978-3-319-98572-5_59
+  title: Cohesion-Centered Analysis of Sociograms for Online Communities and Courses
+    Using ReaderBench
+  authors:
+  - Mihai Dascalu
+  - Maria-Dorinela Sirbu
+  - Gabriel Gutu-Robu
+  - Stefan Ruseti
+  - Scott A. Crossley
+  - Stefan Trausan-Matu
+  publisher: Lifelong Technology-Enhanced Learning
+  date: '2018-01-01'
+  link: https://doi.org/grtwj2
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-98572-5.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-98572-5_59
+  - type: preprint
+    link: https://www.researchgate.net/publication/327004696_Cohesion-Centered_Analysis_of_Sociograms_for_Online_Communities_and_Courses_Using_ReaderBench_13th_European_Conference_on_Technology_Enhanced_Learning_EC-TEL_2018_Leeds_UK_September_3-5_2018_Proceedin
+  _cache: 87ed7f1374ce458d8a171d3b90bb9600d3e55fa9432acfaddf2da781a290e4eb
+- id: doi:10.1007/978-3-319-93843-1_36
+  title: Predicting Question Quality Using Recurrent Neural Networks
+  authors:
+  - Stefan Ruseti
+  - Mihai Dascalu
+  - Amy M. Johnson
+  - Renu Balyan
+  - Kristopher J. Kopp
+  - Danielle S. McNamara
+  - Scott A. Crossley
+  - Stefan Trausan-Matu
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/grm8qc
+  image: 978-3-319-93843-1.jpg (184_279) (springernature.com)
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-93843-1_36
+  - type: preprint
+    link: https://www.researchgate.net/publication/325849455_Predicting_Question_Quality_Using_Recurrent_Neural_Networks
+  - type: source
+    link: http://www.cdlponline.org/
+  _cache: 6c01b3a0f44ac06040d4fa016591075ff13ea5600c8dd07ae849bb8e9c5610e8
+- id: doi:10.1007/978-3-319-99344-7_28
+  title: "ReadME \u2013 Enhancing Automated Writing Evaluation"
+  authors:
+  - Maria-Dorinela Sirbu
+  - Robert-Mihai Botarleanu
+  - Mihai Dascalu
+  - Scott A. Crossley
+  - Stefan Trausan-Matu
+  publisher: 'Artificial Intelligence: Methodology, Systems, and Applications'
+  date: '2018-01-01'
+  link: https://doi.org/grtwj3
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-99344-7.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-99344-7_28
+  - type: preprint
+    link: https://www.researchgate.net/publication/327267505_ReadME_-_Enhancing_Automated_Writing_Evaluation
+  _cache: 17c8f828ad3a7a85b8df6b97fa67f42a3b9ec9a90048db99c92d4ba95ddf0a16
+- id: doi:10.1007/978-3-319-93846-2_63
+  title: Exploring Online Course Sociograms Using Cohesion Network Analysis
+  authors:
+  - Maria-Dorinela Sirbu
+  - Mihai Dascalu
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  - Tiffany Barnes
+  - Collin F. Lynch
+  - Stefan Trausan-Matu
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/grm8pm
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-93846-2.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-93846-2_63
+  - type: preprint
+    link: https://edisciplinas.usp.br/pluginfile.php/5859600/mod_folder/content/0/Exploring%20Online%20Course%20Sociograms%20Using%20Cohesion%20Network%20Analysis.pdf?forcedownload=1
+  _cache: d4c73f5d589fac4f12d7cc307d9e07084a1fe4e46be6e39db29494acf4f72de5
+- id: doi:10.18653/v1/W18-0902
+  title: Linguistic Features of Sarcasm and Metaphor Production Quality
+  authors:
+  - Stephen Skalicky
+  - Scott Crossley
+  publisher: Proceedings of the Workshop on Figurative Language Processing
+  date: '2018-01-01'
+  link: https://doi.org/grtwj4
+  extra-links:
+  - type: journal
+    link: https://aclanthology.org/W18-0902/
+  - type: preprint
+    link: https://www.researchgate.net/publication/325448970_Linguistic_Features_of_Sarcasm_and_Metaphor_Production_Quality
+  _cache: a67adb65e46ff6099f17c28ab752c79d3c5bbf39a1a347b7b050605e67aaa3b5
+- id: doi:10.1145/3170358.3170369
+  title: Studying MOOC completion at scale using the MOOC replication framework
+  authors:
+  - Juan Miguel L. Andres
+  - Ryan S. Baker
+  - "Dragan Ga\u0161evi\u0107"
+  - George Siemens
+  - Scott A. Crossley
+  - "Sre\u0107ko Joksimovi\u0107"
+  publisher: Proceedings of the 8th International Conference on Learning Analytics
+    and Knowledge
+  date: '2018-03-07'
+  link: https://doi.org/grtwjx
+  image: https://dl.acm.org/cms/asset/2ccdfa2a-ba83-4390-91af-54a96788947c/3170358.cover.jpg
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/3170358.3170369
+  - type: preprint
+    link: https://learninganalytics.upenn.edu/ryanbaker/LAK_Paper49.pdf
+  _cache: 6da30e6fa41cad3fb0db35f1a2ee41b1df3dcb6c60fedc41a339a4b9b401eefa
+- id: doi:10.1145/3027385.3027399
+  title: Predicting math performance using natural language processing tools
+  authors:
+  - Scott Crossley
+  - Ran Liu
+  - Danielle McNamara
+  publisher: Proceedings of the Seventh International Learning Analytics &amp; Knowledge
+    Conference
+  date: '2017-03-13'
+  link: https://doi.org/gh5qbt
+  image: https://dl.acm.org/specs/products/acm/releasedAssets/images/cover-default--acm-proceeding.svg
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/3027385.3027399
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED585774.pdf
+  _cache: 090c5ae951f8c03267218a131d7a0341a89f0e974d20ff3a45b4149a664a3e35
+- id: doi:10.1007/978-3-319-59888-8_28
+  title: 'Letting the Genie Out of the Lamp: Using Natural Language Processing Tools
+    to Predict Math Performance'
+  authors:
+  - Scott Crossley
+  - Victor Kostyuk
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/grtwj5
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-59888-8.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-59888-8_28
+  _cache: d12fa040beeb7920727f41b7c6bc21cf2dd3ef30458dcf59e6947892a592c0c1
+- id: doi:10.1007/978-3-319-66610-5_48
+  title: 'ReaderBench: A Multi-lingual Framework for Analyzing Text Complexity'
+  authors:
+  - Mihai Dascalu
+  - Gabriel Gutu
+  - Stefan Ruseti
+  - Ionut Cristian Paraschiv
+  - Philippe Dessus
+  - Danielle S. McNamara
+  - Scott A. Crossley
+  - Stefan Trausan-Matu
+  publisher: Data Driven Approaches in Digital Education
+  date: '2017-01-01'
+  link: https://doi.org/grtwj6
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-66610-5.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-66610-5_48
+  - type: preprint
+    link: https://hal.science/hal-01584870
+  _cache: aa44a21c2a2775d9c623122e3b3005600bba67e9a6528431f5dc0c381711be2d
+- id: doi:10.1007/978-3-319-61425-0_55
+  title: Assessing Question Quality Using NLP
+  authors:
+  - Kristopher J. Kopp
+  - Amy M. Johnson
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/gn4fr8
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-61425-0.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-61425-0_55
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED577121.pdf
+  _cache: 5e51e49b978feb6db23435443cc18f6175a1b97034d46752da4bc12ee24967db
+- id: doi:10.21125/edulearn.2016.2241
+  title: MODELING INDIVIDUAL DIFFERENCES AMONG WRITERS USING READERBENCH
+  authors:
+  - Laura Allen
+  - Mihai Dascalu
+  - Danielle McNamara
+  - Scott Crossley
+  - Stefan Trausan-Matu
+  publisher: EDULEARN proceedings
+  date: '2016-07-01'
+  link: https://doi.org/grtwj7
+  image: https://iated.org/common/img/edulearn16_proceedings.jpg
+  extra-links:
+  - type: journal
+    link: https://library.iated.org/view/ALLEN2016MOD
+  - type: preprint
+    link: https://www.researchgate.net/publication/305704575_Modeling_individual_differences_among_writers_using_ReaderBench
+  _cache: a7a105358421ad9a97462b7937a37eb8906e0d54c4994c6734636d52fea16bca
+- id: doi:10.1145/2883851.2883939
+  title: Investigating boredom and engagement during writing using multiple sources
+    of information
+  authors:
+  - Laura K. Allen
+  - Caitlin Mills
+  - Matthew E. Jacovina
+  - Scott Crossley
+  - Sidney D'Mello
+  - Danielle S. McNamara
+  publisher: Proceedings of the Sixth International Conference on Learning Analytics
+    &amp; Knowledge
+  date: '2016-04-25'
+  link: https://doi.org/grtwj8
+  image: https://dl.acm.org/specs/products/acm/releasedAssets/images/cover-default--acm-proceeding.svg
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/2883851.2883939
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED585776.pdf
+  _cache: 956502d4af6829968e13e20d9863c220df5847f93311c184a8d10e656f50979d
+- id: doi:10.1145/2883851.2883931
+  title: Combining click-stream data with NLP tools to better understand MOOC completion
+  authors:
+  - Scott Crossley
+  - Luc Paquette
+  - Mihai Dascalu
+  - Danielle S. McNamara
+  - Ryan S. Baker
+  publisher: Proceedings of the Sixth International Conference on Learning Analytics
+    &amp; Knowledge
+  date: '2016-04-25'
+  link: https://doi.org/grtwj9
+  image: https://dl.acm.org/specs/products/acm/releasedAssets/images/cover-default--acm-proceeding.svg
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/2883851.2883931
+  - type: preprint
+    link: https://learninganalytics.upenn.edu/ryanbaker/LAK16_paper_186.pdf
+  _cache: 4ba60bd64944b55873789c7e58eb1b76fdd80e174bc4f737a6152a8930032922
+- id: doi:10.1609/aaai.v30i1.10372
+  title: 'Age of Exposure: A Model of Word Learning'
+  authors:
+  - Mihai Dascalu
+  - Danielle McNamara
+  - Scott Crossley
+  - Stefan Trausan-Matu
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2016-03-05'
+  link: https://doi.org/grtwkb
+  image: https://ojs.aaai.org/public/journals/2/cover_issue_303_en_US.jpg
+  extra-links:
+  - type: journal
+    link: https://ojs.aaai.org/index.php/AAAI/article/view/10372
+  - type: preprint
+    link: https://researchlanglit.gsu.edu/files/2016/08/age-of-exposure.pdf
+  _cache: 8461d9af304cc59a72078d75bb64c219310986cd972781745a19c3bbb31434cb
+- id: doi:10.1007/978-3-319-45153-4_29
+  title: "Predicting Academic Performance Based on Students\u2019 Blog and Microblog\
+    \ Posts"
+  authors:
+  - Mihai Dascalu
+  - Elvira Popescu
+  - Alexandru Becheru
+  - Scott Crossley
+  - Stefan Trausan-Matu
+  publisher: Adaptive and Adaptable Learning
+  date: '2016-01-01'
+  link: https://doi.org/grtwkd
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-45153-4.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-45153-4_29
+  - type: preprint
+    link: https://www.researchgate.net/publication/307854622_Predicting_Academic_Performance_Based_on_Students'_Blog_and_Microblog_Posts
+  _cache: 86ba2e585407ae7eb25506bbc7f7655bde9612495fa01eef0ad130eb092c376e
+- id: doi:10.1109/ICALT.2016.104
+  title: 'Predicting Student Performance and Differences in Learning Styles Based
+    on Textual Complexity Indices Applied on Blog and Microblog Posts: A Preliminary
+    Study'
+  authors:
+  - Elvira Popescu
+  - Mihai Dascalu
+  - Alex Becheru
+  - Scott Crossley
+  - Stefan Trausan-Matu
+  publisher: 2016 IEEE 16th International Conference on Advanced Learning Technologies
+    (ICALT)
+  date: '2016-07-01'
+  link: https://doi.org/grtwkf
+  image: https://csdl-images.ieeecomputer.org/website/default-covers/proceedings/proceedings.jpg
+  extra-links:
+  - type: journal
+    link: https://ieeexplore.ieee.org/document/7756953
+  - type: preprint
+    link: https://www.researchgate.net/publication/311313468_Predicting_Student_Performance_and_Differences_in_Learning_Styles_Based_on_Textual_Complexity_Indices_Applied_on_Blog_and_Microblog_Posts_A_Preliminary_Study
+  _cache: 9e2334a4b1a76d5d156c0c15f683af2c695571fcaf88d9a2af41c358d15ac29b
+- id: doi:10.1007/978-3-319-44748-3_35
+  title: Expressing Sentiments in Game Reviews
+  authors:
+  - Ana Secui
+  - Maria-Dorinela Sirbu
+  - Mihai Dascalu
+  - Scott Crossley
+  - Stefan Ruseti
+  - Stefan Trausan-Matu
+  publisher: 'Artificial Intelligence: Methodology, Systems, and Applications'
+  date: '2016-01-01'
+  link: https://doi.org/grtwkg
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-44748-3.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-44748-3_35
+  - type: preprint
+    link: https://core.ac.uk/download/pdf/55539384.pdf
+  _cache: 4db4b3c4cee3922cbb9d43943ae6a3905506045b40bfbf0ebb58ada538a5c9ab
+- id: doi:10.1109/SYNASC.2016.044
+  title: Extracting Gamers' Opinions from Reviews
+  authors:
+  - Dorinela Sirbu
+  - Ana Secui
+  - Mihai Dascalu
+  - Scott Andrew Crossley
+  - Stefan Ruseti
+  - Stefan Trausan-Matu
+  publisher: 2016 18th International Symposium on Symbolic and Numeric Algorithms
+    for Scientific Computing (SYNASC)
+  date: '2016-09-01'
+  link: https://doi.org/grtwkh
+  image: https://csdl-images.ieeecomputer.org/website/default-covers/proceedings/proceedings.jpg
+  extra-links:
+  - type: journal
+    link: https://ieeexplore.ieee.org/document/7829616
+  - type: preprint
+    link: https://core.ac.uk/reader/74509611
+  _cache: 59d8140cd9325e4191667378cffe3a3804c7f8f2bda3e5b20789cfa162900c5a
+- id: url:http://www.journals.aiac.org.au/index.php/alls/article/view/2342
+  title: Linguistic Features of Humor in Academic Writing
+  authors:
+  - Stephen Skalicky
+  - Cynthia M. Berger
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  publisher: Advances in Language and Literary Studies
+  date: '2016-06-01'
+  link: http://www.journals.aiac.org.au/index.php/alls/article/view/2342
+  image: http://www.journals.aiac.org.au/public/site/images/admin/cover-page00014.jpg
+  extra-links:
+  - type: journal
+    link: http://www.journals.aiac.org.au/index.php/alls/article/view/2342
+  - type: preprint
+    link: https://www.researchgate.net/publication/301542460_Linguistic_Features_of_Humor_in_Academic_Writing
+  _cache: 2cb58456255c2baf5737d993ca68404bf92fb848a03d85de6e409a774345dd4f
+- id: url:https://escholarship.org/uc/item/5fd5r301
+  title: "\u201CA fork is a food stabber\u201D: Linguistic creativity in English L1\
+    \ and L2 speakers"
+  authors:
+  - Stephen Skalicky
+  - Nancy Bell
+  - Mihai Dascalu
+  - Scott Crossley
+  publisher: Proceedings of the Annual Meeting of the Cognitive Science Society
+  date: '2022-01-01'
+  link: https://escholarship.org/uc/item/5fd5r301
+  image: https://cognitivesciencesociety.org/wp-content/uploads/2018/12/CogSciLogoForWeb-green.png
+  extra-links:
+  - type: journal
+    link: https://escholarship.org/uc/item/5fd5r301
+  - type: preprint
+    link: https://escholarship.org/uc/item/5fd5r301
+  _cache: 2e4701edd3576635d82173e56442c98aba622da94e4c642dae7ffef6ad163aca
+- title: Text-based recall and extra-textual generations resulting from simplified
+    and authentic texts
+  authors:
+  - Scott Crossley
+  - Danielle S. McNamara
+  publisher: Reading in a Foreign Language, 28
+  date: '2016-04-01'
+  image: http://www2.hawaii.edu/~readfl/rfl/images/RFLlogo.gif
+  link: https://scholarspace.manoa.hawaii.edu/items/2f2133d7-f8ff-45aa-a084-13522fe6007c
+  extra-links:
+  - type: preprint
+    link: https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/33ba0bac-1554-4a30-ba6f-49a61a8a7b34/content
+  _cache: 114cb84ca50f8d2b01af30fb0de34255bcf9f678caf0b02db920c07bb7d9a9fe
+- title: The CommonLit Ease of Readability
+  authors:
+  - Scott Crossley
+  - Heintz Aron
+  - Joon Choi
+  - Jordan Batchelor
+  - Mehrnoush Karimi
+  publisher: Proceedings of the 14th International Conference on Educational Data
+    Mining (EDM)
+  date: '2021-06-29'
+  link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_35.pdf
+  extra-links:
+  - type: preprint
+    link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_35.pdf
+  - type: source
+    link: https://github.com/scrosseye/CLEAR-Corpus
+  _cache: a4cd02da548052f89d2a9ed53a0d75a29e79648bdb3aa1d93826a3bf144da108
+- title: Automated Claim Identification Using NLP Features in Student Argumentative
+    Essays
+  authors:
+  - Wan Qian
+  - Crossley Scott
+  - Banawan Michelle
+  - Balyan Renu
+  - Tian Yu
+  - McNamara Danielle
+  - Allen Laura
+  publisher: Proceedings of the 14th International Conference on Educational Data
+    Mining (EDM)
+  date: '2021-06-29'
+  link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_163.pdf
+  extra-links:
+  - type: preprint
+    link: https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_163.pdf
+  - type: source
+    link: https://github.com/scrosseye/Claim_Identification_Corpus
+  _cache: 92b337dc6b21ffaf00f6a058fc3b63c24e6f335092f1f002c6089c5499461ba0
+- title: Claim Detection and Relationship with Writing Quality
+  authors:
+  - Qian Wan
+  - Scott Crossley
+  - Laura K. Allen
+  - Danielle S. McNamara
+  image: https://educationaldatamining.org/edm2020/wp-content/uploads/sites/4/2019/10/LogoEDM20-1024x1024.jpg
+  publisher: Proceedings of the 13th International Conference on Educational Data
+    Mining (EDM)
+  date: '2020-07-13'
+  link: https://files.eric.ed.gov/fulltext/ED612211.pdf
+  extra-links:
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED612211.pdf
+  _cache: ed0809a0adcb96094ba01ec92c5a693d5fc4808465e0e2aff3b9cdff45ff633e
+- title: Longitudinal Analysis and Visualization of Participation in Online Courses
+    Powered by Cohesion Network Analysis
+  authors:
+  - Sirbu Maria-Dorinela
+  - Dascalu Mihai
+  - Crossley Scott
+  - McNamara Danielle
+  - Trausan-Matu
+  - Stefan
+  image: https://www.cscl2019.com/upload/proceeding-vol2.png
+  publisher: 'A Wide Lens: Combining Embodied, Enactive, Extended, and Embedded Learning
+    in Collaborative Settings, 13th International Conference on Computer Supported
+    Collaborative Learning (CSCL) 2019, Volume 2 (pp. 640-643)'
+  date: '2019-06-21'
+  link: https://repository.isls.org/handle/1/4476
+  extra-links:
+  - type: journal
+    link: https://repository.isls.org/handle/1/4476
+  - type: preprint
+    link: https://repository.isls.org/bitstream/1/4476/1/640-643.pdf
+  _cache: 56ad5424c5a199e8e6be272df60737ade2e179905ba85716dc120fc6f2204237
+- title: How Many Words Needed? Using Natural Language Processing Tools in Educational
+    Data Mining
+  authors:
+  - Scott Crossley
+  image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMUAAAD/CAMAAAB2B+IJAAABy1BMVEX////o6Oj66uv+++rw8PD77u/t7e366Or8/Pz29vb/AADq6ur+++jBwcEAAADd3d3X19fg4ODMzMzS0tL+/O6/v7/IyMisrKy4uLi5ubmysrKEhISioqL99/eSkpJxcXH/zQD18+kAVamcnJwAVWx6enpjY2OUlJRYWFgAW6x5eXlsbGz//faCgoJERERMTEw2Njb/h4cAZK8AQFxdXV3/6an4rgD8wADo7/bS3+1olMWqv8XK1tnw7d22tKj/4h2New8rKysvLy//uLj/32//TU3/qqrznAr/1TH/XwDwkAD/SwD5tgasw90AT6ctdbdVisC9z+SFn6lghZMRWm+ctLvz0cXqqK/wwsXnmJXcYGbjg4zww7j12Nrrr6j65tfllJv768rbWmH/7Yv33UwXFxfSz8EqJQC9pRQnJBDf3MyMin2EfVbrzhHebnX//sudhwB3aA3HrxY3MAb/+LVIQAiWgwCnoYN0eIXb0JzXvAr74l6klDW7qDm9rVrBvKDm1Xzpvov/dXX/Njbsfg7/l5eF1f5QyP92xcu42MGyzYbrdQzTfzn/nnWb3P7+vHv/sJGa3P//hzT/2Xb/6JyDp88AQKIAKUxxkZ5HYYLqAAAS2UlEQVR4nO2di2PTRp7Hf4MVWYos6xVJtqTIThS/Y5JNIA9sCFDaQJaQEBqgpZSytF22XGnp3e3dlnu116V317t2e226/Ln3Gzmx5cQOdp7kOl+wLY9G499H85vfzEhjB4CJiYmJiYmJiYmJiYmJiYmJiYmJiWqoIR61udncNTywq04J7SV1y74tWyeNhx/MoQ0SF0kWJWqW2AtFIoYiKIluJMZbVsVP7ab4NusG4p3z9wDRsCE2gkbwUQgSiut6XKQEtHyENClaEAO7QsQHthfUOd+ObB0Ua0DE+HaLOdIXRQOC8FhaK31g94rYaV2P2bpDIEXUebYgeqTgN3PziVaT6HJmm9YN7yyox2zbNZ5oio8635ZVPVJIW7n5ljcJLUM6GdfR1zd3DUfVw+ePt8SJnLilplW9UbSYt2IUqmV7B8fq4iaNnT18YjdFDG9TnxSxprYoBmC4Z1/fJ4TQhaFfipHtFNTeHXXR1ddP9RaQukjsCrFPitDeHRRdw39vAal/iH1ShPa2U+xmaC8BqZu4XSD2RbFp70CvELAPCH4Xhv1QNO2NUuznbO8ioVtw2idFomVvlKKHEdFeIHZn6DvSjjTVsrc1mtpH291Nu7XrvVA0JbUghgZ6aRIHAyF18ay9UUSOGkrQScPhNYkohZQ4SIrIuDIWu/3+nTt3T+2YEB0CBbbKA6Ro2Tt+/p1333n/7p0P3r23n+FRbxQ0tBwYRaRJjL/37u2h2PDPAwPD95/ePTQKnKTy4UA0NsR1xuibIjJfHHr/Hg26AwsPaJP44E6YyFVzSgoc23dA9sRcStBSmEoMF2w94xtuIPs+74ENBVEtu5pBqgXI4VtbwycApRqAWxUKgqmVfbXqk5xLKq6REb3Yk9z5sqt2xOiXotUkxmO3n+IsMDb0cOFsmHCvURtaGvJywbU0ANeFqlwMcilQzKLvg4t0SiC66iXVhVwAnqjIFbDkSc+Hqou7AfJ4lIhvMrbqE8XXiaN6+RR/+cIT75PY+UzqIOoiGmATsd/FxrGWxx8tfNhI+l0YpbAmMprvaliy6wtlLRVAGZS0a35EKSzO88vEzLh2eRI8nlKkdN+esCqTQoNC8gnnuiSplGXFI6QyKVb0kScXJi58fP6TJ8aBULQKScTef+/jZPKjj5O/f7zwBxWgkrof+pSkggyy6aJ/pMDVwZXxVVLT4EEaVNe3wCEGpB1QNF2UVA4zpsBOAW+4rgRSNQUFH1PSmIl3XU3V9NyTTy6MXxgKnpx/kuuMscdej5DY0NPEhSexxIW/+TT56e+LwCcdeNpDYf1LHAodNxa27o5VsQ+K2NPPHieTnz++uPDsi79Nfvks+fnffRCGW0MQOCAgGDqnE6D/eKwqAqqh0FTgREECDV9wgKRrdI9k6CBg2MAkjRd5QM+VMBmzo4TI4G0IhKa4A6F48M64c3FhASmSn/7h8d9/9Ecb7tzH3Hn9DEli2FF8VfZ8PQc5UnY0LQlqkVQhb2Ws02IgJsFRMBK4ng1JjcP272UA5AljwlaT4AZcUqjaNg1aQrxJEbmct22+sR+KoQvJZJLWx0JyIfkPBQ/uYpQSfXBML+OClg8MlYYp18ZzWvZSUAXXkLGd2GUnsD1TC+NZBt9iM4d8mQO5UAlsNcj4Hleo+GXkx0l9k6INot2mfVDcG8GX8x8uhPqMZgzrolrISI6aB6Vip8sZEvhVMe8aZaMCGayhfKEgK3aQMSrpqo2kOaOCnUHAm7blQgqpbcNWKgHvSxOWm5GG41sUiVgUYlsb3zMFBloeY5Zx8fGzZ19c/PwfacanYajdisaCEG4KkaS2Tdy/+U7Y+r9ddNDfoIhek9w539h7XfD37ktE+uTZwrNnCxf/+BDzDdMYJWK7EwURXwSQwo1eLmh3VjhzCSnaIHbON/ZMQaS797Ay/vT4yy+M519++Rzz3aGdt1DNpSwvlTF9VUilAqeayml7Y9i8+kgpohdWO02a9k5BOKyMuX/64p9TuvIvjx8DxBvdhaIQg9c0nTfBMjiNqNreKLYuoSJFG0SnLmMfFER7Vzn/6cM5nojWv/7b+WC4MdcTRU7kDdAk7AA0EXtjQZE00jdE89ZIfGSX4HQAFJLy7leJMEfOAdGDVNg+Tdkp46jDM3VFsPwAlILsa8aeIZAiAtHlOsJ+KIg0/ME9DK5C3gXT0tQkdlwgGqrGGxakVXQkUzEUnch83z4Vvb8TmQkPj8TC0QjVyEHVBZ77+J2nTzPJj0DRnfSl5EHNWttuUrUohuORC2Kxg6FozpcunZaT5UqymEz27/6dJJxqU+vCVzw+dNAUrSPdnBe4duA70mFANCkGsI0cCAUnclT0di3tyxr3d8TmMFNsqXV045ZR7762477tcIvtQCgipkixrVtt4x3H/M2sA31ev91583m4CXEQFJHpqkjnF1vDm90ohPYT+mp1uPk83GLbP0Xk4ge1e2vasiuFcKpPik43n4dbFbRvCm7b+ybELhQR7+iJYnu73jq0ybZfilZz3ew+W9OWrhQDbabsFeLUcKuc+FDr1neif4q2JrFJsTW86UbR5h09ULxiUQlV9Kr8eOvDpKGuhUYoIu26aXJrnNmRomvXtQ+ItlsLQ6264GO9UES8qdV1tA7sSNFuU/zVkXb3lTFhIdEyhhLNdjGS6ImiqeGBjpcjWmpR9Ht/afeVMTsg6PKWLYhtk6hXQsQHdoeIUHT66O7q0q7bFO39IzFqJNYfBZ6ugWZX1xvFAUJEso8nWhRDsb4owk8aeMUx7RSdF+bsVL/BKdHqL2KxviiG41QD4cCpe65ou4jHe7y9NBB/hba361Z/sbXZV+tmYmJiYmJiYmJiYmJiYnqtJGRcOdNph2ul7J2p1Tw+KVBu3lfVAgKWJWMamQgTzEvhrTNpx6oEDTLRG5ncZPgpKavYTMpV9kIQyktD0TAVSbQIiLIGlgKKBaAHliKpiiWCoeqcQT8fk40iGue5om1iFsyJ8hWYgCI/YUBepfaLk2ASCyoOSLJgKKqqWaKgG+AXBF0U8BiTGIBpQK0P8ESlQbWAfhI5LeKBuqJiyZyuKMDLEli93cL1fN2BjG4UocydBqfM+bIv+kXwLMMjeTEny66SM1SE8NHcMh7hyGA7ppwRfb5BcRrOCKcBLuFGSOFbnloWhTNQMQqOVhFzvOGrngEFrQi+doariDbmpxQZHZ90D85IeSEDZ8QKXYyUxpLFy1hYUZCLkOnpipHn0NIEmARXRSsmVOK4RLoEtqXaxBfKJCWDarvoKh7amQkpiK3LclGhiyAbFBNwWqJPlOIy+MRWM5JaJBqeIM0Xc5YdGJ5BAnIZT04eT1dGalDItFwnBZd5l1KQPNFMEyYUTcDCxDN4ZojaC4UQeJjNN9C5HbBkladnWieq7KUt2wgU38iXbYfWBdiyqvjoUZIn2WbK4TAnAAnoYTJ4Ou8Sl6OGkcCwZcMG01KQXMcy1JTsEI/zdFW2wdWwYtRAoZkRQSZgm5pRUHziCildw9YoORZHC0tZipa2evKoVymtq96BFPTaSEGvxQqQnWgiD8SPvg+w0fNVJ92IcM0VVE4Ova2i2WF0O44TQ4Au6KJbSeDSIKoFev8bXQsE3FUVREJXaYqALiIJ6I+YsaJBygvfGTQTSqkoYFwGItJ8okTXgoIg8Lt+8EGqwmWES43eIOmkwUk7AQav01zOMaqkLE7yUl4rKIFcsQLFyXENCgW0M4aZEStpKBMa2QwtD8okBKZTNW0lJ02SPO8HhaOCwKDoKhNhSMG64PUiKIFQgaKJfuXRHQJkPB0uaQHnailX2aoL3VXMjOQS0VPpGVCFjINBTjYNWyuIVcjDhFCw975ir18Fli+clibQL7SPLKeg2nYGMsakWLXUipoXKjI5wxVSllk1yo7jOQWk44q26YJnFtLpgGAm2lfKmkMmiWenfCunVEhRmhCLOfPIKA5Npk6/BnDiRdTjtoCJ6VcvR8FYmdLCCYVqYpuUG9ubEumwItX4SgVOQsK0xjRJpCPGVmYxXOsgSWkd80G0iKOQRuO6o6tGaC4+TKIbWsoyFAPnO6DRgZUjK0ZKsWTdMFRV1gyH0IPCBzEsTdFV3fBERzFAB48opir1vRB3fxJ0R+Kwo1blFJ7vAAdWjpR2HMtMm5pj4FTO5nG3Kus4XHdkHDFaBp5u1dFAtHUJHEGyPVWXPUPmHBN7dRxrySndOmKKiHYO33ZZ9x9d2iS1pp5bP4Zz1B7FxMTExMTExMTExMTE9P9ch/UrTEerN47bgAPR18dtwIFoEO4ftwn70Xj4vYb7g/Amvjw8ZmP2qkQ2/J7Mvw8ODOLL2WzXb828zkpks/QLHb8Z/Pp+g+JEYmRDivjg4BvxwbshRfa4TepfV2ZCiq8HB4dh8M2QYubRcRvVr9CfvpkdguFBJHjjzcE4Uswsze7yNabXUo9ml2ay4/DG4OBbMEifEGtx5ufjNqtPocnZR7Rto0O9OTj4G4CfsjOLV4/brP40nl1czCZos8Ce+88hRSJ7/ZvZ47arP6H/zGaBUvyZ9nvoUTRoLV7f+WW6ubmjWxXRrxKzizPUfd6iFHHqVgBXZ7+Z2UHx4ttv/+M/j96+3pTILoWNYIB61H3qUGFd7AhS898KIPxXoj2Rt0GmC9u0tNX4VZG0qB+BzR2E3pOlr3ex335jkC6WGs9mv9vWLoTvX7z47++uXbv2P9FUK18MNDUjgitmbMfmAM6QI1tR1K4Plxaz4QDwrTh8HY5pscNYvNKe6fsX37+4ffuHxdu/vR1JVUxfA64sKBNCPqcpUIS8FEg+HIPOzi5lG3F1eHNgfhWbymftmV7Mz7/Aajt7+7fYbsScS5UTLM9V84EJ+bKtFstlCLSK5DnH41PZmdnr0U7uEfbl2W15XnyPFD9fhWt/oe+2fo9GtvNOBuhKYRCqQBcNZiTvmJYUnZ397nq2hfEou5jdXhXw448/vojNPvzLtbbU9IQNvpvnKUXRRQ6rwgcHs8C0f12ZwQZ+tTE5eng1e31pe6vAvuLFi7krV+Dae22pFSuf0tOyAvmwLkjamrAzcurQfkV5d304gy08m31+5Tk+Ly7uhKB6OAs//G97EgYlXZaRQqarREAyZQv/mcdEAT/NLn6zOLu0OHt9cWlptvOw/GH24dKDI7arTz28OjOT/WZpaWlm5sNElzw/zX51pDbtRYmfn1+dvfr8524MTExMTEy/Ss0v3wyf5xvLA8OfT4Q5EOfnMHluPkwCUQB8L7SPKDbfjRy5yTt1bnT0xoawMjo6ugqrv8zDyo3lG6srU8ujN365iW9u3NiAG6MbN25Ojd5YwSxRUfPFkfN08Bgci+1NLZdWb27AamnjJj7OlZCitDw1tXpzqjQ3h4Q3YePGfGlq6ubK1Cqmn2s79jw+vmq80C8kqSj6A/uqKgCHm3RLFQxL5cLNw7xssjqKpc+HJ7m0soEUq6Xl0gogTGlVnMIKGB3dmCqJYmkKs5XaKbASRh40KfKyado2WKYpZ6CYVoW8mU67hmfj+LyReIgUaDiiYNMQS6sbjboIjZ0/V9pYKc3PoUolEEdLIizvoHjwQPwhdCxKkU6lPUdwUql0hf4RCZ56maUHeJZEmniYFDdHp9DYjdWVjanRm8ulqdXSyvzoORCm0L02lkdXl1d+mS+NUlrctc2jzlJ/+mqLIkMURYOqRoiU2Ubh0sTcIVLgCR5FqzdGR0vLAOg8q3PzKxswhyZv4M6V0gq2cfQwOFdaWcYdUT380/nwcg8+Kmn6H+jXeH3fdykVT6/kWMQsu7zdSDxUzYURc25Px+5ssmGgbk/okMjExPQaafMXqnFLpH9MJfL+JKlhs1Cv1WrhYyvlZCm0uF4jWBVA/3jNev0kBlBaEeuaKAJWQx1rAurrsH2s/voLz/u6CATtJ5rGgaYBt34CKWCd1HDMvTY2PT09toY1Q/hapz8G83oL3ahWr0+vrd16eWttbbqu1YT6Hv/YyjGKNoP69Ni6VrtV09bHprVG2slS2KLHxt6u19d5rBPcooknrTJq2NWtT4cUJKSYrgFw9eM2q0/RlnxrbGysXq8LdUoxditMPVmiFGOhR9H+glK8Dbxw4ij4OkxT298eW6dPKPSyk0dRA2r722svycu1cAvWTx4Fes9LtJ1fWxPW1ghWyxqsnziPqvN1TUPb6399Cbf+ihTTfL0mnbQYJdbEdXiJxtdr09iFj02vQU2qnbgRSE3EPu7WNH8LCV5q07cwUp24ZhFWBvZ869M0UE1Pr9OR+foJHNNqNZwlgVBbe7lWawwOyYkb0+Jpr+Modr0u4qCcq69LQk07gfMLtJisS1gH67W1Wl0g6zycxBlrOPFer/OiIPL4eiIvXG5duCH1Og5ppVYCExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMTExMT069O/wc7BzTyIGmhQQAAAABJRU5ErkJggg==
+  publisher: Proceedings of the 10th International Conference on Educational Data
+    Mining (EDM)
+  date: '2018-07-20'
+  link: https://www.researchgate.net/publication/330524566_How_Many_Words_Needed_Using_Natural_Language_Processing_Tools_in_Educational_Data_Mining
+  _cache: 9b77b34f6123e531e03a75359f42559bc488f372f9eef3fcfde536eb66105bb7
+- title: Linking language to math success in a blended course
+  authors:
+  - Scott Crossley
+  - Tiffany Barnes
+  - Collin Lynch
+  - Danielle McNamara
+  publisher: Proceedings of the 10th International Conference on Educational Data
+    Mining (EDM)
+  date: '2017-01-01'
+  link: https://files.eric.ed.gov/fulltext/ED596603.pdf
+  extra-links:
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED596603.pdf
+  _cache: edb4fb8a378db98cc4e3dabe2fa9e889da144bb26d93f88c149694d09875ebfe
+- title: Predicting Success in Massive Open Online Courses
+  image: data:image/jpeg;base64,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
+  authors:
+  - Crossley Scott
+  - Dascalu Mihai
+  - McNamara Danielle S
+  - Baker Ryan
+  - Trausan-Matu Stefan
+  publisher: Proceeding of the 12th International Conference on Computer Supported
+    Collaborative Learning (CSCL)
+  date: '2017-06-22'
+  link: https://repository.isls.org/handle/1/220
+  extra-links:
+  - type: journal
+    link: https://repository.isls.org/handle/1/220
+  - type: preprint
+    link: https://learninganalytics.upenn.edu/ryanbaker/ScottCSCL2017v3.pdf
+  _cache: 80c8128df5cc2c6df7d353b845f4e660fb138acb6478b2e8e5a502358ca484cc
+- title: How important is size? An Investigation of Corpus Size and Meaning in both
+    Latent Semantic Analysis and Latent Dirichlet Allocation
+  image: https://ww.aaai.org/Press/Proceedings/Covers/flairs17.jpg
+  authors:
+  - Scott Crossley
+  - Dascalu Mihai
+  - Danielle McNamara
+  publisher: Proceedings of the 30th International Florida Artificial Intelligence
+    Research Society (FLAIRS) Conference
+  date: '2017-05-24'
+  link: https://www.researchgate.net/publication/319598954_How_Important_Is_Size_An_Investigation_of_Corpus_Size_and_Meaning_in_both_Latent_Semantic_Analysis_and_Latent_Dirichlet_Allocation
+  extra-links:
+  - type: preprint
+    link: https://www.researchgate.net/publication/319598954_How_Important_Is_Size_An_Investigation_of_Corpus_Size_and_Meaning_in_both_Latent_Semantic_Analysis_and_Latent_Dirichlet_Allocation
+  _cache: 1a07924e441920d0348c3186bf43d97429c64358641afacd54bcdec4b64f6929
+- title: Modeling comprehension processes via automated analyses of dialogism
+  image: https://cdn11.bigcommerce.com/s-eb528d73s5/images/stencil/1280x1280/products/49841/52723/035829__16024.1636345195.png?c=1
+  authors:
+  - Mihai Dascalu
+  - Laura K Allen
+  - Danielle McNamara
+  - Stefan Trausan-Matu
+  - Scott A Crossley
+  publisher: Proceeding of the 39th Annual Meeting of the Cognitive Science Society
+  date: '2017-07-29'
+  link: https://files.eric.ed.gov/fulltext/ED577141.pdf
+  extra-links:
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED577141.pdf
+  _cache: 10f3091e916e7acd17b2333b4bd76adc24387061be56450f8c3586c49bd42e35
+- title: 'Document cohesion flow: Striving towards coherence'
+  image: https://cogsci.mindmodeling.org/2016/pdfs/section0001.pdf
+  authors:
+  - Scott Crossley
+  - Mihai DascaluStefan
+  - Trausan-Matu
+  - Laura Allen
+  - Danielle S. McNamara
+  publisher: Proceedings of the 38th Annual Conference of the Cognitive Science Society
+  date: '2016-08-13'
+  link: https://core.ac.uk/display/55539347?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+  extra-links:
+  - type: journal
+    link: https://core.ac.uk/display/55539347?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+  - type: preprint
+    link: https://www.researchgate.net/publication/319598842_Document_Cohesion_Flow_Striving_towards_Coherence
+  _cache: 0a50c049057cc053d122deeb7873e9464f2254092d7f7f7fe09503ed269b381d
+- title: Automatic Assessment of Constructed Response Data in a Chemistry Tutor
+  authors:
+  - Scott Crossley
+  - Kristopher Kyle
+  - Jodi Davenport
+  - Danielle S. McNamara
+  publisher: Proceedings of the 9th International Educational Data Mining (EDM)
+  date: '2016-07-02'
+  link: https://files.eric.ed.gov/fulltext/ED592642.pdf
+  extra-links:
+  - type: preprint
+    link: https://files.eric.ed.gov/fulltext/ED592642.pdf
+  _cache: 0d1c6797da4fc2e011b8fa2e3f7467d2046a88ab096cd4e2adce7368d4393a2d
+- id: doi:10.1007/978-3-319-93846-2_12
+  title: Modeling Math Success Using Cohesion Network Analysis
+  authors:
+  - Scott A. Crossley
+  - Maria-Dorinela Sirbu
+  - Mihai Dascalu
+  - Tiffany Barnes
+  - Collin F. Lynch
+  - Danielle S. McNamara
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/grtwnb
+  image: https://media.springernature.com/w184/springer-static/cover/book/978-3-319-93846-2.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-319-93846-2_12
+  - type: preprint
+    link: https://www.researchgate.net/publication/325861918_Modeling_Math_Success_Using_Cohesion_Network_Analysis
+  _cache: 59d3845ddee1845bfb6fd7282f05d231b90f5423932c20396503845e460ef968
+- id: doi:10.1007/s11145-015-9615-7
+  title: 'Accuracy feedback improves word learning from context: evidence from a meaning-generation
+    task'
+  authors:
+  - Gwen A. Frishkoff
+  - Kevyn Collins-Thompson
+  - Leslie Hodges
+  - Scott Crossley
+  publisher: Reading and Writing
+  date: '2016-02-02'
+  link: https://doi.org/f8gdxg
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-015-9615-7
+  - type: preprint
+    link: https://www.researchgate.net/publication/292948698_Accuracy_feedback_improves_word_learning_from_context_evidence_from_a_meaning-generation_task
+  _cache: 434ebb8068726558882ef5e95023eb12b6da5c270a404de97576775b896d1963
+- title: 'Measuring creative ability in spoken bilingual text: The role of language
+    proficiency and linguistic features'
+  authors:
+  - Stephen Skalicky
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  - Kasia Muldner
+  publisher: Proceeding of the 41st Annual Meeting of the Cognitive Science Society
+  date: '2019-07-27'
+  link: https://cogsci.mindmodeling.org/2019/papers/0196/index.html
+  extra-links:
+  - type: journal
+    link: https://cogsci.mindmodeling.org/2019/papers/0196/index.html
+  - type: preprint
+    link: https://cogsci.mindmodeling.org/2019/papers/0196/0196.pdf
+  _cache: 51274a7a169419beed42b7897ff76c149e3b40cd0ad7afd40694092f0bfc2e49
+- title: Modeling Math Identity and Math Success through Sentiment Analysis and Linguistic
+    Feature
+  authors:
+  - Crossley, Scott
+  - Ocumpaugh, Jaclyn
+  - Labrum, Matthew
+  - Bradfield, Franklin
+  - Dascalu, Mihai
+  - Baker, Ryan S
+  publisher: Proceedings of the 10th International Conference on Educational Data
+    Mining (EDM)
+  date: '2018-07-20'
+  link: https://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_38.pdf
+  extra-links:
+  - type: journal
+    link: https://educationaldatamining.org/EDM2018/proceedings/
+  - type: preprint
+    link: https://educationaldatamining.org/files/conferences/EDM2018/papers/EDM2018_paper_38.pdf
+  _cache: 0d4de10e9ca726f96190c04fb3cd00b5f4032ad1f3922cdece184ed59dc30e0b
+- title: 'Computational Analysis of Lexical and Cohesion Differences in Deceptive
+    Language: The Role of Accordance'
+  image: https://ww.aaai.org/Press/Proceedings/Covers/flairs17.jpg
+  authors:
+  - Ali Heidari
+  - Meredith D'Arienzo
+  - Scott Crossley
+  - Nicholas Duran
+  publisher: Proceedings of the 30th International Florida Artificial Intelligence
+    Research Society (FLAIRS) Conference
+  date: '2017-05-24'
+  link: https://www.researchgate.net/publication/316997788_Computational_Analysis_of_Lexical_and_Cohesion_Differences_in_Deceptive_Language_The_Role_of_Accordance
+  extra-links:
+  - type: journal
+    link: https://ww.aaai.org/Library/FLAIRS/flairs17contents.php
+  - type: preprint
+    link: https://www.researchgate.net/publication/316997788_Computational_Analysis_of_Lexical_and_Cohesion_Differences_in_Deceptive_Language_The_Role_of_Accordance
+  _cache: 0db4b71f34fbcaac8fb89a4287a371834fb44ebd2aeb6d24969dbeb6a21c8467
