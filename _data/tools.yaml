@@ -14,7 +14,7 @@
   group: featured
   image: images/piilo.png
   link: https://huggingface.co/spaces/langdonholmes/piilo
-  description: Text deidentification is a difficult problem. Stay tuned.
+  description: We are building a text deidentification tool to promote educational data sharing while protecting student privacy.
   repo: langdonholmes/piilo
   tags:
     - software
