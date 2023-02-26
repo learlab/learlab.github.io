@@ -1,21 +1,21 @@
-- title: Digital Textbook
-  subtitle: A digital textbook on Macro Economics
+- title: iTELL
+  subtitle: The Intelligent Textbook for Enhanced Lifelong Learning
   group: featured
   image: images/young-lady-primer.jpg
   link: https://textbook-demo.web.app/
-  description: What if students could interact with their textbooks? We are building an open source digital textbook powered by AI.
+  description: What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI.
   repo: aialoe/macro-economics-textbook
   tags:
     - software
     - demonstration
 
 - title: PIILO
-  subtitle: A tool for Personally Identifiable Information Labelling and Obfuscation
+  subtitle: A tool for Personally Identifiable Information Labeling and Obfuscation
   group: featured
-  image: images/process-diagram.png
-  link: https://github.com/aialoe/deidentification-pipeline
+  image: images/piilo.png
+  link: https://huggingface.co/spaces/langdonholmes/piilo
   description: Text deidentification is a difficult problem. Stay tuned.
-  repo: aialoe/deidentification-pipeline
+  repo: langdonholmes/piilo
   tags:
     - software
 
@@ -92,11 +92,11 @@
     - tutorial
     - publication
 
-- title: Our Web Server Configuration
+- title: Our Development Server
   group: more
-  image: images/kubernetes.png
-  link: https://github.com/langdonholmes/as-alesl-nlp.dyn.gsu.edu
-  description: This is our configuration for a collaborative high-performance computing server, managed by our lab.
-  repo: langdonholmes/as-alesl-nlp.dyn.gsu.edu
+  image: images/jhub.png
+  link: https://github.com/learlab/development-server
+  description: This is our configuration for a collaborative high-performance development server, managed by our lab. Check out the documentation if you'd like to build something similar!
+  repo: learlab/development-server
   tags:
     - configuration
