@@ -8,21 +8,77 @@ nav:
 # <i class="fas fa-envelope"></i>Jobs
 
 
-<div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'tab1')">Tab 1</button>
-  <button class="tablinks" onclick="openTab(event, 'tab2')">Tab 2</button>
 
-  <div id="tab1" class="tabcontent">
-    <h3>Tab 1 Content</h3>
-    <p>Details of tab 1 content.</p>
+<h3>NLP</h3>
+
+
+<h3>NLP</h3>
+[Detail](https://learlab.org/jobs/NLP)
+[click1](/NLP)
+[click2](NLP)
+[click3](jobs/NLP)
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tab Example</title>
+  <style>
+    .tab {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .tab input[type="radio"] {
+      display: none;
+    }
+
+    .tab label {
+      margin-right: 10px;
+      padding: 10px 20px;
+      cursor: pointer;
+      background-color: #eee;
+      border: 1px solid #ccc;
+      border-bottom: none;
+    }
+
+    .tab input[type="radio"]:checked + label {
+      background-color: #fff;
+      border-bottom: 1px solid #fff;
+    }
+
+    .tab-content {
+      flex: 1;
+      display: none;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-top: none;
+    }
+
+    .tab input[type="radio"]:checked + label + .tab-content {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="tab">
+    <input type="radio" name="tabs" id="tab1" checked>
+    <label for="tab1">Tab 1</label>
+    <div class="tab-content">
+      <h3>Tab 1 Content</h3>
+      <p>Details of tab 1 content.</p>
+    </div>
+
+    <input type="radio" name="tabs" id="tab2">
+    <label for="tab2">Tab 2</label>
+    <div class="tab-content">
+      <h3>Tab 2 Content</h3>
+      <p>Details of tab 2 content.</p>
+    </div>
   </div>
-
-  <div id="tab2" class="tabcontent">
-    <h3>Tab 2 Content</h3>
-    <p>Details of tab 2 content.</p>
-  </div>
-</div>
-
+</body>
+</html>
 
 
 
