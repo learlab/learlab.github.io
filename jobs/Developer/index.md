@@ -25,13 +25,13 @@ Starting salary is around $70,000 depending on experience.
 
 <h4>Application Information</h4> 
 
-**Application Deadline:** April 1st (Open until filled)
+Application Deadline: April 1st (Open until filled)
 
-**Website Application**: https://learlab.org/jobs
+Website Application: https://learlab.org/jobs
 
-**Contact Information**: Professor Scott Crossley
+Contact Information: Professor Scott Crossley
 
-(Email: scott.crossley@vanderbilt.edu)
+Email: scott.crossley@vanderbilt.edu
 
 {%
   include link.html
@@ -42,27 +42,26 @@ Starting salary is around $70,000 depending on experience.
   link="scott.crossley@vanderbilt.edu"
   style="button"
 %}
-{:.center}
 
-**Applicants should submit:**
+Applicants should submit:
 - Cover letter (2 single-spaced pages maximum) that includes an overview of relevant experiences;
 - CV (If the doctorate is not already in hand, please indicate the expected graduate date);
 - Names and affiliations of three potential referees. 
 
 Those applicants long-listed by the search committee will be asked to supply reference letters.
 
-**Term:** Up to five years of funding
+<h4>Term</h4> 
+Up to five years of funding
+
+
+<h4>News releases on ALOE</h4>
+
+[Georgia State Researchers Join $20 Million Project To Harness Artificial Intelligence, Transform Online Education For Adults](https://news.gsu.edu/2021/07/29/georgia-state-researchers-join-20-million-project-to-harness-artificial-intelligence-transform-online-education-for-adults/)
+
+[NSF partnerships expand National AI Research Institutes to 40 states](https://www.nsf.gov/news/news_summ.jsp?cntn_id=303176)
 
 <h4>Related Links</h4>
 
-**LEAR Lab** https://learlab.org/
+[LEAR Lab](https://learlab.org/)
 
-**News releases on ALOE**  
-
-https://news.gsu.edu/2021/07/29/georgia-state-researchers-join-20-million-project-to-harness-artificial-intelligence-transform-online-education-for-adults/
-
-https://www.nsf.gov/news/news_summ.jsp?cntn_id=303176
-
-**ALOE homepage**
-
-https://aialoe.org/
+[ALOE homepage](https://aialoe.org/)
