@@ -7,17 +7,45 @@ nav:
 
 # <i class="fas fa-envelope"></i>Jobs
 
-Join our team! Our lab is currently hiring for a research assistant position.
+import Tab from 'react-bootstrap/Tab';
+import Tabs from 'react-bootstrap/Tabs';
 
-We are seeking a highly motivated and detail-oriented individual to join our research team. The successful candidate will assist with ongoing research projects, including data collection and analysis, literature reviews, and experimental design.
 
-The ideal candidate will have a bachelor’s degree in a relevant field (e.g., computer science, NLP), prior research experience (e.g., conducting experiments, analyzing data), and excellent communication and interpersonal skills. Experience with programming languages (e.g., Java, Python, R) is a plus.
+<Tabs
+    defaultActiveKey="1"
+    indicatorColor="#E18F68"
+    id="uncontrolled-tab-example"
+    className="mb-3"
+  >
+    <Tab eventKey="1" title="Keynesian Zone">
+       Near the equilibrium Ek, in the <b>Keynesian zon</b> at the SRAS curve's far left, small shifts in AD to the right or the left will affect the output level Yk, but will not affect the price level by much. In the Keynesian zone, AD largely determines the quantity of output. 
+    </Tab>
+    <Tab eventKey="2" title="Neoclassical Zone">
+        Near the equilibrium En, in the <b>neoclassical zone</b>, at the SRAS curve's far right, small shifts in AD to the right or the left will have relatively little effect on the output level Yn, but instead will have a greater effect on the price level. In the neoclassical zone, the near-vertical SRAS curve close to the level of potential GDP (as represented by the LRAS line) largely determines the quantity of output. 
+    </Tab>
+</Tabs>
 
-Our lab is dedicated to using of natural language processing (NLP) techniques and the application of computational tools and machine learning algorithms to better understand language learning, student writing, and text comprehensibility as means to understand underlying cognitive functions.  As a member of our team, you will have the opportunity to contribute to cutting-edge research and work alongside accomplished scientists in a collaborative and supportive environment.
+<br/>
 
-If you are interested in this exciting opportunity, please submit your CV and a cover letter describing your research experience and interests. We look forward to hearing from you!
 
-We have affiliations with [The Department of Special Education](https://peabody.vanderbilt.edu/departments/sped/), [The Department of Psychology and Human Development](https://peabody.vanderbilt.edu/departments/psych/), and [The Data Science Institute](https://www.vanderbilt.edu/datascience/).
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p>
+</div>
+
 
 {%
   include link.html
