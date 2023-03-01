@@ -7,43 +7,23 @@ nav:
 
 # <i class="fas fa-envelope"></i>Jobs
 
-import Tab from 'react-bootstrap/Tab';
-import Tabs from 'react-bootstrap/Tabs';
-
-
-<Tabs
-    defaultActiveKey="1"
-    indicatorColor="#E18F68"
-    id="uncontrolled-tab-example"
-    className="mb-3"
-  >
-    <Tab eventKey="1" title="Keynesian Zone">
-       Near the equilibrium Ek, in the <b>Keynesian zon</b> at the SRAS curve's far left, small shifts in AD to the right or the left will affect the output level Yk, but will not affect the price level by much. In the Keynesian zone, AD largely determines the quantity of output. 
-    </Tab>
-    <Tab eventKey="2" title="Neoclassical Zone">
-        Near the equilibrium En, in the <b>neoclassical zone</b>, at the SRAS curve's far right, small shifts in AD to the right or the left will have relatively little effect on the output level Yn, but instead will have a greater effect on the price level. In the neoclassical zone, the near-vertical SRAS curve close to the level of potential GDP (as represented by the LRAS line) largely determines the quantity of output. 
-    </Tab>
-</Tabs>
-
-<br/>
 
 
 <!-- Tab links -->
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
-  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
-  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+  <button class="tablinks" onclick="openCity(event, 'NLP')">Postdoctoral Research Associate (ALOE) NLP</button>
+  <button class="tablinks" onclick="openCity(event, 'Developer')">Postdoctoral Research Associate (ALOE) Developer</button>
 </div>
 
 <!-- Tab content -->
-<div id="London" class="tabcontent">
-  <h3>London</h3>
-  <p>London is the capital city of England.</p>
+<div id="NLP" class="tabcontent">
+  <h3>Postdoctoral Research Associate (ALOE) NLP</h3>
+  **Description**: The Department of Special Education in the Peabody College of Education and Human Development is seeking to hire a Postdoctoral Research Associate to work in the National Science Foundation AI Institute for Adult Learning and Online Education (ALOE). The research associate will work with faculty, staff, and students at both Vanderbilt University and Georgia State University in Atlanta. The research associate will help in all aspects of the project and assist in developing natural language processing techniques and tools, data analytics, general educational research, and project evaluation. The research associate will contribute to artificial intelligence (AI) and machine learning (ML) enhanced research design, attend weekly project meetings, conduct data collection, analyze data, write scientific papers, and help train and mentor undergraduate and graduate students. The research associate will work as part of a diverse, supportive, and collaborative team that includes nationally recognized universities, corporate partners, and technical colleges.
 </div>
 
-<div id="Paris" class="tabcontent">
-  <h3>Paris</h3>
-  <p>Paris is the capital of France.</p>
+<div id="Developer" class="tabcontent">
+  <h3>Postdoctoral Research Associate (ALOE) Developer</h3>
+  <p>**Description**: The Department of Special Education in the Peabody College of Education and Human Development is seeking to hire a Postdoctoral Research Associate to work in the National Science Foundation AI Institute for Adult Learning and Online Education (AI-ALOE). The research associate will work with faculty, staff, and students at Vanderbilt University in The Language and Educational Analytics Research (LEAR) Lab. The research associate will help develop an intelligent textbook framework and lead other aspects of the project including text and learner analytics, human computer interaction, and project evaluation. The research associate will contribute to artificial intelligence (AI) and machine learning (ML) applications in education settings, attend weekly project meetings, conduct data collection, analyze data, write scientific papers, and help train and mentor undergraduate and graduate students. The research associate will work as part of a diverse, supportive, and collaborative team that includes nationally recognized universities, corporate partners, and technical colleges. </p>
 </div>
 
 
