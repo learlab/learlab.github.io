@@ -52,19 +52,14 @@ Teamwork makes the dream work.
 
 ## Join
 
-### Undergraduate/ Gradudate Student Researcher 
+### Undergraduate/ Graduate Student Researchers
 
-We are currently hiring undergraduate students who are interested in natural language processing (NLP) techniques, the application of computational tools, and machine learning algorithms. 
+We are always looking for new talent on the team. If you are interested in joining, please contact us below. We often have volunteer and paid opportunities available. We are generally looking for students who are interested in natural language processing (NLP) techniques, the application of computational tools in learning environments, and the use machine learning algorithms.
+Feel free to reach out with any questions!
 
 ### Post Doctoral Researcher
 
-We would like a post doc. If you have experience in the following areas, check back here. We will open applications soon.
-
-- Data science
-- Natural Language Processing
-- Education Research
-
-Feel free to reach out with any questions!
+Please check [Jobs](jobs) page.
 
 <!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
 
