@@ -12,6 +12,9 @@
   group: datasets
   image: images/PERSUADE.png
   link: https://www.kaggle.com/competitions/feedback-prize-effectiveness/
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293522000630
   description: 'PERSUADE is an open-source corpus comprising over 25,000 essays annotated for argumentative and discourse elements and relationships between these elements. The corpus includes holistic quality scores for each essay and for each argumentative and discourse element. Lastly, PERSUADE includes detailed demographic information for the writers. Kaggle competition 2021: https://www.kaggle.com/competitions/feedback-prize-2021'
   tags:
     - corpus
