@@ -10,20 +10,18 @@ nav:
 
 
 <h3>NLP</h3>
-
-
-<h3>NLP</h3>
 [Detail](https://learlab.org/jobs/NLP)
-[click1](/NLP)
+
+
+
+<h3>Developer</h3>
+[Detail](https://learlab.org/jobs/Developer)
 [click2](NLP)
-[click3](jobs/NLP)
 
 
-
-<!DOCTYPE html>
 <html>
 <head>
-  <title>Tab Example</title>
+  <title>Tab Example2</title>
   <style>
     .tab {
       display: flex;
@@ -49,7 +47,6 @@ nav:
     }
 
     .tab-content {
-      flex: 1;
       display: none;
       padding: 20px;
       border: 1px solid #ccc;
@@ -73,12 +70,13 @@ nav:
     <input type="radio" name="tabs" id="tab2">
     <label for="tab2">Tab 2</label>
     <div class="tab-content">
-      <h3>Tab 2 Content</h3>
+      <h3>Tab 2 Content23123</h3>
       <p>Details of tab 2 content.</p>
     </div>
   </div>
 </body>
 </html>
+
 
 
 
