@@ -8,19 +8,18 @@ nav:
 # <i class="fas fa-envelope"></i>Jobs
 
 
-
-<div class="tabs">
-  <button class="tablink" onclick="openTab('tab1')">Tab 1</button>
-  <button class="tablink" onclick="openTab('tab2')">Tab 2</button>
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'tab1')">Tab 1</button>
+  <button class="tablinks" onclick="openTab(event, 'tab2')">Tab 2</button>
 
   <div id="tab1" class="tabcontent">
-    <h2>Tab 1 Content</h2>
-    <p>This is the content for Tab 1.</p>
+    <h3>Tab 1 Content</h3>
+    <p>Details of tab 1 content.</p>
   </div>
 
   <div id="tab2" class="tabcontent">
-    <h2>Tab 2 Content</h2>
-    <p>This is the content for Tab 2.</p>
+    <h3>Tab 2 Content</h3>
+    <p>Details of tab 2 content.</p>
   </div>
 </div>
 
