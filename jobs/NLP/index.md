@@ -20,6 +20,9 @@ The Department of Special Education in the Peabody College of Education and Huma
 
 Starting salary is between $60,000 and $70,000 depending on experience.
 
+<h4>Term</h4> 
+Up to five years of funding
+
 
 <h4>Application Information</h4> 
 
@@ -48,5 +51,3 @@ Contact Information: Professor Scott Crossley (_Email: scott.crossley@vanderbilt
 {:.center}
 
 
-<h4>Term</h4> 
-Up to five years of funding
