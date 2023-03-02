@@ -17,16 +17,6 @@ The Department of Special Education in the Peabody College of Education and Huma
 The Department of Special Education in the Peabody College of Education and Human Development is seeking to hire a Postdoctoral Research Associate to work in the National Science Foundation AI Institute for Adult Learning and Online Education (AI-ALOE). The research associate will work with faculty, staff, and students at Vanderbilt University in The Language and Educational Analytics Research (LEAR) Lab. The research associate will help develop an intelligent textbook framework and lead other aspects of the project including text and learner analytics, human computer interaction, and project evaluation. The research associate will contribute to artificial intelligence (AI) and machine learning (ML) applications in education settings, attend weekly project meetings, conduct data collection, analyze data, write scientific papers, and help train and mentor undergraduate and graduate students. The research associate will work as part of a diverse, supportive, and collaborative team that includes nationally recognized universities, corporate partners, and technical colleges. [Click for Details](Developer)
 
 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="Professor Scott Crossley"
-  tooltip=""
-  link="scott.crossley@vanderbilt.edu"
-  style="button"
-%}
-
 <h4>News releases on ALOE</h4>
 
 [Georgia State Researchers Join $20 Million Project To Harness Artificial Intelligence, Transform Online Education For Adults](https://news.gsu.edu/2021/07/29/georgia-state-researchers-join-20-million-project-to-harness-artificial-intelligence-transform-online-education-for-adults/)

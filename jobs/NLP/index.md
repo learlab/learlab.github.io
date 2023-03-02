@@ -25,11 +25,16 @@ Starting salary is between $60,000 and $70,000 depending on experience.
 
 Application Deadline: April 1st (Open until filled)
 
+Applicants should submit:
+- Cover letter (2 single-spaced pages maximum) that includes an overview of relevant experiences;
+- CV (If the doctorate is not already in hand, please indicate the expected graduate date);
+- Names and affiliations of three potential referees. 
+
+Those applicants long-listed by the search committee will be asked to supply reference letters.
+
 Website Application: https://learlab.org/jobs
 
-Contact Information: Professor Scott Crossley
-
-Email: scott.crossley@vanderbilt.edu
+Contact Information: Professor Scott Crossley (_Email: scott.crossley@vanderbilt.edu_)
 
 {%
   include link.html
@@ -40,27 +45,8 @@ Email: scott.crossley@vanderbilt.edu
   link="scott.crossley@vanderbilt.edu"
   style="button"
 %}
-
-Applicants should submit:
-- Cover letter (2 single-spaced pages maximum) that includes an overview of relevant experiences;
-- CV (If the doctorate is not already in hand, please indicate the expected graduate date);
-- Names and affiliations of three potential referees. 
-
-Those applicants long-listed by the search committee will be asked to supply reference letters.
+{:.center}
 
 
 <h4>Term</h4> 
 Up to five years of funding
-
-
-<h4>News releases on ALOE</h4>
-
-[Georgia State Researchers Join $20 Million Project To Harness Artificial Intelligence, Transform Online Education For Adults](https://news.gsu.edu/2021/07/29/georgia-state-researchers-join-20-million-project-to-harness-artificial-intelligence-transform-online-education-for-adults/)
-
-[NSF partnerships expand National AI Research Institutes to 40 states](https://www.nsf.gov/news/news_summ.jsp?cntn_id=303176)
-
-<h4>Related Links</h4>
-
-[LEAR Lab](https://learlab.org/)
-
-[ALOE homepage](https://aialoe.org/)
