@@ -59,7 +59,7 @@ Feel free to reach out with any questions!
 
 ### Post Doctoral Researcher
 
-Please check [Jobs](jobs) page.
+Please check [Jobs](https://learlab.org/jobs/) page.
 
 <!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
 
