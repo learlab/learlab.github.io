@@ -57,9 +57,7 @@ Teamwork makes the dream work.
 We are always looking for new talent on the team. If you are interested in joining, please contact us below. We often have volunteer and paid opportunities available. We are generally looking for students who are interested in natural language processing (NLP) techniques, the application of computational tools in learning environments, and the use machine learning algorithms.
 Feel free to reach out with any questions!
 
-### Post Doctoral Researcher
 
-Please check [Jobs](https://learlab.org/jobs/) page.
 
 <!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
 
