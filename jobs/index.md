@@ -5,7 +5,7 @@ nav:
   tooltip: Hiring
 ---
 
-# <i class="fas fa-envelope"></i>Jobs
+# <i class="fa-solid fa-briefcase"></i>Jobs
 
 
 <h3>Postdoctoral Research Associate (ALOE) NLP</h3>
