@@ -35,8 +35,6 @@ Applicants should submit:
 
 Those applicants long-listed by the search committee will be asked to supply reference letters.
 
-Website Application: https://learlab.org/jobs
-
 Contact Information: Professor Scott Crossley (_Email: scott.crossley@vanderbilt.edu_)
 
 {%
