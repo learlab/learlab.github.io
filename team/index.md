@@ -15,7 +15,7 @@ We have a diverse and supportive team with a wide range of skillsets and backgro
 {%
   include figure.html
   image="images/team-pic.jpg"
-  width="70%"
+  width="80%"
 %}
 
 
