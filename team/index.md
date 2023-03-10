@@ -10,14 +10,16 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 
+We have a diverse and supportive team with a wide range of skillsets and backgrounds. 
+
 {%
   include figure.html
   image="images/team-pic.jpg"
-  width="100%"
+  width="70%"
 %}
 
 
-We have a diverse and supportive team with a wide range of skillsets and backgrounds. 
+
 
 {% include section.html %}
 
