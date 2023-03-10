@@ -52,6 +52,8 @@ nav:
 ## Alumni
 
 
+{% include list.html data="members" component="portrait" filters="role: ma, group: alum" %}
+
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" %}
 
 
