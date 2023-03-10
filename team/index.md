@@ -10,7 +10,7 @@ nav:
 # <i class="fas fa-users"></i>Team
 
 
-We have a diverse and supportive team with a wide range of skillsets and backgrounds. 
+<center>We have a diverse and supportive team with a wide range of skillsets and backgrounds. </center>
 
 {%
   include figure.html
