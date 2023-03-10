@@ -5,7 +5,17 @@ nav:
   tooltip: About our team
 ---
 
+
+
 # <i class="fas fa-users"></i>Team
+
+
+{%
+  include figure.html
+  image="images/team-pic.jpg"
+  width="100%"
+%}
+
 
 We have a diverse and supportive team with a wide range of skillsets and backgrounds. 
 
