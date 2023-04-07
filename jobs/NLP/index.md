@@ -35,7 +35,9 @@ Applicants should submit:
 
 Those applicants long-listed by the search committee will be asked to supply reference letters.
 
-Contact Information: Professor Scott Crossley (_Email: scott.crossley@vanderbilt.edu_)
+<h4>Contact Information</h4>
+
+Professor Scott Crossley (_Email: scott.crossley@vanderbilt.edu_)
 
 {%
   include link.html
