@@ -1,6 +1,6 @@
 ---
 name: Vaibhav Gupta
-image: images/vaibhav.png
+image: images/vaibhav.jpg
 description: Master's Student
 role: ma
 # aliases:
