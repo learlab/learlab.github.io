@@ -3,6 +3,7 @@ name: Jiahe Wang
 image: images/jiahe.jpg
 description: Research Assistant
 role: undergrad
+group: alum
 links:
   orcid: 0000-0003-0442-9106
   email: jiahe.wang@vanderbilt.edu
