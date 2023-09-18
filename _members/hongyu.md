@@ -3,6 +3,7 @@ name: Hongyu Dai
 image: images/hongyu.jpg
 description: Master's Student
 role: ma
+group: alum
 # aliases:
 #   - A. Chovie
 #   - A Chovie
