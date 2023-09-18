@@ -3,6 +3,7 @@ name: Weixuan
 image:
 description: Research Assistant
 role: undergrad
+group: alum
 links:
   email: 
   github: 
