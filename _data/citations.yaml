@@ -1,6 +1,143 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1177/02655322221147924
+  title: L2 and L1 semantic context indices as automated measures of lexical sophistication
+  authors:
+  - "K\xE1tia Monteiro"
+  - Scott Crossley
+  - Robert-Mihai Botarleanu
+  - "Mihai Dasc\u0103lu"
+  publisher: Language Testing
+  date: '2023-02-02'
+  link: https://doi.org/gsrmfm
+  extra-links:
+  - type: journal
+    link: https://journals.sagepub.com/doi/10.1177/02655322221147924
+  _cache: 043c6ff498961654d1f3dc70303080d34883689db45bdbd031038eeb378148cd
+- id: doi:10.3389/fpsyg.2023.1068685
+  title: Lexical and phraseological differences between second language written and
+    spoken opinion responses
+  authors:
+  - Minkyung Kim
+  - Scott A. Crossley
+  publisher: Frontiers in Psychology
+  date: '2023-03-01'
+  link: https://doi.org/gsrmfn
+  extra-links:
+  - type: journal
+    link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
+  _cache: 07f3ea01ce564110b86ae95f9fd9c7063590bf037479e55d3f19560d7ae7ae2c
+- id: doi:10.1007/s11145-021-10221-x
+  title: 'Source inclusion in synthesis writing: an NLP approach to understanding
+    argumentation, sourcing, and essay quality'
+  authors:
+  - Scott Crossley
+  - Qian Wan
+  - Laura Allen
+  - Danielle McNamara
+  publisher: Reading and Writing
+  date: '2021-11-11'
+  link: https://doi.org/grc7s5
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+  _cache: bc74856897132350e7d8b8c20463bea4e23a3ab6a63c1c177cd4beec771c5e21
+- id: doi:10.1075/jsls.22006.cro
+  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
+    \ language processing techniques"
+  authors:
+  - Scott Crossley
+  - Langdon Holmes
+  publisher: Journal of Second Language Studies
+  date: '2022-09-20'
+  link: https://doi.org/gq3674
+  image: https://www.jbe-platform.com/images/covers/25423843.png
+  extra-links:
+  - type: journal
+    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+  _cache: c23883bbd9c1e76a7c73f8d11b8bbe67bfe90bd110cf0008315def08d0b07060
+- id: doi:10.3758/s13428-022-01802-x
+  title: A large-scaled corpus for assessing text readability
+  authors:
+  - Scott Crossley
+  - Aron Heintz
+  - Joon Suh Choi
+  - Jordan Batchelor
+  - Mehrnoush Karimi
+  - Agnes Malatinszky
+  publisher: Behavior Research Methods
+  date: '2022-03-16'
+  link: https://doi.org/grc7s4
+  image: https://media.springernature.com/w120/springer-static/cover/journal/13428.jpg?as=webp
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-022-01802-x
+  _cache: 87f07e6f07bbe8f14dbedb4c52d98a6afee1218f483050acbbada60a6bb28d78
+- id: doi:10.1080/13670050.2020.1838434
+  title: Second language reading and writing in relation to first language, vocabulary
+    knowledge, and learning backgrounds
+  authors:
+  - Minkyung Kim
+  - Scott A. Crossley
+  - Byeong-Kweon Kim
+  publisher: International Journal of Bilingual Education and Bilingualism
+  date: '2020-11-10'
+  link: https://doi.org/grjmbg
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/rbeb20.v025.i06
+  extra-links:
+  - type: journal
+    link: https://www.tandfonline.com/doi/full/10.1080/13670050.2020.1838434
+  _cache: 0d6c61b17d390b7139f5f748ca5d43b1d911be70c5b9255cdce35f36abc466fc
+- id: doi:10.1145/3576050.3576098
+  title: Using Transformer Language Models to Validate Peer-Assigned Essay Scores
+    in Massive Open Online Courses (MOOCs)
+  authors:
+  - Wesley Morris
+  - Scott Crossley
+  - Langdon Holmes
+  - Anne Trumbore
+  publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
+  date: '2023-03-13'
+  link: https://doi.org/gsrmfp
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/3576050.3576098
+  _cache: da694b3391b5c7ddb40f59fb5d085e3e12f82c052aa1e5ce63344d597cc317e5
+- id: doi:10.1007/978-3-031-36336-8_109
+  title: Deidentifying Student Writing with Rules and Transformers
+  authors:
+  - Langdon Holmes
+  - Scott A. Crossley
+  - Wesley Morris
+  - Harshvardhan Sikka
+  - Anne Trumbore
+  publisher: Artificial Intelligence in Education. Posters and Late Breaking Results,
+    Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral
+    Consortium and Blue Sky
+  date: '2023-01-01'
+  link: https://doi.org/gsrmfq
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  extra-links:
+  - type: journal
+  - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_109
+  _cache: 5bb21b36ab8c2be850fd68a269b9f3a06fa7fd25fc6a95ccd6a528cfce07416f
+- id: doi:10.1145/3576050.3576098
+  title: Using Transformer Language Models to Validate Peer-Assigned Essay Scores
+    in Massive Open Online Courses (MOOCs)
+  authors:
+  - Wesley Morris
+  - Scott Crossley
+  - Langdon Holmes
+  - Anne Trumbore
+  publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
+  date: '2023-03-13'
+  link: https://doi.org/gsrmfp
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  extra-links:
+  - type: journal
+  - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+  _cache: b874e86144964be098678133c976103235600b7ae6ceadb97b91949a9fd016e1
 - id: doi:10.1075/jsls.22006.cro
   title: "Assessing receptiv e vocabulary using state\u2011of\u2011the\u2011art natural\
     \ language processing techniques"
@@ -1291,24 +1428,6 @@
   - type: journal
     link: https://link.springer.com/chapter/10.1007/978-3-031-11644-5_79
   _cache: ba0a2e3d7e53de8ca575064882b1b0728bfa3ec89b453de4ea5e0fa41879ecd6
-- id: doi:10.1145/3513140
-  title: 'Automated Assessment in Computer Science Education: A State-of-the-Art Review'
-  authors:
-  - "Jos\xE9 Carlos Paiva"
-  - "Jos\xE9 Paulo Leal"
-  - "\xC1lvaro Figueira"
-  publisher: ACM Transactions on Computing Education
-  date: '2022-06-09'
-  link: https://doi.org/gq4v8x
-  image: https://dl.acm.org/cms/asset/93de28ec-01e2-4a6f-83a2-10087c344ac0/3542931.cover.jpg
-  extra-links:
-  - type: journal
-    link: https://dl.acm.org/doi/10.1145/3513140
-  - type: preprint
-    link: https://drive.google.com/file/d/11TpiU7JSEWre1mYxKQCcW0bnZwe-mzsP/view
-  - type: source
-    link: https://www.linguisticanalysistools.org/arte.html
-  _cache: 68d2e71f1a1a19751b0fc99d5ca7dab397004e7f42a1cc2554d0e6b766fad29a
 - id: doi:10.1007/978-3-031-09680-8_16
   title: "Automated Classification of Argumentative Components in Students\u2019 Essays"
   authors:
