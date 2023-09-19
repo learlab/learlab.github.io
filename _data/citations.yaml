@@ -1,22 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1145/3576050.3576098
-  title: Using Transformer Language Models to Validate Peer-Assigned Essay Scores
-    in Massive Open Online Courses (MOOCs)
-  authors:
-  - Wesley Morris
-  - Scott Crossley
-  - Langdon Holmes
-  - Anne Trumbore
-  publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
-  date: '2023-03-13'
-  link: https://doi.org/gsrmfp
-  image: null
-  extra-links:
-  - type: journal
-    link: https://dl.acm.org/doi/10.1145/3576050.3576098
-  _cache: 56a6e225636eaf60e0720ffb59294db6b23729d7f040e958518286ed9e2201ac
 - id: doi:10.1007/978-3-031-36336-8_75
   title: Using Large Language Models to Provide Formative Feedback in Intelligent
     Textbooks
@@ -191,24 +175,6 @@
   - type: journal
     link: https://dl.acm.org/doi/10.1145/3576050.3576098
   _cache: da694b3391b5c7ddb40f59fb5d085e3e12f82c052aa1e5ce63344d597cc317e5
-- id: doi:10.1007/978-3-031-36336-8_109
-  title: Deidentifying Student Writing with Rules and Transformers
-  authors:
-  - Langdon Holmes
-  - Scott A. Crossley
-  - Wesley Morris
-  - Harshvardhan Sikka
-  - Anne Trumbore
-  publisher: Artificial Intelligence in Education. Posters and Late Breaking Results,
-    Workshops and Tutorials, Industry and Innovation Tracks, Practitioners, Doctoral
-    Consortium and Blue Sky
-  date: '2023-01-01'
-  link: https://doi.org/gsrmfq
-  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
-  extra-links:
-  - type: journal
-  - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_109
-  _cache: 5bb21b36ab8c2be850fd68a269b9f3a06fa7fd25fc6a95ccd6a528cfce07416f
 - id: doi:10.1145/3576050.3576098
   title: Using Transformer Language Models to Validate Peer-Assigned Essay Scores
     in Massive Open Online Courses (MOOCs)
