@@ -1,3 +1,32 @@
+- id: doi:10.1145/3576050.3576098
+  image:
+  extra-links:
+  - type: journal
+    link: https://dl.acm.org/doi/10.1145/3576050.3576098
+
+- id: doi:10.1007/978-3-031-36336-8_75
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+
+- id: doi:10.1007/978-3-031-36336-8_109
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_109
+      
+- id: doi:10.1007/978-3-031-36336-8_66
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
+      
+- id: doi:10.18653/v1/2023.bea-1.21
+  extra-links:
+    - type: journal
+      link: https://aclanthology.org/2023.bea-1.21/
+
 - id: doi:10.1177/02655322221147924
   extra-links:
     - type: journal
