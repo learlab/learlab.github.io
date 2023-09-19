@@ -1,3 +1,59 @@
+- id: doi:
+  image:
+  extra-links:
+    - type: journal
+      link: https://www.jowr.org/index.php/jowr/article/view/920
+      
+- id: doi:10.1177/02655322221147924
+  extra-links:
+    - type: journal
+      link: https://journals.sagepub.com/doi/10.1177/02655322221147924
+
+- id: doi:10.3389/fpsyg.2023.1068685
+  extra-links:
+    - type: journal
+      link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
+
+- id: doi:10.1007/s11145-021-10221-x
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+
+- id: doi:10.1075/jsls.22006.cro
+  image: https://www.jbe-platform.com/images/covers/25423843.png
+  extra-links:
+    - type: journal
+      link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+
+- id: doi:10.3758/s13428-022-01802-x
+  image: https://media.springernature.com/w120/springer-static/cover/journal/13428.jpg?as=webp
+  extra-links:
+    - type: journal
+      link: https://link.springer.com/article/10.3758/s13428-022-01802-x
+
+- id: doi:10.1080/13670050.2020.1838434
+  image: https://www.tandfonline.com/action/showCoverImage?doi=10.1080/rbeb20.v025.i06
+  extra-links:
+    - type: journal
+      link: https://www.tandfonline.com/doi/full/10.1080/13670050.2020.1838434
+
+- id: doi:10.1145/3576050.3576098
+  extra-links:
+    - type: journal
+      link: https://dl.acm.org/doi/10.1145/3576050.3576098
+
+- id: doi:10.1007/978-3-031-36336-8_109
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  extra-links:
+    - type: journal
+    - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_109
+
+- id: doi:10.1145/3576050.3576098
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  extra-links:
+    - type: journal
+    - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+
 - id: doi:10.1075/jsls.22006.cro
   image: https://www.jbe-platform.com/images/covers/25423843.png
   repo: langdonholmes/lexical_analysis
@@ -513,17 +569,6 @@
   extra-links:
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-3-031-11644-5_79
-
-
-- id: doi:10.1145/3513140
-  image: https://dl.acm.org/cms/asset/93de28ec-01e2-4a6f-83a2-10087c344ac0/3542931.cover.jpg
-  extra-links:
-    - type: journal
-      link: https://dl.acm.org/doi/10.1145/3513140
-    - type: preprint
-      link: https://drive.google.com/file/d/11TpiU7JSEWre1mYxKQCcW0bnZwe-mzsP/view
-    - type: source
-      link: https://www.linguisticanalysistools.org/arte.html
 
 - id: doi:10.1007/978-3-031-09680-8_16
   image: https://media.springernature.com/w184/springer-static/cover/book/978-3-031-09680-8.jpg?as=webp
