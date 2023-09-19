@@ -1,6 +1,6 @@
 ---
 name: Jaewoo Cho
-image: images/jaewoo.jpeg
+image: images/jaewoo.jpg
 description: Master's Student
 role: ma
 # aliases:
