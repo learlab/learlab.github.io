@@ -1,7 +1,7 @@
 ---
 name: Qiushi Yan
 image: images/qiushi.png
-description: Master's Student
+description: Software Developer
 role: ma
 # aliases:
 #   - A. Chovie
