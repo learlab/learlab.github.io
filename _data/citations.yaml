@@ -114,20 +114,6 @@
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10221-x
   _cache: bc74856897132350e7d8b8c20463bea4e23a3ab6a63c1c177cd4beec771c5e21
-- id: doi:10.1075/jsls.22006.cro
-  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
-    \ language processing techniques"
-  authors:
-  - Scott Crossley
-  - Langdon Holmes
-  publisher: Journal of Second Language Studies
-  date: '2022-09-20'
-  link: https://doi.org/gq3674
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  extra-links:
-  - type: journal
-    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  _cache: c23883bbd9c1e76a7c73f8d11b8bbe67bfe90bd110cf0008315def08d0b07060
 - id: doi:10.3758/s13428-022-01802-x
   title: A large-scaled corpus for assessing text readability
   authors:
@@ -171,28 +157,13 @@
   publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
   date: '2023-03-13'
   link: https://doi.org/gsrmfp
-  extra-links:
-  - type: journal
-    link: https://dl.acm.org/doi/10.1145/3576050.3576098
-  _cache: da694b3391b5c7ddb40f59fb5d085e3e12f82c052aa1e5ce63344d597cc317e5
-- id: doi:10.1145/3576050.3576098
-  title: Using Transformer Language Models to Validate Peer-Assigned Essay Scores
-    in Massive Open Online Courses (MOOCs)
-  authors:
-  - Wesley Morris
-  - Scott Crossley
-  - Langdon Holmes
-  - Anne Trumbore
-  publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
-  date: '2023-03-13'
-  link: https://doi.org/gsrmfp
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
   extra-links:
   - type: journal
   - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
   _cache: b874e86144964be098678133c976103235600b7ae6ceadb97b91949a9fd016e1
 - id: doi:10.1075/jsls.22006.cro
-  title: "Assessing receptiv e vocabulary using state\u2011of\u2011the\u2011art natural\
+  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
     \ language processing techniques"
   authors:
   - Scott Crossley
