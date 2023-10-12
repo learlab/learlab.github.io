@@ -3,18 +3,24 @@
   extra-links:
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+    - type: preprint
+      link: https://zenodo.org/record/8436736
 
 - id: doi:10.1007/978-3-031-36336-8_109
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
   extra-links:
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_109
+    - type: preprint
+      link: https://zenodo.org/record/8436698
       
 - id: doi:10.1007/978-3-031-36336-8_66
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
   extra-links:
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
+    - type: preprint
+      link: https://zenodo.org/record/8436731
       
 - id: doi:10.18653/v1/2023.bea-1.21
   extra-links:
@@ -560,6 +566,8 @@
   extra-links:
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-981-19-5240-1_6
+    - type: preprint
+      link: https://zenodo.org/record/8436713
 
 - id: doi:10.1016/j.jslw.2016.10.003
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374316X00045-cov150h.gif
