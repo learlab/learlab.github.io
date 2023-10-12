@@ -1,3 +1,12 @@
+- title: CLASSE
+  subtitle: The Common Lit Augmented Student Summary Evaluation corpus
+  group: datasets
+  image: images/classe.png
+  link: https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries/overview
+  description: This dataset contains around 24,000 student summaries from grades 3-12, scored on content and wording, for a competition aiming to predict similar scores on unseen topics.
+  tags:
+    - corpus
+    
 - title: CLEAR
   subtitle: The CommonLit EAse of Readability Corpus
   group: datasets
