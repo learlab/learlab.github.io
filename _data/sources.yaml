@@ -61,11 +61,6 @@
       link: https://www.tandfonline.com/doi/full/10.1080/13670050.2020.1838434
 
 - id: doi:10.1145/3576050.3576098
-  extra-links:
-    - type: journal
-      link: https://dl.acm.org/doi/10.1145/3576050.3576098
-
-- id: doi:10.1145/3576050.3576098
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
   extra-links:
     - type: journal
