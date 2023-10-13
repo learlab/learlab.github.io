@@ -177,21 +177,6 @@
   publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
   date: '2023-03-13'
   link: https://doi.org/gsrmfp
-  extra-links:
-  - type: journal
-    link: https://dl.acm.org/doi/10.1145/3576050.3576098
-  _cache: da694b3391b5c7ddb40f59fb5d085e3e12f82c052aa1e5ce63344d597cc317e5
-- id: doi:10.1145/3576050.3576098
-  title: Using Transformer Language Models to Validate Peer-Assigned Essay Scores
-    in Massive Open Online Courses (MOOCs)
-  authors:
-  - Wesley Morris
-  - Scott Crossley
-  - Langdon Holmes
-  - Anne Trumbore
-  publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
-  date: '2023-03-13'
-  link: https://doi.org/gsrmfp
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
   extra-links:
   - type: journal
