@@ -258,23 +258,6 @@
   - type: journal
     link: https://www.sciencedirect.com/science/article/pii/S1075293522000630
   _cache: 86fe2a404f58c79e83b56316984d2fbcb44ee40d6d3310502c496030133f7223
-- id: doi:10.3758/s13428-022-01802-x
-  title: A large-scaled corpus for assessing text readability
-  authors:
-  - Scott Crossley
-  - Aron Heintz
-  - Joon Suh Choi
-  - Jordan Batchelor
-  - Mehrnoush Karimi
-  - Agnes Malatinszky
-  publisher: Behavior Research Methods
-  date: '2022-03-16'
-  link: https://doi.org/grc7s4
-  image: https://media.springernature.com/w184/springer-static/cover/journal/13428.jpg
-  extra-links:
-  - type: journal
-    link: https://link.springer.com/article/10.3758/s13428-022-01802-x
-  _cache: aae71c2b8ad32536cd41951ced50022b40cdbe1e1ba0cf75e3927d965fb152d2
 - id: doi:10.1007/s11145-021-10221-x
   title: 'Source inclusion in synthesis writing: an NLP approach to understanding
     argumentation, sourcing, and essay quality'
