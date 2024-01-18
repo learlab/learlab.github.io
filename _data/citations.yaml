@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1108/ILS-04-2023-0032
+  title: 'PIILO: an open-source system for personally identifiable information labeling
+    and obfuscation'
+  authors:
+  - Langdon Holmes
+  - Scott Crossley
+  - Harshvardhan Sikka
+  - Wesley Morris
+  publisher: Information and Learning Sciences
+  date: '2023-10-18'
+  link: https://doi.org/gtd4wk
+  image: images/publications/piilo-flowchart.png
+  extra-links:
+  - type: journal
+    link: https://www.emerald.com/insight/content/doi/10.1108/ILS-04-2023-0032/full/html
+  - type: preprint
+    link: https://zenodo.org/records/10529644
+  - type: repository
+    link: https://github.com/langdonholmes/piilo
+  _cache: 929ee466eed2ec6f151c21213d08f2fce478bccc3249d36e001d70853f6ef3b9
 - id: doi:10.1007/978-3-031-36336-8_75
   title: Using Large Language Models to Provide Formative Feedback in Intelligent
     Textbooks
@@ -74,10 +94,11 @@
     Educational Applications (BEA 2023)
   date: '2023-01-01'
   link: https://doi.org/gsrrqg
+  image: images/publications/analyzing-bias-in-llm-solutions.png
   extra-links:
   - type: journal
     link: https://aclanthology.org/2023.bea-1.21/
-  _cache: e976fb8001685bdf1766789bd9b8091000922ec310766ec65d5dddd978958863
+  _cache: 0885c58699b416afa22a86564b10d2d941b46136ff4bb175a24b5fdf45a1dd8f
 - id: doi:10.1177/02655322221147924
   title: L2 and L1 semantic context indices as automated measures of lexical sophistication
   authors:
@@ -88,10 +109,11 @@
   publisher: Language Testing
   date: '2023-02-02'
   link: https://doi.org/gsrmfm
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/10.1177/02655322221147924
-  _cache: 043c6ff498961654d1f3dc70303080d34883689db45bdbd031038eeb378148cd
+  _cache: 0e41e37ae96340f12811955d7918a41b60c3019395f6b289e85fa3343b8a6e2a
 - id: doi:10.3389/fpsyg.2023.1068685
   title: Lexical and phraseological differences between second language written and
     spoken opinion responses
@@ -101,10 +123,11 @@
   publisher: Frontiers in Psychology
   date: '2023-03-01'
   link: https://doi.org/gsrmfn
+  image: images/publications/frontiers-in-psychology.png
   extra-links:
   - type: journal
     link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
-  _cache: 07f3ea01ce564110b86ae95f9fd9c7063590bf037479e55d3f19560d7ae7ae2c
+  _cache: ae581ce4d562b2524d27cd798e6d199e18c78cec2ae0aa65eccc8de28b89fa22
 - id: doi:10.1007/s11145-021-10221-x
   title: 'Source inclusion in synthesis writing: an NLP approach to understanding
     argumentation, sourcing, and essay quality'
@@ -177,11 +200,13 @@
   publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
   date: '2023-03-13'
   link: https://doi.org/gsrmfp
-  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  image: https://zenodo.org/api/iiif/record:10529690:plot.png/full/!800,800/0/default.png
   extra-links:
   - type: journal
-  - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
-  _cache: b874e86144964be098678133c976103235600b7ae6ceadb97b91949a9fd016e1
+    link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+  - type: preprint
+    link: https://zenodo.org/records/10529690
+  _cache: 155d0af0e8437d4afa0108bf8f771671f0aa1dce59a4edb94c6519a5dc2f6bf4
 - id: doi:10.1075/jsls.22006.cro
   title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
     \ language processing techniques"
