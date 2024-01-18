@@ -1,3 +1,13 @@
+- id: doi:10.1108/ILS-04-2023-0032
+  image: images/publications/piilo-flowchart.png
+  extra-links:
+    - type: journal
+      link: https://www.emerald.com/insight/content/doi/10.1108/ILS-04-2023-0032/full/html
+    - type: preprint
+      link: https://zenodo.org/records/10529644
+    - type: repository
+      link: https://github.com/langdonholmes/piilo
+
 - id: doi:10.1007/978-3-031-36336-8_75
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
   extra-links:
@@ -23,16 +33,19 @@
       link: https://zenodo.org/record/8436731
       
 - id: doi:10.18653/v1/2023.bea-1.21
+  image: images/publications/analyzing-bias-in-llm-solutions.png
   extra-links:
     - type: journal
       link: https://aclanthology.org/2023.bea-1.21/
 
 - id: doi:10.1177/02655322221147924
+  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
   extra-links:
     - type: journal
       link: https://journals.sagepub.com/doi/10.1177/02655322221147924
 
 - id: doi:10.3389/fpsyg.2023.1068685
+  image: images/publications/frontiers-in-psychology.png
   extra-links:
     - type: journal
       link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
@@ -61,10 +74,12 @@
       link: https://www.tandfonline.com/doi/full/10.1080/13670050.2020.1838434
 
 - id: doi:10.1145/3576050.3576098
-  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  image: https://zenodo.org/api/iiif/record:10529690:plot.png/full/!800,800/0/default.png
   extra-links:
     - type: journal
-    - link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+      link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+    - type: preprint
+      link: https://zenodo.org/records/10529690
 
 - id: doi:10.1075/jsls.22006.cro
   image: https://www.jbe-platform.com/images/covers/25423843.png
