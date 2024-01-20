@@ -127,7 +127,9 @@
   extra-links:
   - type: journal
     link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
-  _cache: ae581ce4d562b2524d27cd798e6d199e18c78cec2ae0aa65eccc8de28b89fa22
+  - type: preprint
+    link: https://zenodo.org/records/10537257
+  _cache: 29c6738c7e2d80082d264954a51b924fab25fb4d2063f46606812cf33bc868b2
 - id: doi:10.1007/s11145-021-10221-x
   title: 'Source inclusion in synthesis writing: an NLP approach to understanding
     argumentation, sourcing, and essay quality'
