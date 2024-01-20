@@ -49,6 +49,8 @@
   extra-links:
     - type: journal
       link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
+    - type: preprint
+      link: https://zenodo.org/records/10537257
 
 - id: doi:10.1007/s11145-021-10221-x
   extra-links:
