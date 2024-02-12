@@ -1,6 +1,6 @@
 ---
-name: Divija Katakam
-# image: images/.jpeg
+name: Van Dang
+image: images/van.jpg
 description: Research Assistant
 role: undergrad
 # aliases:

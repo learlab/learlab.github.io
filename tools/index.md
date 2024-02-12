@@ -13,7 +13,7 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 
 {% include section.html %}
 
-## Itell
+## ITell
 
 {% include list.html component="card" data="tools" filters="group: itell" %}
 

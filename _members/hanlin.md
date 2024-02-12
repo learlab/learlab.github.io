@@ -1,6 +1,6 @@
 ---
 name: Hanlin Chen
-# image: images/.jpeg
+# image: images/hanlin.jpg
 description: Master's Student
 role: ma
 # aliases:
