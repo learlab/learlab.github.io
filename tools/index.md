@@ -13,6 +13,12 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 
 {% include section.html %}
 
+## Itell
+
+{% include list.html component="card" data="tools" filters="group: itell" %}
+
+{% include section.html %}
+
 ## Lexical Analysis Tools
 
 Along with colleagues at the University of Oregon (Kris Kyle), Arizona State University (Danielle McNamara), and Georgia State University (Joon Suh Choi), we have developed a number of tools that can be used to automatically extract linguistic features, language components, and readability formulas from texts.
