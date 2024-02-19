@@ -19,6 +19,16 @@
   tags:
     - software
 
+- title: TAMMI
+  subtitle: A tool for automatic measurement of morphological information
+  group: featured
+  image: images/tammi.png
+  link: https://www.linguisticanalysistools.org/tammi.html
+  description: TAMMI analyzes plain text for morphological metrics, outputting results to a CSV file based on the MorphoLex database variables.
+  repo: scrosseye/tammi
+  tags:
+    - software
+
 - title: TAALES
   group: salat
   image: images/taales.png
