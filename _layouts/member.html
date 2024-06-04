@@ -18,6 +18,13 @@ layout: default
   {%- endfor -%}
 </p>
 
+<!-- Include video if available -->
+{%- if page.video -%}
+<div class="center video">
+  <iframe width="560" height="315" src="{{ page.video | replace: 'watch?v=', 'embed/' }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{%- endif -%}
+
 {{ content }}
 
 {%- assign aliases = "" | split: ',' -%}
