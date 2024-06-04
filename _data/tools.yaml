@@ -5,9 +5,12 @@
   link: https://textbook-demo.web.app/
   description: What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI.
   repo: aialoe/macro-economics-textbook
+  video: https://www.youtube.com/watch?v=YZXVQjSDZtI
   tags:
     - software
     - demonstration
+  
+
 
 - title: PIILO
   subtitle: A tool for Personally Identifiable Information Labeling and Obfuscation
