@@ -1,7 +1,7 @@
 - title: Automatic Essay Scoring 2.0
   subtitle: The Learning Agency Lab - Automated Essay Scoring 2.0
   group: datasets
-  link: https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data/data
+  link: https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2
   description: The competition dataset comprises about 24000 student-written argumentative essays. Each essay was scored on a scale of 1 to 6. Your goal is to predict the score an essay received from its text.
   tags:
     - corpus
