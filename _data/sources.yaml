@@ -96,18 +96,6 @@
     - type: journal
       link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
 
-
-- id: doi:10.1007/s11145-021-10221-x
-  extra-links:
-    - type: journal
-      link: https://link.springer.com/article/10.1007/s11145-021-10221-x
-
-- id: doi:10.1075/jsls.22006.cro
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  extra-links:
-    - type: journal
-      link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-
 - id: doi:10.3758/s13428-022-01802-x
   image: https://media.springernature.com/w120/springer-static/cover/journal/13428.jpg?as=webp
   extra-links:
