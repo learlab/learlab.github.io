@@ -9,13 +9,15 @@
     #<iframe width="560" height="315" src="https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ" title="iTELL Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   repo: aialoe/macro-economics-textbook
   #video: https://www.youtube.com/watch?v=YZXVQjSDZtI
+   video_markdown: |
+    [![iTELL Demonstration](https://img.youtube.com/vi/YZXVQjSDZtI/0.jpg)](https://www.youtube.com/watch?v=YZXVQjSDZtI)
   tags:
     - software
     - demonstration
 
 # cool-beans
 
-[![iTELL Demonstration](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FYZXVQjSDZtI%3Fsi%3Do6FkOu5xPXygKGRZ)](https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ)
+#[![iTELL Demonstration](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FYZXVQjSDZtI%3Fsi%3Do6FkOu5xPXygKGRZ)](https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ)
 
 
 
