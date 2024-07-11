@@ -130,35 +130,6 @@
   - type: journal
     link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
   _cache: ae581ce4d562b2524d27cd798e6d199e18c78cec2ae0aa65eccc8de28b89fa22
-- id: doi:10.1007/s11145-021-10221-x
-  title: 'Source inclusion in synthesis writing: an NLP approach to understanding
-    argumentation, sourcing, and essay quality'
-  authors:
-  - Scott Crossley
-  - Qian Wan
-  - Laura Allen
-  - Danielle McNamara
-  publisher: Reading and Writing
-  date: '2021-11-11'
-  link: https://doi.org/grc7s5
-  extra-links:
-  - type: journal
-    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
-  _cache: bc74856897132350e7d8b8c20463bea4e23a3ab6a63c1c177cd4beec771c5e21
-- id: doi:10.1075/jsls.22006.cro
-  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
-    \ language processing techniques"
-  authors:
-  - Scott Crossley
-  - Langdon Holmes
-  publisher: Journal of Second Language Studies
-  date: '2022-09-20'
-  link: https://doi.org/gq3674
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  extra-links:
-  - type: journal
-    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  _cache: c23883bbd9c1e76a7c73f8d11b8bbe67bfe90bd110cf0008315def08d0b07060
 - id: doi:10.3758/s13428-022-01802-x
   title: A large-scaled corpus for assessing text readability
   authors:
