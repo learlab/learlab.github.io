@@ -4,8 +4,7 @@
   group: itell
   image: images/itell_logo_2_transparent.svg
   link: https://textbook-demo.web.app/
-  description: What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI.
-  iframe: ![iTELL Demonstration](//https://www.youtube.com/watch?v=YZXVQjSDZtI?width=560&height=315)
+  description: What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI. ![iTELL Demonstration](//https://www.youtube.com/watch?v=YZXVQjSDZtI?width=560&height=315)
   repo: aialoe/macro-economics-textbook
   #video: https://www.youtube.com/watch?v=YZXVQjSDZtI
    
