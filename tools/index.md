@@ -17,7 +17,7 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 
 {% include list.html component="card" data="tools" filters="group: itell" %}
 
-![iTELL Demonstration](//https://www.youtube.com/watch?v=YZXVQjSDZtI?width=560&height=315)
+![](//https://www.youtube.com/watch?v=YZXVQjSDZtI?width=560&height=315)
 
 {% include section.html %}
 
