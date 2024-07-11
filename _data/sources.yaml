@@ -1,8 +1,4 @@
 - id: doi.org/10.1016/j.asw.2024.100865
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
-  extra-links:
-    - type: journal
-      link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
 
 - id: doi:10.1108/ILS-04-2023-0032
   image: images/publications/piilo-flowchart.png
