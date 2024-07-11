@@ -5,8 +5,8 @@
   image: images/itell_logo_2_transparent.svg
   link: https://textbook-demo.web.app/
   description: What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI.
-  #iframe: |
-    #<iframe width="560" height="315" src="https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ" title="iTELL Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  iframe: |
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ" title="iTELL Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   repo: aialoe/macro-economics-textbook
   #video: https://www.youtube.com/watch?v=YZXVQjSDZtI
    
@@ -16,7 +16,7 @@
 
 # cool-beans
 
-[![iTELL Demonstration](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FYZXVQjSDZtI%3Fsi%3Do6FkOu5xPXygKGRZ)](https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ)
+#[![iTELL Demonstration](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FYZXVQjSDZtI%3Fsi%3Do6FkOu5xPXygKGRZ)](https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ)
 
 
 
