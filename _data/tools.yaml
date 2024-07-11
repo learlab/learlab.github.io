@@ -1,17 +1,18 @@
+
 - title: iTELL
   subtitle: The Intelligent Textbook for Enhanced Lifelong Learning
   group: itell
   image: images/itell_logo_2_transparent.svg
   link: https://textbook-demo.web.app/
   description: What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI.
-  iframe: >
+  iframe: |
     <iframe width="560" height="315" src="https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ" title="iTELL Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   repo: aialoe/macro-economics-textbook
   #video: https://www.youtube.com/watch?v=YZXVQjSDZtI
   tags:
     - software
     - demonstration
-  
+
 
 - title: PIILO
   subtitle: A tool for Personally Identifiable Information Labeling and Obfuscation
