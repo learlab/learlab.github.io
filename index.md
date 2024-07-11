@@ -1,4 +1,5 @@
 ---
+title: Home
 ---
 
 
@@ -30,20 +31,19 @@ Our work generally focuses on the use of natural language processing (NLP) techn
 
 {% include section.html %}
 
-## Highlights
+# Highlights
 
 {% capture text %}
 Wherever possible, we accompany our publications with source code and supplementary resources. We also upload earlier versions of our work to a preprint database, so you can read them for free.
 
 {%
-  include button.html
+  include link.html
   link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
 
 {%
@@ -80,14 +80,13 @@ We produce large, public datasets. We also host competitions in which teams of s
 We make tools that help researchers analyze language data. We also endeavour to share our computer code in a clearly explained and reproducible format.
 
 {%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
+  include link.html
+  link="tools"
+  text="Browse our tools"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
 
 {%
@@ -102,14 +101,13 @@ We make tools that help researchers analyze language data. We also endeavour to 
 We are a diverse and multidisciplinary group of researchers. Our team is awesome.
 
 {%
-  include button.html
+  include link.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fas fa-arrow-right"
   flip=true
-  style="bare"
 %}
-
+{:.center}
 {% endcapture %}
 
 {%

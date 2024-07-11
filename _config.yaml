@@ -1,3 +1,5 @@
+### basic settings
+
 # site properties and page defaults
 title: LEAR Lab
 description: Language and Educational Analytics Research Lab Official Website
@@ -15,9 +17,17 @@ links:
   # instagram: YourLabHandle
   # youtube: YourLabChannel
 
-### jekyll settings
+### advanced settings
 
-# front matter defaults
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+# default front matter parameters for markdown files
 defaults:
   # all markdown files
   - scope:
@@ -35,39 +45,29 @@ defaults:
     values:
       layout: post
 
+# collections
 collections:
-  # generate page for each member
   members:
     output: true
-  # generate page for each post
-  posts:
-    output: true
-
-# jekyll plugins
-plugins:
-  - jekyll-spaceship
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-last-modified-at
-
-# code block syntax highlighting
-highlighter: rouge
-
-# jekyll theme
-theme: null
 
 # sass settings
 sass:
-  sass_dir: _styles
+  sass_dir: css
 
-# force jekyll to include certain files/folders
-include:
-  - _styles
-  - _scripts
+# syntax highlighting
+highlighter: rouge
 
-# force jekyll to exclude certain files/folders
-exclude:
-  - README.md
-  - LICENSE.md
-  - CITATION.cff
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null
