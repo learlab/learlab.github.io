@@ -1,9 +1,3 @@
-- id: doi: 10.1145/3640543.3645142
-  extra-links:
-    - type: conference
-      link: https://dl.acm.org/doi/10.1145/3640543.3645142
-
-
 ########
 - id: doi:10.1108/ILS-04-2023-0032
   image: images/publications/piilo-flowchart.png
