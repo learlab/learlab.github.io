@@ -1,17 +1,17 @@
 - id: doi: 10.1145/3640543.3645142
-  extra-links:
-    - type: conference
-      link: https://dl.acm.org/doi/10.1145/3640543.3645142
+  extra-links:
+    - type: conference
+      link: https://dl.acm.org/doi/10.1145/3640543.3645142
 
 - id: doi: 10.17239/jowr-2024.15.03.01
-  extra-links:
-    - type: journal
-      link: https://jowr.org/pkp/ojs/index.php/jowr/article/view/920
+  extra-links:
+    - type: journal
+      link: https://jowr.org/pkp/ojs/index.php/jowr/article/view/920
 
 - id: doi: 10.1007/s40593-023-00386-7
-  extra-links:
-    - type: journal
-      link: https://link.springer.com/article/10.1007/s40593-023-00386-7
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s40593-023-00386-7
 
 - id: doi: 10.1007/s11145-021-10229-3
   extra-links:
@@ -20,26 +20,26 @@
 
 
 - id: doi: 10.1007/s40593-024-00395-0
-  extra-links:
-    - type: journal
-      link: https://link.springer.com/article/10.1007/s40593-024-00395-0
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s40593-024-00395-0
 
 
 - id: doi: 10.1515/applirev-2020-0048
-  extra-links:
-    - type: journal
-      link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
+  extra-links:
+  - type: journal
+    link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
 
 
 - id: doi:10.3758/s13428-023-02324-w
-  extra-links:
-    - type: journal
-      link: https://pubmed.ncbi.nlm.nih.gov/38158554/#:~:text=This%20study%20documents%20and%20assesses,S%C3%A1nchez%2DGuti%C3%A9rrez%20et%20al.%2C
-      
+  extra-links:
+  - type: journal
+    link: https://pubmed.ncbi.nlm.nih.gov/38158554/#:~:text=This%20study%20documents%20and%20assesses,S%C3%A1nchez%2DGuti%C3%A9rrez%20et%20al.%2C
+ 
 - id: doi:10.1080/02702711.2024.2359925
-  extra-links:
-    - type: journal
-      link: https://www.tandfonline.com/doi/fu
+  extra-links:
+   - type: journal
+     link: https://www.tandfonline.com/doi/fu
 
 ########
 - id: doi:10.1108/ILS-04-2023-0032
