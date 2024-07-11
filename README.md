@@ -1,28 +1,17 @@
-
 # LEAR Lab Website
 
 A lab website where we share our research and other news.
 
 ## Built with a template
 
-This website was built using the awesome lab-website-template ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+<h1 align="center">Lab Website Template</h1>
+<p align="center">
+<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true" alt="Lab Website Template">
+</p>
 
-Here are some links to help you with editing:
+Lab Website Template (LWT) is an easy-to-use, flexible website template for labs.
+Spend less time worrying about managing a website and citations, and more time running your lab.
 
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
+👇👇 **Get Started** 👇👇
 
-[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
-
-[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
-
-[🤖 Citations](https://github.com/greenelab/lab-website-template/wiki/Citations)
-
-[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
-
-[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
-
-[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
-
-[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
-
-[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+[**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)

@@ -5,11 +5,19 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 Research conducted in the Lear Lab investigates learning from a variety of perspectives in order to better understand how students acquire knowledge, competencies, and new perspectives. Members of the lab work within the contexts of second language acquisition, data science, learning analytics, natural language processing, psycholinguistics and more.
 
 {% include section.html %}
+
+## Highlighted
+
+{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+
+{% include section.html %}
+
+## All
 
 {% include search-box.html %}
 

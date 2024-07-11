@@ -64,7 +64,7 @@ Teamwork makes the dream work.
 
 {% include section.html %}
 
-## Join
+{% capture content %}
 
 ### Undergraduate/ Graduate Student Researchers
 
