@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# {% include icon.html icon="fas fa-tools" %}Tools
 
 Our work wouldn't be possible without the contributions of hundreds of other labs. Here are some tools and resources that we have developed for the research community.
 
@@ -45,12 +45,12 @@ Along with colleagues at the University of Oregon (Kris Kyle), Arizona State Uni
 
 {% include section.html %}
 
-## Featured
+## Other Tools
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: featured|more" %}
 
-{% include section.html %}
+<!-- {% include section.html %}
 
-## More
+<!-- ## More -->
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+<!-- {% include list.html component="card" data="tools" filters="group: more" style="small" %} --> -->

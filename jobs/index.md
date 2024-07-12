@@ -5,9 +5,30 @@ nav:
   tooltip: Hiring
 ---
 
-# <i class="fa-solid fa-briefcase"></i>Jobs
+# {% include icon.html icon="fa-solid fa-briefcase" %}Jobs
 
-LEAR lab is not hiring at this moment. If you are a Vanderbilt student and would like to volunteer, please e-mail us lear.lab.vu@gmail.com
+{% include section.html %}
+
+## Join
+
+### Undergraduate/ Graduate Student Researchers
+
+We are always looking for new talent on the team. If you are interested in joining, please contact us below. We often have volunteer and paid opportunities available. We are generally looking for students who are interested in natural language processing (NLP) techniques, the application of computational tools in learning environments, and the use machine learning algorithms.
+Feel free to reach out with any questions!
+
+
+
+<!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
+
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="Join our team"
+  tooltip=""
+  link="lear.lab.vu@gmail.com"
+  style="bare"
+%}
 
 {% comment %}
 <h3>Postdoctoral Research Associate (ALOE) NLP</h3>

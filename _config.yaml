@@ -2,6 +2,7 @@
 title: LEAR Lab
 description: Language and Educational Analytics Research Lab Official Website
 logo: images/logo.png
+logo-text: false
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
@@ -19,21 +20,21 @@ links:
 
 # front matter defaults
 defaults:
-  # all markdown files
-  - scope:
-      path: ""
-    values:
-      layout: default
-  # markdown files in /_members
-  - scope:
-      type: "members"
-    values:
-      layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+# all markdown files
+- scope:
+    path: ""
+  values:
+    layout: default
+# markdown files in /_members
+- scope:
+    type: "members"
+  values:
+    layout: member
+# markdown files in /_posts
+- scope:
+    type: "posts"
+  values:
+    layout: post
 
 collections:
   # generate page for each member
@@ -45,11 +46,11 @@ collections:
 
 # jekyll plugins
 plugins:
-  - jekyll-spaceship
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-last-modified-at
+- jekyll-spaceship
+- jekyll-sitemap
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-last-modified-at
 
 # code block syntax highlighting
 highlighter: rouge
@@ -63,11 +64,11 @@ sass:
 
 # force jekyll to include certain files/folders
 include:
-  - _styles
-  - _scripts
+- _styles
+- _scripts
 
 # force jekyll to exclude certain files/folders
 exclude:
-  - README.md
-  - LICENSE.md
-  - CITATION.cff
+- README.md
+- LICENSE.md
+- CITATION.cff
