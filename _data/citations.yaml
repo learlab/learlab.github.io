@@ -215,6 +215,134 @@
   date: '2024-07-01'
   link: https://doi.org/gt362r
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
+  extra-links:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3640543.3645142
+  title: 'iScore: Visual Analytics for Interpreting How Language Models Automatically
+    Score Summaries'
+  authors:
+  - Adam Coscia
+  - Langdon Holmes
+  - Wesley Morris
+  - Joon Suh Choi
+  - Scott Crossley
+  - Alex Endert
+  publisher: Proceedings of the 29th International Conference on Intelligent User
+    Interfaces
+  date: '2024-03-18'
+  link: https://doi.org/gt363j
+  extra-links:
+  - type: conference
+    link: https://dl.acm.org/doi/10.1145/3640543.3645142
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17239/jowr-2024.15.03.01
+  title: Making sense of L2 written argumentation with keystroke logging
+  authors:
+  - Yu Tian
+  - Minkyung Kim
+  - Scott Crossley
+  publisher: Journal of Writing Research
+  date: '2023-08-27'
+  link: https://doi.org/gt363k
+  extra-links:
+  - type: journal
+    link: https://jowr.org/pkp/ojs/index.php/jowr/article/view/920
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s40593-023-00386-7
+  title: Multilingual Age of Exposure 2.0
+  authors:
+  - Robert-Mihai Botarleanu
+  - Micah Watanabe
+  - Mihai Dascalu
+  - Scott A. Crossley
+  - Danielle S. McNamara
+  publisher: International Journal of Artificial Intelligence in Education
+  date: '2023-12-20'
+  link: https://doi.org/gt363m
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s40593-023-00386-7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11145-021-10229-3
+  title: Cohesive devices as an indicator of L2 students' writing fluency
+  authors:
+  - Yu Tian
+  - Minkyung Kim
+  - Scott Crossley
+  - Qian Wan
+  publisher: Reading and Writing
+  date: '2021-11-27'
+  link: https://doi.org/grc7vd
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10229-3
+  - type: preprint
+    link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+- id: doi:10.1007/s40593-024-00395-0
+  title: Formative Feedback on Student-Authored Summaries in Intelligent Textbooks
+    Using Large Language Models
+  authors:
+  - Wesley Morris
+  - Scott Crossley
+  - Langdon Holmes
+  - Chaohua Ou
+  - Mihai Dascalu
+  - Danielle McNamara
+  publisher: International Journal of Artificial Intelligence in Education
+  date: '2024-03-28'
+  link: https://doi.org/gt363n
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s40593-024-00395-0
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1515/applirev-2020-0048
+  title: Stylistic alignment in natural conversation involving second language speakers
+  authors:
+  - YeonJoo Jung
+  - Scott Crossley
+  publisher: Applied Linguistics Review
+  date: '2022-12-21'
+  link: https://doi.org/gt363p
+  extra-links:
+  - type: journal
+    link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3758/s13428-023-02324-w
+  title: The Tool for Automatic Measurement of Morphological Information (TAMMI)
+  authors:
+  - Scott A. Crossley
+  - Rurik Tywoniw
+  - Joon Suh Choi
+  publisher: Behavior Research Methods
+  date: '2023-12-29'
+  link: https://doi.org/gt363q
+  extra-links:
+  - type: journal
+    link: https://pubmed.ncbi.nlm.nih.gov/38158554/#:~:text=This%20study%20documents%20and%20assesses,S%C3%A1nchez%2DGuti%C3%A9rrez%20et%20al.%2C
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/02702711.2024.2359925
+  title: Measuring Phonological Complexity Using the Perfect Rhymes Dictionary (PeRDict)
+  authors:
+  - Scott Crossley
+  - Joon Suh Choi
+  publisher: Reading Psychology
+  date: '2024-06-03'
+  link: https://doi.org/gt363r
+  extra-links:
+  - type: journal
+    link: https://www.tandfonline.com/doi/fu
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1108/ILS-04-2023-0032
@@ -516,24 +644,6 @@
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/abs/10.1177/02655322211060076
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s11145-021-10229-3
-  title: Cohesive devices as an indicator of L2 students' writing fluency
-  authors:
-  - Yu Tian
-  - Minkyung Kim
-  - Scott Crossley
-  - Qian Wan
-  publisher: Reading and Writing
-  date: '2021-11-27'
-  link: https://doi.org/grc7vd
-  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
-  extra-links:
-  - type: journal
-    link: https://link.springer.com/article/10.1007/s11145-021-10229-3
-  - type: preprint
-    link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciadv.abj2836
