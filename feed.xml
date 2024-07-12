@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://learlab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://learlab.org/" rel="alternate" type="text/html" /><updated>2024-07-12T03:19:34+00:00</updated><id>https://learlab.org/feed.xml</id><title type="html">LEAR Lab</title><subtitle>Language and Educational Analytics Research Lab Official Website</subtitle><entry><title type="html">This is what a post might look like</title><link href="https://learlab.org/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="This is what a post might look like" /><published>2019-01-07T00:00:00+00:00</published><updated>2024-07-12T03:15:31+00:00</updated><id>https://learlab.org/2019/01/07/example-post-1</id><content type="html" xml:base="https://learlab.org/2019/01/07/example-post-1.html"><![CDATA[<h1 id="my-big-idea">My Big Idea</h1>
+
+<p>My big idea in some depth.</p>
+
+<p>Maybe we can use this space to highlight research from other labs?</p>
+
+<p>Maybe we do short writeups about scripts or methods that we are working on?</p>
+
+<p>Maybe we use it as a place to publish preliminary results or share parts of manuscripts in progress?</p>]]></content><author><name>Langdon Holmes</name></author><category term="learning" /><category term="big data" /><summary type="html"><![CDATA[My Big Idea]]></summary></entry></feed>
