@@ -1,5 +1,5 @@
 ---
-title: This is what a most might look like
+title: This is what a post might look like
 tags:
   - learning
   - big data
