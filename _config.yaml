@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: LEAR Lab
-description: Language and Educational Analytics Research Lab Official Website
+title: learlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+description: 
 logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
@@ -8,9 +8,9 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: lear.lab.vu@gmail.com
+  email: contact@learlabDESCRIPTION=An engaging 1-3 sentence description of your lab..com
   google-scholar: PDzqXW4AAAAJ
-  github: learlab
+  github: learlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
   # twitter: YourLabHandle
   # instagram: YourLabHandle
   # youtube: YourLabChannel

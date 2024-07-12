@@ -1,9 +1,6 @@
-# LEAR Lab Website
 
-A lab website where we share our research and other news.
+# learlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
 
-## Built with a template
+Visit **[website url](#)** 🚀
 
-This website was built using the awesome lab-website-template ![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
-
-[**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
+_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
