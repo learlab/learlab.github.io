@@ -54,7 +54,7 @@
 
 
 - id: doi:10.1007/s11145-021-10221-x
-image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11145?as=webp
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11145?as=webp
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.1007/s11145-021-10221-x
