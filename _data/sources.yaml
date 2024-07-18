@@ -4,7 +4,7 @@
     - type: journal
       link: https://www.emerald.com/insight/content/doi/10.1108/ILS-04-2023-0032/full/html
     - type: preprint
-      link: https://zenodo.org/records/10529644
+      link: https://zenodo.org/recordhttps://www.emerald.com/insight/static/img/emerald-insight-logo-light.svgs/10529644
     - type: repository
       link: https://github.com/langdonholmes/piilo
 
@@ -54,6 +54,7 @@
 
 
 - id: doi:10.1007/s11145-021-10221-x
+image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11145?as=webp
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.1007/s11145-021-10221-x
@@ -65,7 +66,7 @@
       link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
 
 - id: doi:10.3758/s13428-022-01802-x
-  image: https://media.springernature.com/w120/springer-static/cover/journal/13428.jpg?as=webp
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
   extra-links:
     - type: journal
       link: https://link.springer.com/article/10.3758/s13428-022-01802-x
@@ -77,7 +78,7 @@
       link: https://www.tandfonline.com/doi/full/10.1080/13670050.2020.1838434
 
 - id: doi:10.1145/3576050.3576098
-  image: https://zenodo.org/api/iiif/record:10529690:plot.png/full/!800,800/0/default.png
+  image: https://dl.acm.org/cms/asset/7272b869-4e22-40d7-ae53-3d04c4e4e56f/3576050.cover.jpg
   extra-links:
     - type: journal
       link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
