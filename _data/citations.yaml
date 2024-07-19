@@ -481,6 +481,41 @@
     link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1007/s11145-021-10221-x
+  title: 'Source inclusion in synthesis writing: an NLP approach to understanding
+    argumentation, sourcing, and essay quality'
+  authors:
+  - Scott Crossley
+  - Qian Wan
+  - Laura Allen
+  - Danielle McNamara
+  publisher: Reading and Writing
+  date: '2021-11-11'
+  link: https://doi.org/grc7s5
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  extra-links:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1075/jsls.22006.cro
+  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
+    \ language processing techniques"
+  authors:
+  - Scott Crossley
+  - Langdon Holmes
+  publisher: Journal of Second Language Studies
+  date: '2022-09-20'
+  link: https://doi.org/gq3674
+  image: https://www.jbe-platform.com/images/covers/25423843.png
+  extra-links:
+  - type: journal
+    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+  - type: source
+    link: https://github.com/langdonholmes/lexical_analysis
+  plugin: sources.py
+  file: sources.yaml
+  repo: langdonholmes/lexical_analysis
 - id: doi:10.3758/s13428-022-01802-x
   title: A large-scaled corpus for assessing text readability
   authors:
@@ -493,7 +528,7 @@
   publisher: Behavior Research Methods
   date: '2022-03-16'
   link: https://doi.org/grc7s4
-  image: https://media.springernature.com/w120/springer-static/cover/journal/13428.jpg?as=webp
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.3758/s13428-022-01802-x
@@ -526,30 +561,12 @@
   publisher: 'LAK23: 13th International Learning Analytics and Knowledge Conference'
   date: '2023-03-13'
   link: https://doi.org/gsrmfp
-  image: https://zenodo.org/api/iiif/record:10529690:plot.png/full/!800,800/0/default.png
+  image: https://dl.acm.org/cms/asset/7272b869-4e22-40d7-ae53-3d04c4e4e56f/3576050.cover.jpg
   extra-links:
   - type: journal
     link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
   - type: preprint
     link: https://zenodo.org/records/10529690
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1075/jsls.22006.cro
-  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
-    \ language processing techniques"
-  authors:
-  - Scott Crossley
-  - Langdon Holmes
-  publisher: Journal of Second Language Studies
-  date: '2022-09-20'
-  link: https://doi.org/gq3674
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  repo: langdonholmes/lexical_analysis
-  extra-links:
-  - type: journal
-    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  - type: source
-    link: https://github.com/langdonholmes/lexical_analysis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-981-19-5240-1_12
@@ -610,23 +627,6 @@
   extra-links:
   - type: journal
     link: https://www.sciencedirect.com/science/article/pii/S1075293522000630
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s11145-021-10221-x
-  title: 'Source inclusion in synthesis writing: an NLP approach to understanding
-    argumentation, sourcing, and essay quality'
-  authors:
-  - Scott Crossley
-  - Qian Wan
-  - Laura Allen
-  - Danielle McNamara
-  publisher: Reading and Writing
-  date: '2021-11-11'
-  link: https://doi.org/grc7s5
-  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
-  extra-links:
-  - type: journal
-    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1177/02655322211060076
