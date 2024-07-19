@@ -4,7 +4,7 @@
     - type: journal
       link: https://www.emerald.com/insight/content/doi/10.1108/ILS-04-2023-0032/full/html
     - type: preprint
-      link: https://zenodo.org/recordhttps://www.emerald.com/insight/static/img/emerald-insight-logo-light.svgs/10529644
+      link: https://zenodo.org/records/10529644
     - type: repository
       link: https://github.com/langdonholmes/piilo
 
@@ -51,7 +51,6 @@
   extra-links:
     - type: journal
       link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
-
 
 - id: doi:10.1007/s11145-021-10221-x
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11145?as=webp
