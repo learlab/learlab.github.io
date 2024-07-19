@@ -7,7 +7,7 @@ nav:
 
 
 
-# <i class="fas fa-users"></i>Team
+# {% include icon.html icon="fas fa-users" %}Team
 
 
 <center>We have a diverse and supportive team with a wide range of skillsets and backgrounds. </center>
@@ -64,71 +64,67 @@ Teamwork makes the dream work.
 
 {% include section.html %}
 
-## Join
-
-### Undergraduate/ Graduate Student Researchers
-
-We are always looking for new talent on the team. If you are interested in joining, please contact us below. We often have volunteer and paid opportunities available. We are generally looking for students who are interested in natural language processing (NLP) techniques, the application of computational tools in learning environments, and the use machine learning algorithms.
-Feel free to reach out with any questions!
-
-
-
-<!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
-
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="Join our team"
-  tooltip=""
-  link="lear.lab.vu@gmail.com"
-  style="button"
-%}
-{:.center}
-
-{% include section.html %}
-
 ## Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}
 
 
+{% capture content %}
+  {% 
+    include figure.html
+    image="![images/group-photo.jpg](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png)"
+    caption="National Science Foundation"
+    link="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
+    width="400px" 
+  %}
+  {% 
+    include figure.html
+    image="images/learning-agency.png"
+    caption="The Learning Agency"
+    link="https://www.the-learning-agency.com/"
+    width="400px" 
+  %}
+  {% 
+    include figure.html
+    image="images/white-ies-logo.png"
+    caption="Institute for Education Sciences"
+    link="https://ies.ed.gov/"
+    width="400px" 
+  %}
+  {% 
+    include figure.html
+    image="images/white-bmg-logo.png"
+    caption="Bill & Melinda Gates Foundation"
+    link="https://www.gatesfoundation.org/"
+    width="400px" 
+  %}
+  {% 
+    include figure.html
+    image="images/white-wff-logo.png"
+    caption="Walton Family Foundation"
+    link="https://www.waltonfamilyfoundation.org/"
+    width="400px"
+  %}
+  {% 
+    include figure.html
+    image="images/white-czi-logo.png"
+    caption="Chan Zuckerberg Initiative"
+    link="https://chanzuckerberg.com/"
+    width="400px"
+  %}
+  {% 
+    include figure.html
+    image="images/white-nih-logo.png"
+    caption="National Institutes of Health"
+    link="https://www.nih.gov/"
+    width="400px"
+  %}
+
+{% endcapture %}
+
 {%
-  include gallery.html
+  include grid.html
+  content=content
   style="square"
-
-  image1="https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png"
-  link1="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
-  tooltip1="National Science Foundation"
-
-  image2="images/learning-agency.png"
-  link2="https://www.the-learning-agency.com/"
-  tooltip2="The Learning Agency"
-
-  image3="images/white-ies-logo.png"
-  link3="https://ies.ed.gov/"
-  tooltip3="Institute for Education Sciences"
-  width="100%"
-
-  image4="images/white-bmg-logo.png"
-  link4="https://www.gatesfoundation.org/"
-  tooltip4="Bill & Melinda Gates Foundation"
-  width="100%"
-
-  image5="images/white-wff-logo.png"
-  link5="https://www.waltonfamilyfoundation.org/"
-  tooltip5="Walton Family Foundation"
-  width="100%"
-
-  image6="images/white-czi-logo.png"
-  link6="https://chanzuckerberg.com/"
-  tooltip6="Chan Zuckerberg Initiative"
-  width="100%"
-
-  image7="images/white-nih-logo.png"
-  link7="https://www.nih.gov/"
-  tooltip7="National Institutes of Health"
-  width="100%"
-
 %}

@@ -9,7 +9,7 @@ role: phd
 #   - F Cited
 links:
   orcid: 0000-0003-4338-4609
-  home-page: langdonholmes.info
+  home-page: https://langdonholmes.info
   email: langdon.holmes@vanderbilt.edu
   twitter: langdon_holmes
   github: langdonholmes
