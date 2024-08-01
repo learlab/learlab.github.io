@@ -1,3 +1,8 @@
+- id: doi:10.1109/ICALT55010.2022.00007
+  extra-links:
+  - type: journal
+    link: https://ieeexplore.ieee.org/document/9853738
+
 - id: doi:10.1016/j.asw.2024.100865
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
   extra-links:
