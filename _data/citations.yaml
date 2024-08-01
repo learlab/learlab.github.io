@@ -202,6 +202,19 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ICALT55010.2022.00007
+  title: 'Advances in Readability Research: A New Readability Web App for English'
+  authors:
+  - Joon Suh Choi
+  - Scott A. Crossley
+  publisher: 2022 International Conference on Advanced Learning Technologies (ICALT)
+  date: '2022-07-01'
+  link: https://doi.org/gt5tkq
+  extra-links:
+  - type: journal
+    link: https://ieeexplore.ieee.org/document/9853738
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.asw.2024.100865
   title: 'A large-scale corpus for assessing written argumentation: PERSUADE 2.0'
   authors:
