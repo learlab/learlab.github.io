@@ -20,14 +20,20 @@
     link: https://jowr.org/pkp/ojs/index.php/jowr/article/view/920
 
 - id: doi:10.1007/s40593-023-00386-7
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s40593-023-00386-7
+  - type: preprint
+    link: https://www.researchgate.net/publication/376738327_Multilingual_Age_of_Exposure_20
 
 - id: doi:10.1007/s11145-021-10229-3
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11145?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10229-3
+  - type: preprint
+    link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
 
 
 - id: doi:10.1007/s40593-024-00395-0
@@ -121,12 +127,6 @@
     - type: journal
       link: https://link.springer.com/article/10.1007/s11145-021-10221-x
 
-- id: doi:10.1075/jsls.22006.cro
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  extra-links:
-    - type: journal
-      link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-
 - id: doi:10.3758/s13428-022-01802-x
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
   extra-links:
@@ -153,8 +153,18 @@
   extra-links:
   - type: journal
     link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+  - type: preprint
+    link: https://zenodo.org/records/7637721
   - type: source
     link: https://github.com/langdonholmes/lexical_analysis
+
+- id: doi:10.1075/ijlcr.22026.cro
+  image: https://www.jbe-platform.com/images/covers/22151486.png
+  extra-links:
+  - type: journal
+    link: https://www.jbe-platform.com/content/journals/10.1075/ijlcr.22026.cro
+  - type: preprint
+    link: https://zenodo.org/records/11217937
 
 - id: doi:10.1007/978-981-19-5240-1_12
   image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-63673-3?as=webp
