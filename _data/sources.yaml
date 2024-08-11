@@ -31,25 +31,35 @@
 
 
 - id: doi:10.1007/s40593-024-00395-0
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s40593-024-00395-0
 
 
 - id: doi:10.1515/applirev-2020-0048
+  image: https://www.degruyter.com/document/cover/journal_key/ALR/product_pages
   extra-links:
   - type: journal
     link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
 
+
 - id: doi:10.3758/s13428-023-02324-w
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
   extra-links:
   - type: journal
     link: https://pubmed.ncbi.nlm.nih.gov/38158554/#:~:text=This%20study%20documents%20and%20assesses,S%C3%A1nchez%2DGuti%C3%A9rrez%20et%20al.%2C
+  - type: preprint
+    link: https://zenodo.org/records/12998381
 
 - id: doi:10.1080/02702711.2024.2359925
+  image: https://www.tandfonline.com/action/showCoverImage?journalCode=urpy20
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/fu
+  - type: preprint
+    link: https://zenodo.org/records/12996509
+
 
 - id: doi:10.1108/ILS-04-2023-0032
   image: images/publications/piilo-flowchart.png
