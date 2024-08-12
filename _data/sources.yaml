@@ -1,3 +1,15 @@
+- id: doi:10.22318/icls2024.534046
+  image: https://repository.isls.org/image/ISLS-logo-full.png
+  extra-links:
+  - type: conference
+    link: https://repository.isls.org/handle/1/10686
+
+- id: doi:10.5281/zenodo.12729954
+  image: https://tse4.mm.bing.net/th?id=OIP.u3MB7lGoSTVL9BS290M7-gHaFp&pid=Api&P=0&h=180
+  extra-links:
+  - type: journal
+    link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.89/index.html
+
 - id: doi:10.1109/ICALT55010.2022.00007
   extra-links:
   - type: journal
@@ -10,11 +22,13 @@
     link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
 
 - id: doi:10.1145/3640543.3645142
+  image: https://dl.acm.org/cms/asset/beb795b1-eab9-44b9-9452-9d35641f1164/3640543.cover.jpg
   extra-links:
   - type: conference
     link: https://dl.acm.org/doi/10.1145/3640543.3645142
 
 - id: doi:10.17239/jowr-2024.15.03.01
+  image: https://www.success.com/wp-content/uploads/legacy/sites/default/files/main/blogposts/journaling.jpg
   extra-links:
   - type: journal
     link: https://jowr.org/pkp/ojs/index.php/jowr/article/view/920
@@ -195,6 +209,8 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+  - type: preprint
+    link: https://zenodo.org/records/7637941
 
 - id: doi:10.1177/02655322211060076
   image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
