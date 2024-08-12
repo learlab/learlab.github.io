@@ -202,6 +202,40 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.22318/icls2024.534046
+  title: 'How AI Evaluates Learner Comprehension: A Comparison of Knowledge-Based
+    and Large Language Model (LLM)-Based AI Approaches'
+  authors:
+  - Min Kyu Kim
+  - Jinho Kim
+  - Yoojin Bae
+  - Wesley Morris
+  - Langdon Holmes
+  - Scott Crossley
+  publisher: Proceedings of the International Conference of the Learning Sciences
+  date: '2024-06-10'
+  link: https://doi.org/gt6s67
+  image: https://repository.isls.org/image/ISLS-logo-full.png
+  extra-links:
+  - type: conference
+    link: https://repository.isls.org/handle/1/10686
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.5281/zenodo.12729954
+  title: Semantic Similarity of Teacher and Student Discourse Linked to Quality Ratings
+    from Classroom Observations
+  authors:
+  - ' Jessica Boyle'
+  - ' Scott Crossley'
+  publisher: International Educational Data Mining Society
+  date: '2024-07-12'
+  link: https://doi.org/gt6s68
+  image: https://tse4.mm.bing.net/th?id=OIP.u3MB7lGoSTVL9BS290M7-gHaFp&pid=Api&P=0&h=180
+  extra-links:
+  - type: journal
+    link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.89/index.html
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ICALT55010.2022.00007
   title: 'Advances in Readability Research: A New Readability Web App for English'
   authors:
@@ -247,6 +281,7 @@
     Interfaces
   date: '2024-03-18'
   link: https://doi.org/gt363j
+  image: https://dl.acm.org/cms/asset/beb795b1-eab9-44b9-9452-9d35641f1164/3640543.cover.jpg
   extra-links:
   - type: conference
     link: https://dl.acm.org/doi/10.1145/3640543.3645142
@@ -261,6 +296,7 @@
   publisher: Journal of Writing Research
   date: '2023-08-27'
   link: https://doi.org/gt363k
+  image: https://www.success.com/wp-content/uploads/legacy/sites/default/files/main/blogposts/journaling.jpg
   extra-links:
   - type: journal
     link: https://jowr.org/pkp/ojs/index.php/jowr/article/view/920
@@ -520,6 +556,8 @@
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+  - type: preprint
+    link: https://zenodo.org/records/7637941
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3758/s13428-022-01802-x
