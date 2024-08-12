@@ -277,9 +277,12 @@
   publisher: International Journal of Artificial Intelligence in Education
   date: '2023-12-20'
   link: https://doi.org/gt363m
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s40593-023-00386-7
+  - type: preprint
+    link: https://www.researchgate.net/publication/376738327_Multilingual_Age_of_Exposure_20
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s11145-021-10229-3
@@ -292,6 +295,7 @@
   publisher: Reading and Writing
   date: '2021-11-27'
   link: https://doi.org/grc7vd
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10229-3
@@ -299,7 +303,6 @@
     link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
 - id: doi:10.1007/s40593-024-00395-0
   title: Formative Feedback on Student-Authored Summaries in Intelligent Textbooks
     Using Large Language Models
@@ -313,6 +316,7 @@
   publisher: International Journal of Artificial Intelligence in Education
   date: '2024-03-28'
   link: https://doi.org/gt363n
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s40593-024-00395-0
@@ -326,6 +330,7 @@
   publisher: Applied Linguistics Review
   date: '2022-12-21'
   link: https://doi.org/gt363p
+  image: https://www.degruyter.com/document/cover/journal_key/ALR/product_pages
   extra-links:
   - type: journal
     link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
@@ -340,9 +345,12 @@
   publisher: Behavior Research Methods
   date: '2023-12-29'
   link: https://doi.org/gt363q
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
   extra-links:
   - type: journal
     link: https://pubmed.ncbi.nlm.nih.gov/38158554/#:~:text=This%20study%20documents%20and%20assesses,S%C3%A1nchez%2DGuti%C3%A9rrez%20et%20al.%2C
+  - type: preprint
+    link: https://zenodo.org/records/12998381
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/02702711.2024.2359925
@@ -353,9 +361,12 @@
   publisher: Reading Psychology
   date: '2024-06-03'
   link: https://doi.org/gt363r
+  image: https://www.tandfonline.com/action/showCoverImage?journalCode=urpy20
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/fu
+  - type: preprint
+    link: https://zenodo.org/records/12996509
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1108/ILS-04-2023-0032
@@ -511,24 +522,6 @@
     link: https://link.springer.com/article/10.1007/s11145-021-10221-x
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1075/jsls.22006.cro
-  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
-    \ language processing techniques"
-  authors:
-  - Scott Crossley
-  - Langdon Holmes
-  publisher: Journal of Second Language Studies
-  date: '2022-09-20'
-  link: https://doi.org/gq3674
-  image: https://www.jbe-platform.com/images/covers/25423843.png
-  extra-links:
-  - type: journal
-    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  - type: source
-    link: https://github.com/langdonholmes/lexical_analysis
-  plugin: sources.py
-  file: sources.yaml
-  repo: langdonholmes/lexical_analysis
 - id: doi:10.3758/s13428-022-01802-x
   title: A large-scaled corpus for assessing text readability
   authors:
@@ -580,6 +573,50 @@
     link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
   - type: preprint
     link: https://zenodo.org/records/10529690
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1075/jsls.22006.cro
+  title: "Assessing receptive vocabulary using state\u2011of\u2011the\u2011art natural\
+    \ language processing techniques"
+  authors:
+  - Scott Crossley
+  - Langdon Holmes
+  publisher: Journal of Second Language Studies
+  date: '2022-09-20'
+  link: https://doi.org/gq3674
+  image: https://www.jbe-platform.com/images/covers/25423843.png
+  repo: langdonholmes/lexical_analysis
+  extra-links:
+  - type: journal
+    link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
+  - type: preprint
+    link: https://zenodo.org/records/7637721
+  - type: source
+    link: https://github.com/langdonholmes/lexical_analysis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1075/ijlcr.22026.cro
+  title: The English Language Learner Insight, Proficiency and Skills Evaluation (ELLIPSE)
+    Corpus
+  authors:
+  - Scott Crossley
+  - Yu Tian
+  - Perpetual Baffour
+  - Alex Franklin
+  - Youngmeen Kim
+  - Wesley Morris
+  - Meg Benner
+  - Aigner Picou
+  - Ulrich Boser
+  publisher: International Journal of Learner Corpus Research
+  date: '2023-12-31'
+  link: https://doi.org/gt6s6b
+  image: https://www.jbe-platform.com/images/covers/22151486.png
+  extra-links:
+  - type: journal
+    link: https://www.jbe-platform.com/content/journals/10.1075/ijlcr.22026.cro
+  - type: preprint
+    link: https://zenodo.org/records/11217937
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-981-19-5240-1_12
