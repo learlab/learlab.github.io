@@ -15,18 +15,31 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 
 ## iTELL
 
-{% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=YZXVQjSDZtI?width=560&height=315){% endcapture %}
+{% capture itell-description %}
+  What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI.
+  {%
+    include button.html
+    type="source"
+    text="Frontend"
+    link="https://github.com/learlab/itell-strapi-demo"
+  %}
+  {%
+    include button.html
+    type="source"
+    text="Scoring API"
+    link="https://github.com/learlab/itell-api"
+  %}
+{% endcapture %}
+
+{% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=YZXVQjSDZtI?width=600&height=450){% endcapture %}
 {% capture col2 %}{%
   include card.html
-  image="images/itell_logo_2_transparent.svg"
-  link="https://textbook-demo.web.app/"
+  image="images/itell-logo.png"
+  link="https://itell-poe.vercel.app/"
   title="iTELL"
-  subtitle="The Intelligent Textbook for Enhanced Lifelong Learning"
-  description="What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI."
-  tooltip="A cool tooltip"
-  tags="software, demonstration"
-  repo="aialoe/macro-economics-textbook"
-  style="small"
+  subtitle= "Intelligent Texts for Enhanced Lifelong Learning"
+  description=itell-description
+  tooltip="iTELL"
 %}{% endcapture %}
 
 {%
@@ -49,8 +62,8 @@ Along with colleagues at the University of Oregon (Kris Kyle), Arizona State Uni
 
 {% include list.html component="card" data="tools" filters="group: featured|more" %}
 
-<!-- {% include section.html %}
+<!-- {% include section.html %} -->
 
-<!-- ## More -->
+<!-- ## More
 
-<!-- {% include list.html component="card" data="tools" filters="group: more" style="small" %} --> -->
+{% include list.html component="card" data="tools" filters="group: more" style="small" %} -->

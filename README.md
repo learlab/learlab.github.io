@@ -12,3 +12,9 @@ A lab website where we share our research and other news.
 </p>
 
 [**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
+
+## Local Testing
+
+Make changes and run `bundle exec jekyll serve` to see them locally.
+
+The provided devcontainer will set up a local environment for you.

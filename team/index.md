@@ -73,7 +73,7 @@ Our work is made possible by funding from several organizations.
 {% capture content %}
   {% 
     include figure.html
-    image="![images/group-photo.jpg](https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo.png)"
+    image="images/nsf.png"
     caption="National Science Foundation"
     link="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
     width="400px" 

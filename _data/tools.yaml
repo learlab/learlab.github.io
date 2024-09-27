@@ -1,4 +1,3 @@
-
 - title: iTELL
   subtitle: The Intelligent Textbook for Enhanced Lifelong Learning
   group: itell
@@ -9,25 +8,22 @@
   #video: https://www.youtube.com/watch?v=YZXVQjSDZtI
 
   tags:
-  - software
-  - demonstration
+    - software
+    - demonstration
 
 # cool-beans
 
 #[![iTELL Demonstration](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FYZXVQjSDZtI%3Fsi%3Do6FkOu5xPXygKGRZ)](https://www.youtube.com/embed/YZXVQjSDZtI?si=o6FkOu5xPXygKGRZ)
 
-
-
-
 - title: PIILO
   subtitle: A tool for Personally Identifiable Information Labeling and Obfuscation
   group: featured
   image: images/piilo.png
-  link: https://huggingface.co/spaces/langdonholmes/piilo
+  link: https://github.com/langdonholmes/piilo
   description: We are building a text deidentification tool to promote educational data sharing while protecting student privacy.
   repo: langdonholmes/piilo
   tags:
-  - software
+    - software
 
 - title: TAMMI
   subtitle: A tool for automatic measurement of morphological information
@@ -37,7 +33,7 @@
   description: TAMMI analyzes plain text for morphological metrics, outputting results to a CSV file based on the MorphoLex database variables.
   repo: scrosseye/tammi
   tags:
-  - software
+    - software
 
 - title: TAALES
   group: salat
@@ -45,8 +41,8 @@
   link: https://www.linguisticanalysistools.org/taales.html
   description: Lexical sophistication
   tags:
-  - software
-  - salat
+    - software
+    - salat
 
 - title: TAACO
   group: salat
@@ -54,8 +50,8 @@
   link: https://www.linguisticanalysistools.org/taaco.html
   description: Text Cohesion
   tags:
-  - software
-  - salat
+    - software
+    - salat
 
 - title: TAASSC
   group: salat
@@ -63,8 +59,8 @@
   link: https://www.linguisticanalysistools.org/taassc.html
   description: Syntactic Complexity
   tags:
-  - software
-  - salat
+    - software
+    - salat
 
 - title: TAALED
   group: salat
@@ -72,8 +68,8 @@
   link: https://www.linguisticanalysistools.org/taaled.html
   description: Lexical Diversity
   tags:
-  - software
-  - salat
+    - software
+    - salat
 
 - title: SEANCE
   group: salat
@@ -81,8 +77,8 @@
   link: https://www.linguisticanalysistools.org/seance.html
   description: Sentiment Analysis
   tags:
-  - software
-  - salat
+    - software
+    - salat
 
 - title: ARTE
   group: salat
@@ -90,8 +86,8 @@
   link: https://www.linguisticanalysistools.org/arte.html
   description: Text Readability
   tags:
-  - software
-  - salat
+    - software
+    - salat
 
 - title: GAMET
   group: salat
@@ -99,18 +95,8 @@
   link: https://www.linguisticanalysistools.org/gamet.html
   description: Grammatical Complexity
   tags:
-  - software
-  - salat
-
-- title: Transformers for Language Learning Research
-  group: more
-  image: images/soa-bert-grid-lineplot.png
-  link: https://www.jbe-platform.com/content/journals/10.1075/jsls.22006.cro
-  description: We think transformers are a powerful tool for language related research. We want to help the research community use these tools effectively.
-  repo: langdonholmes/lexical_analysis
-  tags:
-  - tutorial
-  - publication
+    - software
+    - salat
 
 - title: Our Development Server
   group: more
@@ -119,4 +105,4 @@
   description: This is our configuration for a collaborative high-performance development server, managed by our lab. Check out the documentation if you'd like to build something similar!
   repo: learlab/development-server
   tags:
-  - configuration
+    - configuration
