@@ -29,6 +29,12 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
     text="Scoring API"
     link="https://github.com/learlab/itell-api"
   %}
+  {%
+    include button.html
+    type="source"
+    text="Textbook Demo"
+    link="https://itell-poe.vercel.app/"
+  %}
 {% endcapture %}
 
 {% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=YZXVQjSDZtI?width=600&height=450){% endcapture %}
