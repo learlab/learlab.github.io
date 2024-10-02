@@ -120,8 +120,8 @@
 - id: doi:10.3389/fpsyg.2023.1068685
   image: images/publications/frontiers-in-psychology.png
   buttons:
-    - type: journal
-      link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
+  - type: journal
+    link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
 
 - id: doi:10.3758/s13428-022-01802-x
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
