@@ -9,5 +9,5 @@ group: alum
 #   - A Chovie
 links:
   email: tovaiibhavgupta@gmail.com
-  github: http://github.com/vaiibhavgupta
+  github: https://github.com/vaiibhavgupta
 ---
