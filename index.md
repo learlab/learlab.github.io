@@ -82,8 +82,8 @@ We make tools that help researchers analyze language data. We also endeavour to 
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="tools"
+  text="Browse our tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
