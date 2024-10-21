@@ -13,7 +13,7 @@
   publisher: Proceedings of the International Conference of the Learning Sciences
   date: '2024-06-10'
   link: https://doi.org/gt6s67
-  image: https://repository.isls.org/image/ISLS-logo-full.png
+  image: images/ISLS2024.png
   buttons:
   - type: conference
     link: https://repository.isls.org/handle/1/10686
@@ -28,7 +28,7 @@
   publisher: International Educational Data Mining Society
   date: '2024-07-12'
   link: https://doi.org/gt6s68
-  image: https://tse4.mm.bing.net/th?id=OIP.u3MB7lGoSTVL9BS290M7-gHaFp&pid=Api&P=0&h=180
+  image: images/EDMConf2024.png
   buttons:
   - type: journal
     link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.89/index.html
