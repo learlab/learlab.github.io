@@ -34,8 +34,7 @@ Our work generally focuses on the use of natural language processing (NLP) techn
 ## Highlights
 
 {% capture text %}
-Wherever possible, we accompany our publications with source code and supplementary resources. We also upload earlier versions of our work to a preprint database, so you can read them for free.
-
+Our research is consistently accompanied by source code and supplementary materials to promote accessibility and reproducibility. We also share early versions of our work on preprint platforms, ensuring free access to our findings ahead of formal publication. By offering these resources, we aim to advance transparency and foster meaningful collaborations across our research community.
 {%
   include button.html
   link="research"
@@ -56,15 +55,17 @@ Wherever possible, we accompany our publications with source code and supplement
 %}
 
 {% capture text %}
-We produce large, public datasets. We also host competitions in which teams of scientists compete to model our data.
+We produce comprehensive, publicly available datasets designed to support a wide range of research efforts. To encourage innovation, we host data-centric competitions where teams of scientists can test their models and solutions. These efforts help drive progress in data analysis while promoting collaboration and knowledge exchange.
 
 {%
-  include link.html
+  include button.html
   link="data"
-  text="See our Datasets and Competitions"
-  icon="fas fa-arrow-right"
+  text="Explore our data"
+  icon="fa-solid fa-arrow-right"
   flip=true
+  style="bare"
 %}
+
 {:.center}
 {% endcapture %}
 
@@ -78,7 +79,7 @@ We produce large, public datasets. We also host competitions in which teams of s
 %}
 
 {% capture text %}
-We make tools that help researchers analyze language data. We also endeavour to share our computer code in a clearly explained and reproducible format.
+We develop specialized tools to assist researchers in the analysis of complex language data. Our software is accompanied by clear documentation and reproducible code to ensure ease of use and integration into various workflows. Through comprehensive tutorials and resources, we empower researchers to effectively leverage these tools in their own studies.
 
 {%
   include button.html
@@ -100,7 +101,7 @@ We make tools that help researchers analyze language data. We also endeavour to 
 %}
 
 {% capture text %}
-We are a diverse and multidisciplinary group of researchers. Our team is awesome.
+We are a multidisciplinary group of researchers with expertise spanning various fields and perspectives. Our team values collaboration, innovation, and a commitment to pushing the boundaries of scientific knowledge. Together, we create an environment that fosters creativity and tackles the most pressing challenges in our research domain.
 
 {%
   include button.html
