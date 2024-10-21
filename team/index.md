@@ -77,6 +77,7 @@ Our work is made possible by funding from several organizations.
     caption="National Science Foundation"
     link="https://beta.nsf.gov/funding/opportunities/national-artificial-intelligence-research"
     width="400px" 
+    style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
   %}
   {% 
     include figure.html
@@ -84,6 +85,7 @@ Our work is made possible by funding from several organizations.
     caption="The Learning Agency"
     link="https://www.the-learning-agency.com/"
     width="400px" 
+    style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
   %}
   {% 
     include figure.html
@@ -91,6 +93,7 @@ Our work is made possible by funding from several organizations.
     caption="Institute for Education Sciences"
     link="https://ies.ed.gov/"
     width="400px" 
+    style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
   %}
   {% 
     include figure.html
@@ -98,6 +101,7 @@ Our work is made possible by funding from several organizations.
     caption="Bill & Melinda Gates Foundation"
     link="https://www.gatesfoundation.org/"
     width="400px" 
+    style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
   %}
   {% 
     include figure.html
@@ -105,6 +109,7 @@ Our work is made possible by funding from several organizations.
     caption="Walton Family Foundation"
     link="https://www.waltonfamilyfoundation.org/"
     width="400px"
+    style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
   %}
   {% 
     include figure.html
@@ -112,6 +117,7 @@ Our work is made possible by funding from several organizations.
     caption="Chan Zuckerberg Initiative"
     link="https://chanzuckerberg.com/"
     width="400px"
+    style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
   %}
   {% 
     include figure.html
@@ -119,6 +125,7 @@ Our work is made possible by funding from several organizations.
     caption="National Institutes of Health"
     link="https://www.nih.gov/"
     width="400px"
+    style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
   %}
 
 {% endcapture %}
@@ -127,4 +134,5 @@ Our work is made possible by funding from several organizations.
   include grid.html
   content=content
   style="square"
+  style="border: 2px solid #ddd; padding: 10px; margin: 10px;"
 %}
