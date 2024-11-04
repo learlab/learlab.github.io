@@ -5,7 +5,7 @@
     link: https://repository.isls.org/handle/1/10686
 
 - id: doi:10.5281/zenodo.12729954
-  image: https://tse4.mm.bing.net/th?id=OIP.u3MB7lGoSTVL9BS290M7-gHaFp&pid=Api&P=0&h=180
+  image: images/publications/EDMConf2024.png
   buttons:
   - type: journal
     link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.89/index.html
