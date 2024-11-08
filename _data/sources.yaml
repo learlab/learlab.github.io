@@ -11,7 +11,7 @@
     link: https://repository.isls.org/handle/1/10686
 
 - id: doi:10.5281/zenodo.12729954
-  image: images/publications/EDMConf2024.png
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
   buttons:
   - type: journal
     link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.89/index.html
