@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5281/zenodo.11185779
+  title: Plagiarism Detection Using Keystroke Logs
+  authors:
+  - Scott Crossley
+  - Yu Tian
+  - Langdon Holmes
+  - Wesley Morris
+  - Joon Suh Choi
+  publisher: Zenodo
+  date: '2024-01-01'
+  link: https://doi.org/g8qhns
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  buttons:
+  - type: conference
+    link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.47/index.html
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.22318/icls2024.534046
   title: 'How AI Evaluates Learner Comprehension: A Comparison of Knowledge-Based
     and Large Language Model (LLM)-Based AI Approaches'
@@ -28,7 +45,7 @@
   publisher: International Educational Data Mining Society
   date: '2024-07-12'
   link: https://doi.org/gt6s68
-  image: images/publications/EDMConf2024.png
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
   buttons:
   - type: journal
     link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.89/index.html
