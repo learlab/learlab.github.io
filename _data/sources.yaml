@@ -1,3 +1,9 @@
+- id: doi.org/10.5281/zenodo.11185779
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  buttons:
+  - type: conference
+    link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-short-papers.47/index.html
+    
 - id: doi:10.22318/icls2024.534046
   image: https://repository.isls.org/image/ISLS-logo-full.png
   buttons:
