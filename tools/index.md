@@ -37,7 +37,7 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
   %}
 {% endcapture %}
 
-{% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=YZXVQjSDZtI?width=600&height=450){% endcapture %}
+{% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=hFn8i0okUk8?width=600&height=450){% endcapture %}
 {% capture col2 %}{%
   include card.html
   image="images/itell-logo.png"
