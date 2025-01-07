@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fas fa-tools" %}Datasets and Competitions
 
-Our research team creates large datasets that are publicly available. We lead analyses of these and other datasets using NLP techniques and host competitions to attract world-wide talent into learning analytics. We also use large datasets to fine-tune and domain adapt language models to inform educational interventions.
+Our research team develops and shares large, publicly available datasets to advance learning analytics. We apply natural language processing (NLP) techniques to analyze both our own and external datasets, driving insights into educational practices. To encourage global participation, we host competitions that challenge talent worldwide to explore new approaches in learning analytics. Additionally, we leverage these datasets to fine-tune and adapt language models for educational interventions, enhancing their effectiveness and impact.
 
 {% include search-info.html %}
 
