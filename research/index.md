@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Research conducted in the Lear Lab investigates learning from a variety of perspectives in order to better understand how students acquire knowledge, competencies, and new perspectives. Members of the lab work within the contexts of second language acquisition, data science, learning analytics, natural language processing, psycholinguistics and more.
+Research at the Lear Lab explores learning from multiple perspectives to deepen our understanding of how students develop knowledge, competencies, and new ways of thinking. Our team works across diverse fields, including second language acquisition, data science, learning analytics, natural language processing, psycholinguistics, and more, contributing to a comprehensive view of the learning process.
 
 {% include section.html %}
 
