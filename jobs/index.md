@@ -13,9 +13,7 @@ nav:
 
 ### Undergraduate/ Graduate Student Researchers
 
-We are always looking for new talent on the team. If you are interested in joining, please contact us below. We often have volunteer and paid opportunities available. We are generally looking for students who are interested in natural language processing (NLP) techniques, the application of computational tools in learning environments, and the use machine learning algorithms.
-Feel free to reach out with any questions!
-
+We’re always seeking new talent to join our team. If you’re passionate about natural language processing (NLP), applying computational tools in learning environments, or exploring machine learning algorithms, we’d love to hear from you. We regularly offer both volunteer and paid opportunities for students eager to gain experience in these fields. If you're interested or have any questions, feel free to reach out using the contact information below!
 
 
 <!-- {% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %} -->
