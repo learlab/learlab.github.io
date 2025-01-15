@@ -33,7 +33,7 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
     include button.html
     type="source"
     text="Textbook Demo"
-    link="https://itell-poe.vercel.app/"
+    link="https://demo.itell.ai/"
   %}
 {% endcapture %}
 
