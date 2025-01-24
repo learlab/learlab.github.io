@@ -1,3 +1,22 @@
+- id:
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00033-cov150h.gif
+  buttons: doi:10.1016/j.asw.2024.100865
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293524000588
+    
+- id: doi:10.1007/s40593-024-00418-w
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s40593-024-00418-w#citeas
+
+- id: doi:10.1080/10888438.2024.2422365
+  buttons:
+  - type: journal
+    link: https://www.tandfonline.com/doi/full/10.1080/10888438.2024.2422365?src=exp-la#abstract
+
+
+
 - id: doi:10.5281/zenodo.12729952
   image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
   buttons:
