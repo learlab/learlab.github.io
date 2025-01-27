@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s11145-021-10229-3
+  title: Cohesive devices as an indicator of L2 students' writing fluency
+  authors:
+  - Yu Tian
+  - Minkyung Kim
+  - Scott Crossley
+  - Qian Wan
+  publisher: Reading and Writing
+  date: '2021-11-27'
+  link: https://doi.org/grc7vd
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10229-3
+  - type: preprint
+    link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1515/applirev-2020-0048
+  title: Stylistic alignment in natural conversation involving second language speakers
+  authors:
+  - YeonJoo Jung
+  - Scott Crossley
+  publisher: Applied Linguistics Review
+  date: '2022-12-21'
+  link: https://doi.org/gt363p
+  image: https://www.degruyter.com/document/cover/journal_key/ALR/product_pages
+  buttons:
+  - type: journal
+    link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.asw.2024.100865
   title: 'A large-scale corpus for assessing written argumentation: PERSUADE 2.0'
   authors:
@@ -200,20 +232,6 @@
   buttons:
   - type: journal
     link: https://link.springer.com/article/10.1007/s40593-024-00395-0
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1515/applirev-2020-0048
-  title: Stylistic alignment in natural conversation involving second language speakers
-  authors:
-  - YeonJoo Jung
-  - Scott Crossley
-  publisher: Applied Linguistics Review
-  date: '2022-12-21'
-  link: https://doi.org/gt363p
-  image: https://www.degruyter.com/document/cover/journal_key/ALR/product_pages
-  buttons:
-  - type: journal
-    link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3758/s13428-023-02324-w
@@ -572,24 +590,6 @@
   buttons:
   - type: journal
     link: https://journals.sagepub.com/doi/abs/10.1177/02655322211060076
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s11145-021-10229-3
-  title: Cohesive devices as an indicator of L2 students' writing fluency
-  authors:
-  - Yu Tian
-  - Minkyung Kim
-  - Scott Crossley
-  - Qian Wan
-  publisher: Reading and Writing
-  date: '2021-11-27'
-  link: https://doi.org/grc7vd
-  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
-  buttons:
-  - type: journal
-    link: https://link.springer.com/article/10.1007/s11145-021-10229-3
-  - type: preprint
-    link: https://www.researchgate.net/publication/356586385_Cohesive_devices_as_an_indicator_of_L2_students'_writing_fluency
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/sciadv.abj2836
