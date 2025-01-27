@@ -1,3 +1,16 @@
+
+- id: doi:10.1007/s11145-021-10229-3
+  image: https://media.springernature.com/w144/springer-static/cover-hires/journal/11145?as=webp
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10229-3
+
+- id: doi:10.1515/applirev-2020-0048
+  image: https://www.degruyter.com/document/cover/journal_key/ALR/product_pages
+  buttons:
+  - type: journal
+    link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html?lang=en&srsltid=AfmBOop_FdJtn6ov5Enfl5eTYVW9f8gif5Y5nYtRTuurN-m6lQ6QripN
+
 - id: doi:10.1016/j.asw.2024.100865
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00033-cov150h.gif
   buttons:
@@ -14,8 +27,7 @@
   buttons:
   - type: journal
     link: https://www.tandfonline.com/doi/full/10.1080/10888438.2024.2422365?src=exp-la#abstract
-
-
+    
 
 - id: doi:10.5281/zenodo.12729952
   image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
