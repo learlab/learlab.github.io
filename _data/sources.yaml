@@ -1,6 +1,6 @@
-- id:
+- id: doi:10.1016/j.asw.2024.100865
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00033-cov150h.gif
-  buttons: doi:10.1016/j.asw.2024.100865
+  buttons:
   - type: journal
     link: https://www.sciencedirect.com/science/article/pii/S1075293524000588
     
