@@ -1,5 +1,53 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.asw.2024.100865
+  title: 'A large-scale corpus for assessing written argumentation: PERSUADE 2.0'
+  authors:
+  - S.A. Crossley
+  - Y. Tian
+  - P. Baffour
+  - A. Franklin
+  - M. Benner
+  - U. Boser
+  publisher: Assessing Writing
+  date: '2024-07-01'
+  link: https://doi.org/gt362r
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
+  buttons:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s40593-024-00418-w
+  title: Automated Scoring of Constructed Response Items in Math Assessment Using
+    Large Language Models
+  authors:
+  - Wesley Morris
+  - Langdon Holmes
+  - Joon Suh Choi
+  - Scott Crossley
+  publisher: International Journal of Artificial Intelligence in Education
+  date: '2024-07-18'
+  link: https://doi.org/g825qn
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s40593-024-00418-w#citeas
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/10888438.2024.2422365
+  title: Developing Linguistic Constructs of Text Readability Using Natural Language
+    Processing
+  authors:
+  - Scott A. Crossley
+  publisher: Scientific Studies of Reading
+  date: '2024-11-03'
+  link: https://doi.org/g825qp
+  buttons:
+  - type: journal
+    link: https://www.tandfonline.com/doi/full/10.1080/10888438.2024.2422365?src=exp-la#abstract
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5281/zenodo.12729952
   title: The Cleaned Repository of Annotated Personally Identifiable Information
   authors:
@@ -79,24 +127,6 @@
   buttons:
   - type: journal
     link: https://ieeexplore.ieee.org/document/9853738
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.asw.2024.100865
-  title: 'A large-scale corpus for assessing written argumentation: PERSUADE 2.0'
-  authors:
-  - S.A. Crossley
-  - Y. Tian
-  - P. Baffour
-  - A. Franklin
-  - M. Benner
-  - U. Boser
-  publisher: Assessing Writing
-  date: '2024-07-01'
-  link: https://doi.org/gt362r
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
-  buttons:
-  - type: journal
-    link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3640543.3645142
