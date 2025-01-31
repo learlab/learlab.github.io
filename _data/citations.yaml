@@ -75,6 +75,7 @@
   publisher: Scientific Studies of Reading
   date: '2024-11-03'
   link: https://doi.org/g825qp
+  image: https://www.tandfonline.com/action/showCoverImage?journalCode=hssr20
   buttons:
   - type: journal
     link: https://www.tandfonline.com/doi/full/10.1080/10888438.2024.2422365?src=exp-la#abstract
@@ -205,12 +206,12 @@
   - Scott A. Crossley
   - Danielle S. McNamara
   publisher: International Journal of Artificial Intelligence in Education
-  date: '2023-12-20'
+  date: '2024-12-12'
   link: https://doi.org/gt363m
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   buttons:
   - type: journal
-    link: https://link.springer.com/article/10.1007/s40593-023-00386-7
+    link: https://link.springer.com/article/10.1007/s40593-023-00386-7#citeas
   - type: preprint
     link: https://www.researchgate.net/publication/376738327_Multilingual_Age_of_Exposure_20
   plugin: sources.py
