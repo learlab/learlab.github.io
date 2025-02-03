@@ -1,5 +1,11 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  buttons:
+  - type: conference
+    link: https://events.learning-observer.org/Proceeding_WLIEDM.pdf#page=5
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s11145-021-10229-3
   title: Cohesive devices as an indicator of L2 students' writing fluency
   authors:
