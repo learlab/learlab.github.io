@@ -1,4 +1,8 @@
-
+- image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  buttons:
+  - type: conference
+    link: https://events.learning-observer.org/Proceeding_WLIEDM.pdf#page=5
+    
 - id: doi:10.1007/s11145-021-10229-3
   image: https://media.springernature.com/w144/springer-static/cover-hires/journal/11145?as=webp
   buttons:
