@@ -1,5 +1,74 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: Crowd-Sourcing Human Ratings of Linguistic Production
+  authors:
+  - Scott Crossley
+  - Sara Cushing
+  - Scott Jarvis
+  - Kristopher Kyle
+  publisher: Cognitive Science Society
+  date: '2023-07-26'
+  image: https://img.paperform.co/fetch/w_800,f_auto/https://s3.amazonaws.com/pf-form-assets-01/u-59356/assets/2023-05-19/eu13btw/CogSciLogoForWeb-green.png
+  link: https://escholarship.org/uc/item/2zh6n03c#main
+  buttons:
+  - type: conference
+    link: https://escholarship.org/content/qt2zh6n03c/qt2zh6n03c.pdf?t=rxyaf7
+  plugin: sources.py
+  file: sources.yaml
+- title: Automatic Question Generation and Constructed Response Scoring in Intelligent
+    Texts
+  authors:
+  - Wesley Morris
+  - Joon Suh Choi
+  - Langdon Holmes
+  - Vaibhav Gupta
+  - Scott Crossley
+  publisher: Workshop on Leveraging Large Language Models for Next Generation Educational
+    Technologies at the 17th International Conference on Educational Data Mining
+  date: '2024-07-14'
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  link: https://ceur-ws.org/Vol-3840/L3MNGET24_paper2.pdf
+  buttons:
+  - type: conference
+    link: https://ceur-ws.org/Vol-3840/L3MNGET24_paper2.pdf
+  plugin: sources.py
+  file: sources.yaml
+- title: Relation of Linguistic Indicators to Civic Engagement in Special Education
+  authors:
+  - Chak Li
+  - Scott Crossley
+  - Meghan Burke
+  - Zach Rossetti
+  publisher: Proceedings of the 17th International Conference on Educational Data
+    Mining
+  date: '2024-07-14'
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.79/2024.EDM-posters.79.pdf
+  buttons:
+  - type: conference
+    link: https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.79/2024.EDM-posters.79.pdf
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Using Intelligent Texts in a Computer Science Classroom: Findings from an
+    iTELL Deployment'
+  authors:
+  - Scott Crossley
+  - Joon Suh Choi
+  - Wesley Morris
+  - Langdon Holmes
+  - David Joyner
+  - Vaibhav Gupta
+  publisher: Proceedings of 8th Educational Data Mining in Computer Science Education
+    Workshop (CSEDM 2024) at the 17th International Conference on Educational Data
+    Mining
+  date: '2024-07-14'
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  link: https://ceur-ws.org/Vol-3796/CSEDM-24_paper_8293.pdf
+  buttons:
+  - type: conference
+    link: https://ceur-ws.org/Vol-3796/CSEDM-24_paper_8293.pdf
+  plugin: sources.py
+  file: sources.yaml
 - title: A World CLASSE Student Summary Corpus
   authors:
   - Scott A. Crossley
