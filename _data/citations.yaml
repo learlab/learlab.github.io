@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- title: A World CLASSE Student Summary Corpus
+  authors:
+  - Scott A. Crossley
+  - Perpetual Baffour
+  - Mihai Dascalu
+  - Stefan Ruseti
+  publisher: Association for Computational Linguistics
+  date: '2024-06-15'
+  image: https://aclanthology.org/thumb/2024.bea-1.0.jpg
+  link: https://aclanthology.org/2024.bea-1.9/
+  buttons:
+  - type: conference
+    link: https://aclanthology.org/2024.bea-1.9.pdf
+  plugin: sources.py
+  file: sources.yaml
 - title: Focus Time and Writing Performance in An Intelligent Textbook
   authors:
   - Joon Suh Choi
