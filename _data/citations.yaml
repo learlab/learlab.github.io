@@ -1,6 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+- title: Focus Time and Writing Performance in An Intelligent Textbook
+  authors:
+  - Joon Suh Choi
+  - Wesley Morris
+  - Langdon Holmes
+  - Scott Crossley
+  publisher: Proceedings of the Educational Data Mining in Writing and Literacy Instruction
+    Workshop(WLIEDM)
+  date: '2024-07-15'
+  image: https://educationaldatamining.org/edm2024/wp-content/themes/edm2024/images/logo-edm2024.png
+  link: https://events.learning-observer.org/Proceeding_WLIEDM.pdf#page=5
   buttons:
   - type: conference
     link: https://events.learning-observer.org/Proceeding_WLIEDM.pdf#page=5
