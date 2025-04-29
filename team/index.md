@@ -14,7 +14,7 @@ nav:
 
 {%
   include figure.html
-  image="images/lab_photo.jpg"
+  image="images/LabPic2025.jpg"
   width="80%"
 %}
 
