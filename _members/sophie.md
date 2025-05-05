@@ -1,6 +1,6 @@
 ---
 name: Sophie Zhuang
-image: images/Sophie.jpeg
+image: images/Sophie.jpg
 description: Research Assistant
 role: undergrad
 links:
