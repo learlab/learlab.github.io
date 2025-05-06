@@ -1,6 +1,6 @@
 ---
 name: Tobasum Mandal
-image: images/tobasum.jpeg
+image: images/Tobasum.jpeg
 description: Research Assistant
 role: undergrad
 links:
