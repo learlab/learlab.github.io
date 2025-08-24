@@ -3,7 +3,7 @@ name: Joon Suh Choi
 image: 
 description: Research Associate
 role: phd
-# group: alum
+group: alum
 # aliases:
 #   - F. Cited
 #   - F Cited
