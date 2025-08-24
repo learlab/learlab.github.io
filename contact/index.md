@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is located in [Peabody College](https://peabody.vanderbilt.edu/) on the 2nd floor of the [Vanderbilt Kennedy Center](https://vkc.vumc.org/vkc/).
+Our lab is located in [Peabody College](https://peabody.vanderbilt.edu/) on the 2nd floor of Hobbs Hall.
 
 We have affiliations with [The Department of Special Education](https://peabody.vanderbilt.edu/departments/sped/), [The Department of Psychology and Human Development](https://peabody.vanderbilt.edu/departments/psych/), and [The Data Science Institute](https://www.vanderbilt.edu/datascience/).
 
@@ -24,7 +24,7 @@ We have affiliations with [The Department of Special Education](https://peabody.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/One+Magnolia+Circle,+110+Magnolia+Cir,+Nashville,+TN+37212/@36.1431912,-86.7994436,17z/data=!3m1!4b1!4m5!3m4!1s0x886466984b09d6dd:0x7c2fd8ead37eaed4!8m2!3d36.1431912!4d-86.7994436"
+  link="https://maps.app.goo.gl/XirqxHfc5A3Qqjgv5"
   style="button"
 %}
 
@@ -32,9 +32,11 @@ We have affiliations with [The Department of Special Education](https://peabody.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-110 Magnolia Circle #223  
-Nashville, TN 37212  
-United States  
+Department of Psychology and Human Development
+Vanderbilt University
+Peabody #552
+230 Appleton Place
+Nashville, TN 37203
 {:.center}
 
 {% capture col1 %}
