@@ -50,7 +50,7 @@ nav:
 {:.center}
 
 ## Alumni
-
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" %}
 
 {% include list.html data="members" component="portrait" filters="role: ma, group: alum" %}
 
