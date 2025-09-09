@@ -1,6 +1,6 @@
 ---
 name: Saeyi Oh
-image: images/saeyi.jpg
+image: images/Saeyi.jpg
 description: Master's Student
 role: ma
 links:
