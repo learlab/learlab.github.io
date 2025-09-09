@@ -1,6 +1,6 @@
 ---
 name: Adithya Kalidindi
-image: images/adithya.jpg
+image: images/Adithya.jpg
 description: Master's Student
 role: ma
 links:
