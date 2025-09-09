@@ -1,5 +1,5 @@
 ---
-name: Yifan Yang
+name: Eva (Yifan) Yang
 image: images/Yifan.jpg
 description: Research Assistant
 role: undergrad
