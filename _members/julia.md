@@ -6,4 +6,5 @@ role: undergrad
 links:
   email: julia.s.kantzer@vanderbilt.edu
   github: juliaktzr
+  linkedin: julia-kantzer
 ---
