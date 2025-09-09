@@ -1,6 +1,6 @@
 ---
 name: Yifan Yang
-image: images/yifan.jpg
+image: images/Yifan.jpg
 description: Research Assistant
 role: undergrad
 links:
