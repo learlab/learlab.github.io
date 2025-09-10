@@ -5,4 +5,5 @@ description: Master's Student
 role: ma
 links:
   email: saeyi.oh@vanderbilt.edu
+  github: SaeyiOh
 ---
