@@ -1,3 +1,9 @@
+- id: doi:10.1016/j.asw.2025.100954
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293525X00039-cov150h.gif
+  buttons:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293525000418
+    
 - title: Crowd-Sourcing Human Ratings of Linguistic Production
   authors:
   - Scott Crossley
