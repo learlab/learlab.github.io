@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.asw.2025.100954
+  title: 'A large-scale corpus for assessing source-based writing quality: ASAP 2.0'
+  authors:
+  - Scott A. Crossley
+  - Perpetual Baffour
+  - L. Burleigh
+  - Jules King
+  publisher: Assessing Writing
+  date: '2025-07-01'
+  link: https://doi.org/g977qq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293525X00039-cov150h.gif
+  buttons:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293525000418
+  plugin: sources.py
+  file: sources.yaml
 - title: Crowd-Sourcing Human Ratings of Linguistic Production
   authors:
   - Scott Crossley
