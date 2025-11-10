@@ -16,36 +16,23 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 ## iTELL
 
 {% capture itell-description %}
-  What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI.
-  {%
-    include button.html
-    type="source"
-    text="Frontend"
-#   link="https://github.com/learlab/itell-strapi-demo"
-  %}
-  {%
-    include button.html
-    type="source"
-    text="Scoring API"
-#   link="https://github.com/learlab/itell-api"
-  %}
-  {%
-    include button.html
-    type="source"
-    text="Textbook Demo"
-#   link="https://demo.itell.ai/"
-  %}
+  What if students could interact with their textbooks? We are building an open source digital textbook framework powered by AI
+
+  {% include button.html type='source' text='Frontend' link='https://github.com/learlab/itell-strapi-demo' %}
+  {% include button.html type='source' text='Scoring API' link='https://github.com/learlab/itell-api' %}
+  {% include button.html type='source' text='Textbook Demo' link='https://demo.itell.ai/' %}
+
 {% endcapture %}
 
 {% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=_q-d9_jjpMk){% endcapture %}
 {% capture col2 %}{%
   include card.html
-  image="images/itell-logo.png"
-  link="https://www.youtube.com/watch?v=_q-d9_jjpMk"
-  title="iTELL"
-  subtitle= "Intelligent Texts for Enhanced Lifelong Learning"
+  image='images/itell-logo.png'
+  link='https://www.youtube.com/watch?v=_q-d9_jjpMk'
+  title='iTELL'
+  subtitle='Intelligent Texts for Enhanced Lifelong Learning'
   description=itell-description
-  tooltip="iTELL"
+  tooltip='iTELL'
 %}{% endcapture %}
 
 {%
