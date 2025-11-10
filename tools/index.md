@@ -21,27 +21,27 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
     include button.html
     type="source"
     text="Frontend"
-    link="https://github.com/learlab/itell-strapi-demo"
+#   link="https://github.com/learlab/itell-strapi-demo"
   %}
   {%
-    include button.html
+    i nclude button.html
     type="source"
     text="Scoring API"
-    link="https://github.com/learlab/itell-api"
+#    link="https://github.com/learlab/itell-api"
   %}
   {%
     include button.html
     type="source"
     text="Textbook Demo"
-    link="https://demo.itell.ai/"
+#    link="https://demo.itell.ai/"
   %}
 {% endcapture %}
 
-{% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=hFn8i0okUk8?width=600&height=450){% endcapture %}
+{% capture col1 %}![iTELL Demonstration](https://www.youtube.com/watch?v=_q-d9_jjpMk){% endcapture %}
 {% capture col2 %}{%
   include card.html
   image="images/itell-logo.png"
-  link="https://itell-poe.vercel.app/"
+  link="https://www.youtube.com/watch?v=_q-d9_jjpMk"
   title="iTELL"
   subtitle= "Intelligent Texts for Enhanced Lifelong Learning"
   description=itell-description
