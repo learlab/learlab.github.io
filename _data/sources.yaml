@@ -1,16 +1,16 @@
-  - title: AI Enhanced Intelligent Texts and Learning Gains
-  authors:
-  - Scott Crossley
-  - Joon Suh Choi
-  - Wesley Morris
-  - Langdon Holmes
-  - David Joyner
-  publisher: Proceedings of the Sixth International Workshop on Intelligent Textbooks 2025 co-located with the 26th International Conference on Artificial Intelligence in Education (AIED 2025)
-  date: '2025-26-07'
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMsW0XdXPPaCU_Rd10usdvihOm5ek60DqGw&s
-  buttons:
-  - type: proceeding
-    link: https://ceur-ws.org/Vol-4010/itb25_s1s2.pdf
+#  - title: AI Enhanced Intelligent Texts and Learning Gains
+#  authors:
+#  - Scott Crossley
+#  - Joon Suh Choi
+#  - Wesley Morris
+#  - Langdon Holmes
+#  - David Joyner
+#  publisher: Proceedings of the Sixth International Workshop on Intelligent Textbooks 2025 co-located with the 26th International Conference on Artificial Intelligence in Education (AIED 2025)
+#  date: '2025-26-07'
+#  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMsW0XdXPPaCU_Rd10usdvihOm5ek60DqGw&s
+#  buttons:
+#  - type: proceeding
+#    link: https://ceur-ws.org/Vol-4010/itb25_s1s2.pdf
 
 - id: doi:10.1145/3698205.3729548
   image: https://dl.acm.org/cms/asset/6ca5c06a-a895-41fd-9335-a4984a578491/3698205.cover.jpg
