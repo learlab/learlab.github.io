@@ -1,5 +1,72 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3698205.3729548
+  title: 'Exploratory Assessment of Learning in an Intelligent Text Framework: iTELL
+    RCT'
+  authors:
+  - Scott Crossley
+  - Wesley Morris
+  - Joon Suh Choi
+  - Langdon Holmes
+  publisher: Proceedings of the Twelfth ACM Conference on Learning @ Scale
+  date: '2025-07-17'
+  link: https://doi.org/g99wxq
+  image: https://dl.acm.org/cms/asset/6ca5c06a-a895-41fd-9335-a4984a578491/3698205.cover.jpg
+  buttons:
+  - type: proceeding
+    link: http://dl.acm.org/doi/10.1145/3698205.3729548
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17239/jowr-2025.17.01.02
+  title: 'The KLiCKe corpus: Keystroke logging in compositions for knowledge evaluation'
+  authors:
+  - Yu Tian
+  - Scott Crossley
+  - Luuk Van Waes
+  publisher: Journal of Writing Research
+  date: '2025-06-03'
+  link: https://doi.org/g99ww3
+  image: https://allresearchjournal.icrrd.com/public/media/22052021125729-journal-writing-research.jpg
+  buttons:
+  - type: journal
+  - link: https://www.jowr.org/jowr/article/view/1556
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17239/jowr-2025.17.02.02
+  title: Distinguishing effective writing styles in the PERSUADE corpus
+  authors:
+  - Wesley Morris
+  - Scott Crossley
+  - Langdon Holmes
+  - Joon Choi
+  publisher: Journal of Writing Research
+  date: '2025-10-07'
+  link: https://doi.org/g99ww4
+  image: https://allresearchjournal.icrrd.com/public/media/22052021125729-journal-writing-research.jpg
+  buttons:
+  - type: journal
+  - link: https://www.jowr.org/jowr/article/view/1491
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/0969594X.2025.2467664
+  title: Assessing writing quality using crowdsourced non-expert comparative judgement
+    ratings
+  authors:
+  - Scott A. Crossley
+  - Minkyung Kim
+  - Qian Wan
+  - Laura K. Allen
+  - Rurik Tywoniw
+  - Danielle McNamara
+  publisher: 'Assessment in Education: Principles, Policy &amp; Practice'
+  date: '2025-01-02'
+  link: https://doi.org/g99ww5
+  image: https://www.tandfonline.com/cms/asset/bee09a83-db1e-41dc-a150-803fede998a5/caie20.v032.i04.cover.jpg
+  buttons:
+  - type: journal
+    link: https://www.tandfonline.com/doi/full/10.1080/0969594X.2025.2467664
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.asw.2025.100954
   title: 'A large-scale corpus for assessing source-based writing quality: ASAP 2.0'
   authors:
