@@ -1,3 +1,42 @@
+- title: AI Enhanced Intelligent Texts and Learning Gains
+  authors:
+  - Scott Crossley
+  - Joon Suh Choi
+  - Wesley Morris
+  - Langdon Holmes
+  - David Joyner
+  publisher: Proceedings of the Sixth International Workshop on Intelligent Textbooks 2025
+co-located with the 26th International Conference on Artificial Intelligence in Education (AIED 2025)
+  date: '2025-26-07'
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMsW0XdXPPaCU_Rd10usdvihOm5ek60DqGw&s
+  buttons:
+  - type: proceeding
+    link: https://ceur-ws.org/Vol-4010/itb25_s1s2.pdf
+
+- id: doi:10.1145/3698205.372954
+  image: https://dl.acm.org/cms/asset/6ca5c06a-a895-41fd-9335-a4984a578491/3698205.cover.jpg
+  buttons:
+  - type: proceeding
+    link: http://dl.acm.org/doi/10.1145/3698205.3729548
+
+- id: doi:10.17239/jowr-2025.17.01.02
+  image: https://allresearchjournal.icrrd.com/public/media/22052021125729-journal-writing-research.jpg
+  buttons:
+  - type: journal
+  - link: https://www.jowr.org/jowr/article/view/1556
+
+- id: doi:10.17239/jowr-2025.17.02.02
+  image: https://allresearchjournal.icrrd.com/public/media/22052021125729-journal-writing-research.jpg
+  buttons:
+  - type: journal
+  - link: https://www.jowr.org/jowr/article/view/1491
+
+- id: doi:10.1080/0969594X.2025.2467664
+  image: https://www.tandfonline.com/cms/asset/bee09a83-db1e-41dc-a150-803fede998a5/caie20.v032.i04.cover.jpg
+  buttons:
+  - type: journal
+    link: https://www.tandfonline.com/doi/full/10.1080/0969594X.2025.2467664
+
 - id: doi:10.1016/j.asw.2025.100954
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293525X00039-cov150h.gif
   buttons:
