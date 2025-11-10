@@ -24,16 +24,16 @@ Our work wouldn't be possible without the contributions of hundreds of other lab
 #   link="https://github.com/learlab/itell-strapi-demo"
   %}
   {%
-    i nclude button.html
+    include button.html
     type="source"
     text="Scoring API"
-#    link="https://github.com/learlab/itell-api"
+#   link="https://github.com/learlab/itell-api"
   %}
   {%
     include button.html
     type="source"
     text="Textbook Demo"
-#    link="https://demo.itell.ai/"
+#   link="https://demo.itell.ai/"
   %}
 {% endcapture %}
 
