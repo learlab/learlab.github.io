@@ -2,7 +2,8 @@
 name: Anna Chen
 image: images/anna.jpeg
 description: Research Assistant
-role: alum
+role: undergrad
+group: alum
 # aliases:
 #   - A. Chovie
 #   - A Chovie
