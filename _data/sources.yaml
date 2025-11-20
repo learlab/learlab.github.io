@@ -1,3 +1,9 @@
+- id: doi: 10.1007/978-3-031-98465-5_29
+  image: https://media.springernature.com/w144/springer-static/cover-hires/book/978-3-031-98465-5?as=webp
+  buttons:
+  - type: proceeding
+    link: https://link.springer.com/chapter/10.1007/978-3-031-98465-5_29
+
 - id: doi:10.1145/3698205.3729548
   image: https://dl.acm.org/cms/asset/6ca5c06a-a895-41fd-9335-a4984a578491/3698205.cover.jpg
   buttons:
@@ -219,6 +225,7 @@
 
 - id: doi:10.3758/s13428-023-02324-w
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
+  date: '2024-09-15'
   buttons:
   - type: journal
     link: https://pubmed.ncbi.nlm.nih.gov/38158554/#:~:text=This%20study%20documents%20and%20assesses,S%C3%A1nchez%2DGuti%C3%A9rrez%20et%20al.%2C
