@@ -7,6 +7,7 @@ aliases:
   - S. Crossley
   - S. A. Crossley
 links:
+  cv: /images/CURRICULUM_VITAE_CROSSLEY.pdf
   orcid: 0000-0002-5148-0273
   home-page: linguisticanalysistools.org/bios.html
   email: scott.crossley@vanderbilt.edu
