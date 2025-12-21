@@ -214,3 +214,8 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+cv:
+  icon: fa-solid fa-file-pdf
+  text: CV
+  tooltip: Curriculum Vitae
