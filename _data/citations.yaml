@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/arXiv.2601.16134
+  title: LLM Prompt Evaluation for Educational Applications
+  authors:
+  - Langdon Holmes
+  - Adam Coscia
+  - Scott Crossley
+  - Joon Suh Choi
+  - Wesley Morris
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hbms7v
+  buttons:
+  - type: journal
+    link: https://arxiv.org/abs/2601.16134
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-031-98465-5_29
   title: Uncovering Differential Sensitivity Toward Linguistic Features of Cohesion
     in Large Language Models
