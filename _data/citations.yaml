@@ -11,6 +11,7 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hbms7v
+  image: images/fallback.svg
   buttons:
   - type: journal
     link: https://arxiv.org/abs/2601.16134
