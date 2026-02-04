@@ -1,7 +1,9 @@
 - id: doi:10.48550/arXiv.2601.16134
+  image: images/fallback.svg
   buttons:
   - type: journal
     link: https://arxiv.org/abs/2601.16134
+    
 - id: doi:10.1007/978-3-031-98465-5_29
   image: https://media.springernature.com/w144/springer-static/cover-hires/book/978-3-031-98465-5?as=webp
   buttons:
