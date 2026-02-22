@@ -3,6 +3,7 @@ name: Eva (Yifan) Yang
 image: images/Yifan.jpg
 description: Research Assistant
 role: undergrad
+group: alum
 links:
   email: Yifan.yang@vanderbilt.edu
   linkedin: eva-yifan-y-421124324
