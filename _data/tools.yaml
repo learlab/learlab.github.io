@@ -1,3 +1,10 @@
+- title: MAP
+  subtitle: Charting Student Math Misunderstandings
+  group: featured
+  description: Predict the affinity between misconceptions and student open-ended responses
+  images: 
+  link: https://www.kaggle.com/c/map-charting-student-math-misunderstandings
+
 - title: iTELL
   subtitle: The Intelligent Textbook for Enhanced Lifelong Learning
   group: itell
