@@ -1,5 +1,244 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1111/ijal.70129
+  title: "Disentangling Ballot Complexity: Effects of Different Types of Text Simplification\
+    \ on Metacomprehension and Roll\u2010Off"
+  authors:
+  - Kathryn S. McCarthy
+  - Scott A. Crossley
+  publisher: International Journal of Applied Linguistics
+  date: '2026-02-10'
+  link: https://doi.org/hbs2s6
+  image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
+  buttons:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/10.1111/ijal.70129
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Human-AI Collaboration in Participatory Design: Refining the Writing Analytics
+    Tool'
+  authors:
+  - A. H. Potter
+  - Z. Serhan
+  - N. A. Patne
+  - "P. \xD6ncel"
+  - I. Ahmed
+  - T. Arner
+  - R. Islam
+  - L. A. Allen
+  - R. D. Roscoe
+  - Scott Crossley
+  - Danielle S. McNamara
+  publisher: Journal (in press)
+  date: ''
+  image: images/fallback.svg
+  buttons: []
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3758/s13428-025-02922-w
+  title: The Tool for Automatic Analysis of Decoding Ambiguity (TAADA)
+  authors:
+  - Scott Crossley
+  - Joon Suh Choi
+  - Kenny Tang
+  - Laurie Cutting
+  publisher: Behavior Research Methods
+  date: '2026-01-16'
+  link: https://doi.org/hbs2s7
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-025-02922-w
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Linking writing processes to argument elements: Insights from keystroke
+    logging in L1 and L2 writers'
+  authors:
+  - Yu Tian
+  - Scott A. Crossley
+  publisher: Journal of Second Language Writing
+  date: ''
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374325X00000-cov150h.gif
+  buttons:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1060374325001018
+  plugin: sources.py
+  file: sources.yaml
+- title: Advances in Automated Writing Evaluation
+  authors:
+  - Laura A. Allen
+  - Scott A. Crossley
+  publisher: Book Chapter (in press)
+  date: ''
+  image: images/fallback.svg
+  buttons: []
+  plugin: sources.py
+  file: sources.yaml
+- title: Keystroke Logging
+  authors:
+  - Yu Tian
+  - Scott A. Crossley
+  publisher: In M. Kessler (Ed.), Digital and Internet-based Research Methods in Applied
+    Linguistics. John Benjamins.
+  date: ''
+  image: https://www.jbe-platform.com/images/covers/18711375.png
+  buttons:
+  - type: journal
+    link: https://benjamins.com/catalog/rmal.15.15tia
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Advances in automating feedback for argumentative writing: Feedback Prize
+    as a case study'
+  authors:
+  - Perpetual Baffour
+  - Scott A. Crossley
+  publisher: Book Chapter. Taylor & Francis.
+  date: ''
+  image: images/fallback.svg
+  buttons:
+  - type: journal
+    link: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003397618-19/advances-automating-feedback-argumentative-writing-perpetual-baffour-scott-crossley
+  plugin: sources.py
+  file: sources.yaml
+- title: Psychometric Analysis of LLM Differential Sensitivity to Word Predictability
+    using Explanatory MFRM
+  authors:
+  - Wesley Morris
+  - Langdon Holmes
+  - Scott Crossley
+  publisher: Proceeding (in press)
+  date: ''
+  image: images/fallback.svg
+  buttons: []
+  plugin: sources.py
+  file: sources.yaml
+- title: The effects of AI feedback on college students' reading and writing performance
+    in an intelligent text framework
+  authors:
+  - S. Shen
+  - A. F. Wise
+  - Wesley Morris
+  - Langdon Holmes
+  - S. R. Hinze
+  - Scott Crossley
+  publisher: Proceeding (in press)
+  date: ''
+  image: images/fallback.svg
+  buttons: []
+  plugin: sources.py
+  file: sources.yaml
+- title: The Use of Large Language Models in an Intelligent Text Framework
+  authors:
+  - Scott A. Crossley
+  - Joon Suh Choi
+  - Langdon Holmes
+  - Wesley Morris
+  - V. Rus
+  - M. Lintean
+  publisher: 'In Design Recommendations for Intelligent Tutoring Systems: Generative
+    AI. Book chapter (in press).'
+  date: ''
+  image: images/fallback.svg
+  buttons: []
+  plugin: sources.py
+  file: sources.yaml
+- title: AI Enhanced Intelligent Texts and Learning Gains
+  authors:
+  - Scott A. Crossley
+  - Joon Suh Choi
+  - Wesley Morris
+  - Langdon Holmes
+  - David Joyner
+  publisher: Proceedings of Intelligent Textbooks Workshop 2025
+  date: ''
+  image: images/fallback.svg
+  buttons:
+  - type: proceeding
+    link: https://ceur-ws.org/Vol-4010/itb25_s1s2.pdf
+  plugin: sources.py
+  file: sources.yaml
+- title: LLM prompt design and evaluation for educational applications
+  authors:
+  - Langdon Holmes
+  - A. Coscia
+  - Scott A. Crossley
+  - Joon Suh Choi
+  - Wesley Morris
+  publisher: Proceeding (in press)
+  date: ''
+  image: images/fallback.svg
+  buttons: []
+  plugin: sources.py
+  file: sources.yaml
+- title: Automated Scoring of Constructed Response Items in Math Assessment Using
+    Large Language Models
+  authors:
+  - Wesley Morris
+  - Langdon Holmes
+  - Joon Suh Choi
+  - Scott Crossley
+  publisher: Journal of Artificial Intelligence in Education
+  date: ''
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
+  buttons: []
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.asw.2024.100865
+  title: 'A large-scale corpus for assessing written argumentation: PERSUADE 2.0'
+  authors:
+  - S.A. Crossley
+  - Y. Tian
+  - P. Baffour
+  - A. Franklin
+  - M. Benner
+  - U. Boser
+  publisher: Assessing Writing
+  date: '2024-07-01'
+  link: https://doi.org/gt362r
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
+  buttons:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s11145-021-10221-x
+  title: 'Source inclusion in synthesis writing: an NLP approach to understanding
+    argumentation, sourcing, and essay quality'
+  authors:
+  - Scott Crossley
+  - Qian Wan
+  - Laura Allen
+  - Danielle McNamara
+  publisher: Reading and Writing
+  date: '2021-11-11'
+  link: https://doi.org/grc7s5
+  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+  - type: preprint
+    link: https://zenodo.org/records/7637941
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-36336-8_66
+  title: Using Large Language Models to Develop Readability Formulas for Educational
+    Settings
+  authors:
+  - Scott Crossley
+  - Joon Suh Choi
+  - Yanisa Scherber
+  - Mathis Lucka
+  publisher: Communications in Computer and Information Science
+  date: '2023-01-01'
+  link: https://doi.org/gsrrqf
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  buttons:
+  - type: journal
+    link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
+  - type: preprint
+    link: https://zenodo.org/record/8436731
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2601.16134
   title: LLM Prompt Evaluation for Educational Applications
   authors:
@@ -247,24 +486,6 @@
   buttons:
   - type: journal
     link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.asw.2024.100865
-  title: 'A large-scale corpus for assessing written argumentation: PERSUADE 2.0'
-  authors:
-  - S.A. Crossley
-  - Y. Tian
-  - P. Baffour
-  - A. Franklin
-  - M. Benner
-  - U. Boser
-  publisher: Assessing Writing
-  date: '2024-07-01'
-  link: https://doi.org/gt362r
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
-  buttons:
-  - type: journal
-    link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s40593-024-00418-w
@@ -546,25 +767,6 @@
     link: https://zenodo.org/record/8436698
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/978-3-031-36336-8_66
-  title: Using Large Language Models to Develop Readability Formulas for Educational
-    Settings
-  authors:
-  - Scott Crossley
-  - Joon Suh Choi
-  - Yanisa Scherber
-  - Mathis Lucka
-  publisher: Communications in Computer and Information Science
-  date: '2023-01-01'
-  link: https://doi.org/gsrrqf
-  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
-  buttons:
-  - type: journal
-    link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
-  - type: preprint
-    link: https://zenodo.org/record/8436731
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.18653/v1/2023.bea-1.21
   title: 'Analyzing Bias in Large Language Model Solutions for Assisted Writing Feedback
     Tools: Lessons from the Feedback Prize Competition Series'
@@ -772,25 +974,6 @@
   buttons:
   - type: journal
     link: https://www.sciencedirect.com/science/article/pii/S1075293522000630
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1007/s11145-021-10221-x
-  title: 'Source inclusion in synthesis writing: an NLP approach to understanding
-    argumentation, sourcing, and essay quality'
-  authors:
-  - Scott Crossley
-  - Qian Wan
-  - Laura Allen
-  - Danielle McNamara
-  publisher: Reading and Writing
-  date: '2021-11-11'
-  link: https://doi.org/grc7s5
-  image: https://media.springernature.com/w184/springer-static/cover/journal/11145.jpg
-  buttons:
-  - type: journal
-    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
-  - type: preprint
-    link: https://zenodo.org/records/7637941
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1177/02655322211060076
