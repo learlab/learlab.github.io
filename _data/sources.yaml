@@ -1,3 +1,166 @@
+- id: doi:10.1111/ijal.70129
+  image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
+  buttons:
+  - type: journal
+    link: https://onlinelibrary.wiley.com/doi/10.1111/ijal.70129
+
+- title: "Human-AI Collaboration in Participatory Design: Refining the Writing Analytics Tool"
+  authors:
+  - A. H. Potter
+  - Z. Serhan
+  - N. A. Patne
+  - P. Öncel
+  - I. Ahmed
+  - T. Arner
+  - R. Islam
+  - L. A. Allen
+  - R. D. Roscoe
+  - Scott Crossley
+  - Danielle S. McNamara
+  publisher: Journal (in press)
+  date: 'in press'
+  image: images/fallback.svg
+  buttons: []
+
+- id: doi:10.3758/s13428-025-02922-w
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.3758/s13428-025-02922-w
+
+- title: "Linking writing processes to argument elements: Insights from keystroke logging in L1 and L2 writers"
+  authors:
+  - Yu Tian
+  - Scott A. Crossley
+  publisher: Journal of Second Language Writing
+  date: '2026'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374325X00000-cov150h.gif
+  buttons:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1060374325001018
+
+- title: Advances in Automated Writing Evaluation
+  authors:
+  - Laura A. Allen
+  - Scott A. Crossley
+  publisher: Book Chapter (in press)
+  date: '2025'
+  image: images/fallback.svg
+  buttons: []
+
+- title: Keystroke Logging
+  authors:
+  - Yu Tian
+  - Scott A. Crossley
+  publisher: "In M. Kessler (Ed.), Digital and Internet-based Research Methods in Applied Linguistics. John Benjamins."
+  date: '2025'
+  image: https://www.jbe-platform.com/images/covers/18711375.png
+  buttons:
+  - type: journal
+    link: https://benjamins.com/catalog/rmal.15.15tia
+
+- title: "Advances in automating feedback for argumentative writing: Feedback Prize as a case study"
+  authors:
+  - Perpetual Baffour
+  - Scott A. Crossley
+  publisher: Book Chapter. Taylor & Francis.
+  date: '2024'
+  image: images/fallback.svg
+  buttons:
+  - type: journal
+    link: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003397618-19/advances-automating-feedback-argumentative-writing-perpetual-baffour-scott-crossley
+
+- title: Psychometric Analysis of LLM Differential Sensitivity to Word Predictability using Explanatory MFRM
+  authors:
+  - Wesley Morris
+  - Langdon Holmes
+  - Scott Crossley
+  publisher: Proceeding (in press)
+  date: 'in press'
+  image: images/fallback.svg
+  buttons: []
+
+- title: The effects of AI feedback on college students' reading and writing performance in an intelligent text framework
+  authors:
+  - S. Shen
+  - A. F. Wise
+  - Wesley Morris
+  - Langdon Holmes
+  - S. R. Hinze
+  - Scott Crossley
+  publisher: Proceeding (in press)
+  date: 'in press'
+  image: images/fallback.svg
+  buttons: []
+
+- title: The Use of Large Language Models in an Intelligent Text Framework
+  authors:
+  - Scott A. Crossley
+  - Joon Suh Choi
+  - Langdon Holmes
+  - Wesley Morris
+  - V. Rus
+  - M. Lintean
+  publisher: "In Design Recommendations for Intelligent Tutoring Systems: Generative AI. Book chapter (in press)."
+  date: 'in press'
+  image: images/fallback.svg
+  buttons: []
+
+- title: AI Enhanced Intelligent Texts and Learning Gains
+  authors:
+  - Scott A. Crossley
+  - Joon Suh Choi
+  - Wesley Morris
+  - Langdon Holmes
+  - David Joyner
+  publisher: Proceedings of Intelligent Textbooks Workshop 2025
+  date: '2025'
+  image: images/fallback.svg
+  buttons:
+  - type: proceeding
+    link: https://ceur-ws.org/Vol-4010/itb25_s1s2.pdf
+
+- title: LLM prompt design and evaluation for educational applications
+  authors:
+  - Langdon Holmes
+  - A. Coscia
+  - Scott A. Crossley
+  - Joon Suh Choi
+  - Wesley Morris
+  publisher: Proceeding (in press)
+  date: '2025'
+  image: images/fallback.svg
+  buttons: []
+
+- title: Automated Scoring of Constructed Response Items in Math Assessment Using Large Language Models
+  authors:
+  - Wesley Morris
+  - Langdon Holmes
+  - Joon Suh Choi
+  - Scott Crossley
+  publisher: Journal of Artificial Intelligence in Education
+  date: 'in press'
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
+  buttons: []
+
+- id: doi:10.1016/j.asw.2024.100865
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1075293524X00021-cov200h.gif
+  buttons:
+  - type: journal
+    link: https://www.sciencedirect.com/science/article/pii/S1075293524000588
+
+- id: doi:10.1007/s11145-021-10221-x
+  image: https://media.springernature.com/w144/springer-static/cover-hires/journal/11145?as=webp
+  buttons:
+  - type: journal
+    link: https://link.springer.com/article/10.1007/s11145-021-10221-x
+
+- id: doi:10.1007/978-3-031-36336-8_66
+  image: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-031-36336-8?as=webp
+  buttons:
+  - type: proceeding
+    link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
+    
 - id: doi:10.48550/arXiv.2601.16134
   image: images/fallback.svg
   buttons:
