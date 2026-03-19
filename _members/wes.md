@@ -13,4 +13,4 @@ links:
   github: tiedaar
 ---
 
-Wes is a PhD Student in LEAR Lab. He works on textless NLP and learning analytics with an emphasiss on peer review and automated essay scoring.
+Wes is a PhD Student in LEAR Lab. He works on textless NLP and learning analytics with an emphasis on peer review and automated essay scoring.

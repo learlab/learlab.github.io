@@ -52,8 +52,8 @@ Along with colleagues at the University of Oregon (Kris Kyle), Arizona State Uni
 
 {% include list.html component="card" data="tools" filters="group: featured|more" %}
 
-<!-- {% include section.html %} -->
+<!-- {% include section.html %}
 
-<!-- ## More
+## More
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %} -->
