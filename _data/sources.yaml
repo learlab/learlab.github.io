@@ -173,7 +173,6 @@
   buttons:
   - type: proceeding
     link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
-    
 - id: doi:10.48550/arXiv.2601.16134
   image: images/fallback.svg
   buttons:
