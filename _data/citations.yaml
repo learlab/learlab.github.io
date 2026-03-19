@@ -7,7 +7,7 @@
   - Kathryn S. McCarthy
   - Scott A. Crossley
   publisher: International Journal of Applied Linguistics
-  date: '2026-01-01'
+  date: '2026-02-10'
   link: https://doi.org/hbs2s6
   image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
   buttons:
@@ -261,7 +261,7 @@
   publisher: arXiv
   date: '2026-01-01'
   link: https://doi.org/hbms7v
-  image: images/fallback.svg
+  image: https://static.arxiv.org/static/browse/0.3.1/images/arxiv-logo-web.png
   buttons:
   - type: journal
     link: https://arxiv.org/abs/2601.16134
