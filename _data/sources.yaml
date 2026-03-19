@@ -1,6 +1,6 @@
 - id: doi:10.1111/ijal.70129
   image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
-  date: '2026-01-01'
+  date: '2026-02-10'
   buttons:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/10.1111/ijal.70129
@@ -173,8 +173,9 @@
   buttons:
   - type: proceeding
     link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
+
 - id: doi:10.48550/arXiv.2601.16134
-  image: images/fallback.svg
+  image: https://static.arxiv.org/static/browse/0.3.1/images/arxiv-logo-web.png
   buttons:
   - type: journal
     link: https://arxiv.org/abs/2601.16134
