@@ -5,24 +5,12 @@
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/10.1111/ijal.70129
 
-- title: "Human-AI Collaboration in Participatory Design: Refining the Writing Analytics Tool"
-  authors:
-  - A. H. Potter
-  - Z. Serhan
-  - N. A. Patne
-  - P. Öncel
-  - I. Ahmed
-  - T. Arner
-  - R. Islam
-  - L. A. Allen
-  - R. D. Roscoe
-  - Scott Crossley
-  - Danielle S. McNamara
-  publisher: Journal (in press)
-  date: '2026-01-01'
-  image: images/fallback.svg
-  link: https://learlab.org/research/
-  buttons: []
+- id: doi:10.5281/zenodo.18714068
+  date: '2026-02-26'
+  image: https://jedm.educationaldatamining.org/public/journals/1/cover_issue_47_en.png
+  buttons:
+  - type: journal
+    link: https://jedm.educationaldatamining.org/index.php/JEDM/article/view/1023
 
 - id: doi:10.3758/s13428-025-02922-w
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
@@ -37,7 +25,7 @@
   - Scott A. Crossley
   publisher: Journal of Second Language Writing
   date: '2026-01-01'
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374325X00000-cov150h.gif
+  image: https://ars.els-cdn.com/content/image/X10603743.jpg
   link: https://www.sciencedirect.com/science/article/pii/S1060374325001018
   buttons:
   - type: journal
@@ -175,6 +163,7 @@
     link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_66
 
 - id: doi:10.48550/arXiv.2601.16134
+  date: '2026-01-22'
   image: https://static.arxiv.org/static/browse/0.3.1/images/arxiv-logo-web.png
   buttons:
   - type: journal
