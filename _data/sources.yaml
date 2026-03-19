@@ -1,5 +1,6 @@
 - id: doi:10.1111/ijal.70129
   image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
+  date: '2026-01-01'
   buttons:
   - type: journal
     link: https://onlinelibrary.wiley.com/doi/10.1111/ijal.70129
@@ -18,12 +19,14 @@
   - Scott Crossley
   - Danielle S. McNamara
   publisher: Journal (in press)
-  date: 'in press'
+  date: '2026-01-01'
   image: images/fallback.svg
+  link: https://learlab.org/research/
   buttons: []
 
 - id: doi:10.3758/s13428-025-02922-w
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
+  date: '2026-01-01'
   buttons:
   - type: journal
     link: https://link.springer.com/article/10.3758/s13428-025-02922-w
@@ -33,8 +36,9 @@
   - Yu Tian
   - Scott A. Crossley
   publisher: Journal of Second Language Writing
-  date: '2026'
+  date: '2026-01-01'
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1060374325X00000-cov150h.gif
+  link: https://www.sciencedirect.com/science/article/pii/S1060374325001018
   buttons:
   - type: journal
     link: https://www.sciencedirect.com/science/article/pii/S1060374325001018
@@ -44,8 +48,9 @@
   - Laura A. Allen
   - Scott A. Crossley
   publisher: Book Chapter (in press)
-  date: '2025'
+  date: '2025-01-01'
   image: images/fallback.svg
+  link: https://learlab.org/research/
   buttons: []
 
 - title: Keystroke Logging
@@ -53,8 +58,9 @@
   - Yu Tian
   - Scott A. Crossley
   publisher: "In M. Kessler (Ed.), Digital and Internet-based Research Methods in Applied Linguistics. John Benjamins."
-  date: '2025'
+  date: '2025-01-01'
   image: https://www.jbe-platform.com/images/covers/18711375.png
+  link: https://benjamins.com/catalog/rmal.15.15tia
   buttons:
   - type: journal
     link: https://benjamins.com/catalog/rmal.15.15tia
@@ -64,8 +70,9 @@
   - Perpetual Baffour
   - Scott A. Crossley
   publisher: Book Chapter. Taylor & Francis.
-  date: '2024'
+  date: '2024-01-01'
   image: images/fallback.svg
+  link: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003397618-19/advances-automating-feedback-argumentative-writing-perpetual-baffour-scott-crossley
   buttons:
   - type: journal
     link: https://www.taylorfrancis.com/chapters/edit/10.4324/9781003397618-19/advances-automating-feedback-argumentative-writing-perpetual-baffour-scott-crossley
@@ -76,8 +83,9 @@
   - Langdon Holmes
   - Scott Crossley
   publisher: Proceeding (in press)
-  date: 'in press'
+  date: '2025-01-01'
   image: images/fallback.svg
+  link: https://learlab.org/research/
   buttons: []
 
 - title: The effects of AI feedback on college students' reading and writing performance in an intelligent text framework
@@ -89,8 +97,9 @@
   - S. R. Hinze
   - Scott Crossley
   publisher: Proceeding (in press)
-  date: 'in press'
+  date: '2025-01-01'
   image: images/fallback.svg
+  link: https://learlab.org/research/
   buttons: []
 
 - title: The Use of Large Language Models in an Intelligent Text Framework
@@ -102,8 +111,9 @@
   - V. Rus
   - M. Lintean
   publisher: "In Design Recommendations for Intelligent Tutoring Systems: Generative AI. Book chapter (in press)."
-  date: 'in press'
+  date: '2025-01-01'
   image: images/fallback.svg
+  link: https://learlab.org/research/
   buttons: []
 
 - title: AI Enhanced Intelligent Texts and Learning Gains
@@ -114,8 +124,9 @@
   - Langdon Holmes
   - David Joyner
   publisher: Proceedings of Intelligent Textbooks Workshop 2025
-  date: '2025'
+  date: '2025-01-01'
   image: images/fallback.svg
+  link: https://ceur-ws.org/Vol-4010/itb25_s1s2.pdf
   buttons:
   - type: proceeding
     link: https://ceur-ws.org/Vol-4010/itb25_s1s2.pdf
@@ -128,8 +139,9 @@
   - Joon Suh Choi
   - Wesley Morris
   publisher: Proceeding (in press)
-  date: '2025'
+  date: '2025-01-01'
   image: images/fallback.svg
+  link: https://learlab.org/research/
   buttons: []
 
 - title: Automated Scoring of Constructed Response Items in Math Assessment Using Large Language Models
@@ -139,8 +151,9 @@
   - Joon Suh Choi
   - Scott Crossley
   publisher: Journal of Artificial Intelligence in Education
-  date: 'in press'
+  date: '2025-01-01'
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
+  link: https://learlab.org/research/
   buttons: []
 
 - id: doi:10.1016/j.asw.2024.100865
