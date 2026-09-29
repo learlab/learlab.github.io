@@ -511,7 +511,7 @@
   - Joon Suh Choi
   - Scott Crossley
   publisher: International Journal of Artificial Intelligence in Education
-  date: '2024-07-18'
+  date: '2025-06-01'
   link: https://doi.org/g825qn
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   buttons:
@@ -658,7 +658,7 @@
   - Scott A. Crossley
   - Danielle S. McNamara
   publisher: International Journal of Artificial Intelligence in Education
-  date: '2023-12-20'
+  date: '2024-12-01'
   link: https://doi.org/gt363m
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   buttons:
@@ -679,7 +679,7 @@
   - Mihai Dascalu
   - Danielle McNamara
   publisher: International Journal of Artificial Intelligence in Education
-  date: '2024-03-28'
+  date: '2025-09-01'
   link: https://doi.org/gt363n
   image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   buttons:
@@ -2670,15 +2670,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: url:https://escholarship.org/uc/item/5fd5r301
-  title: "\u201CA fork is a food stabber\u201D: Linguistic creativity in English L1\
-    \ and L2 speakers"
-  authors:
-  - Stephen Skalicky
-  - Nancy Bell
-  - Mihai Dascalu
-  - Scott Crossley
-  publisher: Proceedings of the Annual Meeting of the Cognitive Science Society
-  date: '2022-01-01'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://escholarship.org/uc/item/5fd5r301
   image: https://cognitivesciencesociety.org/wp-content/uploads/2018/12/CogSciLogoForWeb-green.png
   buttons:
