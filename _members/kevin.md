@@ -3,6 +3,7 @@ name: Kevin Chen
 image: images/teamHeadshots/kevin.jpg
 description: Research Assistant
 role: undergrad
+group: alum
 links:
   email: kevin.l.chen@vanderbilt.edu
   github: kevinchenbo2
