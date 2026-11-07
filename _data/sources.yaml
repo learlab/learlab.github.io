@@ -1,3 +1,125 @@
+- title: "Validating LexTALE for Native English Speakers using Item Response Theory"
+  authors:
+  - Wesley Morris
+  - Yu Tian
+  - Langdon Holmes
+  - Joon Suh Choi
+  - Scott A. Crossley
+  publisher: "Studies in Language Assessment (in press)"
+  date: '2026-01-01'
+  image: images/fallback.svg
+  link: https://learlab.org/research/
+  buttons: []
+
+- id: doi:10.1016/j.asw.2026.101082
+  title: "Assessing the reliability and validity of large language models in automatic essay scoring"
+  authors:
+  - Scott A. Crossley
+  - Wesley Morris
+  - Langdon Holmes
+  publisher: "Assessing Writing, 69"
+  date: '2026-07-01'
+  image: images/fallback.svg
+  link: https://doi.org/10.1016/j.asw.2026.101082
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1016/j.asw.2026.101082
+
+- id: doi:10.1111/lang.70037
+  title: "Word Predictability as a Measure of Second Language Proficiency"
+  authors:
+  - Langdon Holmes
+  - Scott A. Crossley
+  - Wesley Morris
+  - Joon Suh Choi
+  publisher: "Language Learning (in press)"
+  date: '2026-07-09'
+  image: images/fallback.svg
+  link: https://doi.org/10.1111/lang.70037
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1111/lang.70037
+
+- id: doi:10.1016/j.asw.2026.101032
+  title: "Assessing Fairness in Finetuned Scoring Models with Demographically Restricted Training Data"
+  authors:
+  - Langdon Holmes
+  - Wesley Morris
+  - Scott A. Crossley
+  - Joon Suh Choi
+  publisher: "Assessing Writing, 68"
+  date: '2026-04-01'
+  image: images/fallback.svg
+  link: https://doi.org/10.1016/j.asw.2026.101032
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1016/j.asw.2026.101032
+
+- id: doi:10.1016/j.asw.2026.101108
+  title: "From words to components: Mapping linguistic features in source-based writing"
+  authors:
+  - A. H. Potter
+  - Scott A. Crossley
+  - P. Öncel
+  - L. A. Allen
+  - X. Xu
+  - R. Balyan
+  - T. Arner
+  - R. D. Roscoe
+  - D. S. McNamara
+  publisher: "Assessing Writing, 70"
+  date: '2026-10-01'
+  image: images/fallback.svg
+  link: https://doi.org/10.1016/j.asw.2026.101108
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1016/j.asw.2026.101108
+
+- title: "Automated Approaches for Scoring Math Misunderstandings in Student Self-Explanations"
+  authors:
+  - Scott A. Crossley
+  - B. Rittle-Johnson
+  - R. Adler
+  - L. Burleigh
+  - K. Durkin
+  - J. King
+  - M. Benner
+  publisher: "Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con). National Council on Measurement in Education (pp. 297–302)"
+  date: '2026-01-01'
+  image: images/fallback.svg
+  link: https://aclanthology.org/2026.aimecon-main.33/
+  buttons:
+  - type: proceeding
+    link: https://aclanthology.org/2026.aimecon-main.33.pdf
+
+- title: "Assessing the reliability and construct representation of LLM-based language proficiency scores"
+  authors:
+  - Langdon Holmes
+  - Joon Suh Choi
+  - Scott A. Crossley
+  - Wesley Morris
+  publisher: "Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con). National Council on Measurement in Education (pp. 534–542)"
+  date: '2026-01-01'
+  image: images/fallback.svg
+  link: https://aclanthology.org/2026.aimecon-main.60/
+  buttons:
+  - type: proceeding
+    link: https://aclanthology.org/2026.aimecon-main.60.pdf
+
+- title: "Source-text-conditioned cloze generation for discourse comprehension assessment in intelligent textbooks"
+  authors:
+  - Langdon Holmes
+  - Scott A. Crossley
+  - Wesley Morris
+  - S. Min
+  publisher: "Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con). National Council on Measurement in Education (pp. 525–533)"
+  date: '2026-01-01'
+  image: images/fallback.svg
+  link: https://aclanthology.org/2026.aimecon-main.59/
+  buttons:
+  - type: proceeding
+    link: https://aclanthology.org/2026.aimecon-main.59.pdf
+
 - id: doi:10.1111/ijal.70129
   image: https://onlinelibrary.wiley.com/cms/asset/e50959e5-d62f-4b93-b21b-719af23c758a/ijal.v31.3.cover.jpg
   date: '2026-02-10'
@@ -6,6 +128,20 @@
     link: https://onlinelibrary.wiley.com/doi/10.1111/ijal.70129
 
 - id: doi:10.5281/zenodo.18714068
+  title: "Human-AI Collaboration in Participatory Design: Refining the Writing Analytics Tool"
+  authors:
+  - A. H. Potter
+  - Z. Serhan
+  - N. A. Patne
+  - P. Öncel
+  - I. Ahmed
+  - T. Arner
+  - R. Islam
+  - L. A. Allen
+  - R. D. Roscoe
+  - Scott A. Crossley
+  - D. S. McNamara
+  publisher: Journal of Educational Data Mining
   date: '2026-02-26'
   image: https://jedm.educationaldatamining.org/public/journals/1/cover_issue_47_en.png
   buttons:
@@ -98,8 +234,8 @@
   - Wesley Morris
   - V. Rus
   - M. Lintean
-  publisher: "In Design Recommendations for Intelligent Tutoring Systems: Generative AI. Book chapter (in press)."
-  date: '2025-01-01'
+  publisher: "In Sinatra, A.M., Rus, V., Graesser, A.C., & Lawton, P.M. (Eds.). Design Recommendations for Intelligent Tutoring Systems: Volume 12 - Generative Artificial Intelligence. Orlando, FL: US Army Combat Capabilities Development Command - Soldier Center. ISBN 978-0-9977258-7-2."
+  date: '2026-01-01'
   image: images/fallback.svg
   link: https://learlab.org/research/
   buttons: []
