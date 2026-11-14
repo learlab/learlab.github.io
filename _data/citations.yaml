@@ -9,7 +9,6 @@
   - Scott A. Crossley
   publisher: Studies in Language Assessment (in press)
   date: '2026-01-01'
-  date_precision: year
   image: images/fallback.svg
   link: https://learlab.org/research/
   buttons: []
@@ -24,7 +23,6 @@
   - Langdon Holmes
   publisher: Assessing Writing, 69
   date: '2026-07-01'
-  date_precision: month
   link: https://doi.org/10.1016/j.asw.2026.101082
   image: images/fallback.svg
   buttons:
@@ -58,7 +56,6 @@
   - Joon Suh Choi
   publisher: Assessing Writing, 68
   date: '2026-04-01'
-  date_precision: month
   link: https://doi.org/10.1016/j.asw.2026.101032
   image: images/fallback.svg
   buttons:
@@ -80,7 +77,6 @@
   - D. S. McNamara
   publisher: Assessing Writing, 70
   date: '2026-10-01'
-  date_precision: month
   link: https://doi.org/10.1016/j.asw.2026.101108
   image: images/fallback.svg
   buttons:
@@ -101,7 +97,6 @@
     \ Conference (AIME-Con). National Council on Measurement in Education (pp. 297\u2013\
     302)"
   date: '2026-10-01'
-  date_precision: month
   image: images/fallback.svg
   link: https://aclanthology.org/2026.aimecon-main.33/
   buttons:
@@ -120,7 +115,6 @@
     \ Conference (AIME-Con). National Council on Measurement in Education (pp. 534\u2013\
     542)"
   date: '2026-10-01'
-  date_precision: month
   image: images/fallback.svg
   link: https://aclanthology.org/2026.aimecon-main.60/
   buttons:
@@ -139,7 +133,6 @@
     \ Conference (AIME-Con). National Council on Measurement in Education (pp. 525\u2013\
     533)"
   date: '2026-10-01'
-  date_precision: month
   image: images/fallback.svg
   link: https://aclanthology.org/2026.aimecon-main.59/
   buttons:
@@ -209,7 +202,6 @@
   - Scott A. Crossley
   publisher: Journal of Second Language Writing
   date: '2026-03-01'
-  date_precision: month
   image: https://ars.els-cdn.com/content/image/X10603743.jpg
   link: https://www.sciencedirect.com/science/article/pii/S1060374325001018
   buttons:
@@ -298,7 +290,6 @@
     Intelligence. Orlando, FL: US Army Combat Capabilities Development Command - Soldier
     Center. ISBN 978-0-9977258-7-2.'
   date: '2026-03-01'
-  date_precision: month
   image: images/fallback.svg
   link: https://learlab.org/research/
   buttons: []
