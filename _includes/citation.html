@@ -65,7 +65,12 @@
         </span>
         &nbsp;·&nbsp;
         <span class="citation-date">
-          {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
+          {%- assign date_format = "%d %b %Y" -%}
+          {%- case citation.date_precision -%}
+            {%- when "year" -%}{%- assign date_format = "%Y" -%}
+            {%- when "month" -%}{%- assign date_format = "%b %Y" -%}
+          {%- endcase -%}
+          {{- citation.date | default: "[no date info]" | date: date_format -}}
         </span>
         &nbsp;·&nbsp;
         <span class="citation-id">
